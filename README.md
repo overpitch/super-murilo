@@ -2,6 +2,17 @@
 
 A Mario-style platformer made for (and designed by) Murilo. It runs in a web browser, including Microsoft Edge on Xbox with controllers.
 
+## Play online
+
+**https://overpitch.github.io/super-murilo/**
+
+Works in Chrome, Edge and Safari, and in **Microsoft Edge on Xbox** with controllers. Every push to `main` republishes it automatically (GitHub Pages, from the `main` branch).
+
+### On Xbox
+1. Open the address above in Microsoft Edge.
+2. **Hold the Menu ☰ button** for about a second so the controller plays the game instead of moving the cursor.
+3. For the race, connect a second controller.
+
 ## Play it on this computer
 
 ```bash
