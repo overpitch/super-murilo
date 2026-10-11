@@ -643,7 +643,7 @@ window.WORDS = (
   "nicked nickname nicotine niece nieces nifty niger night nighter nightgown nightie nights nighttime " +
   "nil nine niner nines nineteen nineteenth nineties ninety ninny ninth nip nit nitrogen nitwit " +
   "nobility nobleman nobodies nobody nod nodded nodding node nodes noggin noise noises noisy nom " +
-  "nomadic nominal nomination nominations nominee nominees non none nonetheless nonexistent nonprofit " +
+  "nomadic nominal nomination nominations nominee nominees none nonetheless nonexistent nonprofit " +
   "nonsense noob noobie noobs noodle noodles noon nooo noose nope nor norm normal normally norms north " +
   "northern nose nosebleed nosed noses nosey nosing nostril nostrils nosy not notable notably notation " +
   "notch notches note notebooks noted notes nother nothing nothings notice noticed notices noticing " +
@@ -839,7 +839,7 @@ window.WORDS = (
   "sacred sacrifice sacrifices sad saddened sadder saddest saddle saddled sadist sadistic sadly sadness " +
   "safe safely safer safest safety sag saga said sail sailed sailors sails saint sainted saintly sake " +
   "sakes salad salads salami salaries salary sale sales salesman salesmen saline saliva salle salmon " +
-  "salmonella salon saloon salsa salt saltines salty salute salvage salvy same sampled san sanctions " +
+  "salmonella salon saloon salsa salt saltines salty salute salvage salvy same sampled sanctions " +
   "sanctity sanctum sand sandals sandbag sandbox sandstone sane sangria sanitation sank sap sapiens " +
   "sapphire sappy sarcasm sarcastic sardine sardines sarge sark sat satellite satellites satin satine " +
   "satire satirical satisfied satisfy satyr sauce saucer saucers sauces saucy sauerkraut sauna sausage " +

@@ -411,7 +411,9 @@
       : !answers.has(w) ? `Bonus word! +${p}`
       : `${w.length >= 7 ? "Awesome!" : w.length >= 5 ? "Nice!" : "Good!"} +${p}`);
     drawWord(); drawFound(); drawScore();
-    if (found.filter(f => answers.has(f)).length === answers.size) setTimeout(() => { document.getElementById("win").classList.add("show"); showSel(); }, 700);
+    const allFound = () => found.filter(f => answers.has(f)).length === answers.size;
+    // Check again after the pause, in case Reset or Restart was pressed in the meantime.
+    if (allFound()) setTimeout(() => { if (allFound()) { document.getElementById("win").classList.add("show"); showSel(); } }, 700);
   }
 
   document.getElementById("del").onclick = del;
