@@ -45,7 +45,7 @@ const ADVENTURE = [
     a.put(51, 12, 'E E');
     a.pipe(57, 4);
     a.put(62, 10, 'CCC');
-    a.put(66, 9, 'B?B');
+    a.put(60, 9, 'B?B');
     a.put(73, 9, 'BBBBBBBB'); a.put(74, 5, 'CCCCCC'); a.put(78, 8, 'E');
     a.put(82, 12, 'E E');
     a.put(94, 9, 'BBBG'); a.put(97, 5, '?');
@@ -100,7 +100,7 @@ const ADVENTURE = [
     a.put(54, 4, 'CCCC');
     a.ground(66, 80); a.pipe(72, 3);
     a.put(69, 12, 'E'); a.put(76, 12, 'E E');
-    a.put(68, 9, '?'); a.put(77, 8, '?BK');
+    a.put(68, 9, '?'); a.put(74, 8, '?BK');
     a.ground(85, 88); a.ground(93, 96); a.ground(101, 104);
     a.put(81, 10, 'CCCC'); a.put(89, 10, 'CCCC'); a.put(97, 10, 'CCCC');
     a.put(84, 3, 'CCCCCCCCCCCCCCCC');

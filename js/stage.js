@@ -134,7 +134,9 @@ class Stage {
     if (p.boost > 0) p.boost--;
 
     // running
-    const max = p.boost > 0 ? 10 : inp.run ? 6.5 : 4.5;
+    // walking is slower in the adventure than in the race (running speed is the same)
+    const walk = this.race ? 4.5 : 3.3;
+    const max = p.boost > 0 ? 10 : inp.run ? 6.5 : walk;
     const acc = p.onGround ? 0.35 : 0.25;
     const dir = (inp.right ? 1 : 0) - (inp.left ? 1 : 0);
     if (dir) {
