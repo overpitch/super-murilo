@@ -79,7 +79,7 @@
   .found { border: 1px solid var(--line); border-radius: 6px; padding: 16px 20px; min-height: 340px; }
   .found h2 { margin: 0 0 12px; font-size: 16px; font-weight: normal; }
   .found ul { list-style: none; margin: 0; padding: 0; columns: 3; column-gap: 24px; }
-  .found li { padding: 7px 0; border-bottom: 1px solid var(--line); text-transform: capitalize; break-inside: avoid; }
+  .found li { padding: var(--row, 7px) 0; border-bottom: 1px solid var(--line); text-transform: capitalize; break-inside: avoid; }
   .found li.pangram { font-weight: bold; }
 
   /* Message and typed word */
@@ -158,6 +158,14 @@
   }
 
   .title h1, .title span { white-space: nowrap; }
+  /* Wide screens (computer, TV): the whole game fits on one screen and is scaled
+     to fill it. The word list has a fixed space and packs words tighter as it fills. */
+  html.fit, html.fit body { overflow: hidden; }
+  html.fit .found { height: 400px; min-height: 0; overflow: hidden; }
+  html.fit #msg { margin-top: 16px; }
+  html.fit #pad-help { display: flex; visibility: hidden; }
+  html.fit body.pad #pad-help { visibility: visible; }
+
   @media (max-width: 520px) {
     header { padding: 12px 16px; }
     .title span { display: none; }
@@ -328,6 +336,7 @@
       `You have found ${n} of ${answers.size} words`;
     document.getElementById("list").innerHTML = [...found].sort()
       .map(w => `<li class="${isPangram(w) ? "pangram" : ""}">${w}</li>`).join("");
+    if (typeof fitList === "function") fitList();
   }
 
   function drawScore() {
@@ -516,9 +525,32 @@
   }
 
   // On a big screen (like a TV), make everything bigger so it fills the screen.
+  // (Phones keep their normal layout and can scroll.)
   function fitScreen() {
-    const z = Math.min(innerWidth / 1100, innerHeight / 720);
-    document.body.style.zoom = innerWidth > 760 && z > 1.1 ? z : "";
+    const wide = innerWidth > 760;
+    document.documentElement.classList.toggle("fit", wide);
+    document.body.style.zoom = "";
+    if (wide) {
+      const w = 1060;                    // the game's width (main area plus a little room)
+      const h = document.body.scrollHeight;
+      document.body.style.zoom = Math.min(innerWidth / w, innerHeight / h) * 0.98;
+    }
+    fitList();
+  }
+
+  // Shrink the found-words list (more columns, smaller text) until it fits in its box.
+  function fitList() {
+    const box = document.querySelector(".found"), list = document.getElementById("list");
+    list.style.columns = ""; list.style.fontSize = ""; list.style.setProperty("--row", "");
+    if (!document.documentElement.classList.contains("fit")) return;
+    const steps = [[3, 16, 7], [4, 15, 5], [4, 13, 4], [5, 12, 3], [5, 11, 2], [6, 10, 1]];
+    for (const [cols, size, pad] of steps) {
+      list.style.columns = cols;
+      list.style.fontSize = size + "px";
+      list.style.setProperty("--row", pad + "px");
+      const room = box.getBoundingClientRect().bottom - list.getBoundingClientRect().top;
+      if (list.getBoundingClientRect().height <= room - 8) break;
+    }
   }
   addEventListener("resize", fitScreen);
   fitScreen();

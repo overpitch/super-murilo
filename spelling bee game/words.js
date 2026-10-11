@@ -21,7 +21,7 @@ window.WORDS = (
   "aft after afterlife aftermath afternoon afterward again against age aged agencies agency agenda " +
   "agendas agent agents ages aggravate aggravated aggregate aggressive aggressor aging agitated ago " +
   "agonizing agony agrarian agree agreeable agreed agreeing agreement agrees ahead ahem aid aided " +
-  "aiding aids aim aimed aiming aimlessly aims air aircraft aired aires airfield airhead airing airlift " +
+  "aiding aim aimed aiming aimlessly aims air aircraft aired aires airfield airhead airing airlift " +
   "airport airports airs airstrip airtight airway airways aisle alarm alarmed alarming alarms alas " +
   "albeit album albums alcazar alcohol alcoholic alcoholics ale alert alerted algae algebra alias " +
   "aliases alibi alibis alien alienate alienated alienating align aligned alike alimony alive all " +
@@ -388,7 +388,7 @@ window.WORDS = (
   "glimmer glimpse glistening gloat gloating global globally globe globes gloom gloomy glorious gloss " +
   "glove gloves glow glowing glows glucose glue glued glutton gluttony gnawing gnome gnomes gnu goading " +
   "goal goals goatee gob gobble gobbles goblet goblins god godless gods godsend godson goes goggles " +
-  "going goiter gold golly gondola gone goner gonorrhea good gooder goodies goodness goods goodwill " +
+  "going goiter gold golly gondola gone goner good gooder goodies goodness goods goodwill " +
   "goody goofing goons gorge gorgeous gorillas gosh gospel gospels gossamer gossip gossiping got gotten " +
   "gouged gourmet govern governed governess governing governor governors gown gowns grab grabbed " +
   "grabbing grabs graces grad grade graded grader graders grades grading gradual gradually graduate " +
@@ -418,8 +418,8 @@ window.WORDS = (
   "heating heats heave heavenly heavens heavier heavily heaving heavy heckles hectares hectic heel " +
   "heels hefty heigh height heightened heights heinous heir heiress heirloom heirs hellhole hellish " +
   "helmets help helped helpers helpful helping helpless helps hem hematoma hemisphere hemorrhage " +
-  "hemorrhoid hen hence heparin hepatitis her herald herbal herbs here hereby heritage hernia hero " +
-  "heroes heroic heroics herpes hers herself hesitant hesitate hesitated hew hey hiatus hiccups hid " +
+  "hemorrhoid hen hence heparin her herald herbal herbs here hereby heritage hernia hero " +
+  "heroes heroic heroics hers herself hesitant hesitate hesitated hew hey hiatus hiccups hid " +
   "hide hideaway hideous hides hiding hierarchy high higher highest highlight highlighted highlighting " +
   "highlights highly highness highway highways hijack hike hiker hillbilly hills hilly him himself " +
   "hindsight hinge hinges hint hinting hints hip hippies hippy hips hire hired hires hiring his " +
@@ -502,7 +502,7 @@ window.WORDS = (
   "learning learns learnt lease leased leash least leave leaves leaving lecture lectured lecturer " +
   "lectures led ledge ledgers leeches leeds leering leery leeway left leftist leftover leg legal " +
   "legalities legally legends legged legit legitimate legs leisure lend lending length lengths lengthy " +
-  "leniency lenient lenses leotard leper leprosy lesion lesions lesser lesson lessons let letdown " +
+  "leniency lenient lenses leotard leper lesion lesions lesser lesson lessons let letdown " +
   "lethal lets lettuce leukemia level leveled levels leverage levitate liability liable liaison liar " +
   "liars libbets liberal liberals liberate liberties librarian libraries library libretto license " +
   "licensed licenses licensing licked licks lid lie lied liege lies lieutenant life lifeless lifelike " +
@@ -881,7 +881,7 @@ window.WORDS = (
   "swelling swept swerve swerved swill swim swimmers swimsuit swine swing swings swipe swiped swirl " +
   "swirling swish swiss switch switches swollen swoon swoop swoops swore sworn swung syllable syllables " +
   "syllabus symbol symbolism symbols symmetry sympathy symphony symposium symptom symptoms synod " +
-  "synonym synonymous synopsis syntax synthesis syphilis syringe syrup system systemic systems systolic " +
+  "synonym synonymous synopsis syntax synthesis syringe syrup system systemic systems systolic " +
   "tab tabby table tables tablet tablets tabloid tabs tack tacked tackle tackled tackles tacky tactic " +
   "tactical tactics tad taffeta tag tagged tagging tail tailed tailing tailor tails taint tainted take " +
   "taken taker takers takes takin taking tale talent talented talents tales talk talkative talked " +
