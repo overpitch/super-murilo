@@ -188,7 +188,7 @@ class Stage {
       const tx = Math.floor((p.x + p.w / 2) / T), ty = Math.floor((p.y + p.h + 1) / T);
       const under = this.tileAt(tx, ty);
       if (under === '^') {
-        p.vy = -19; p.onGround = false;
+        p.vy = -19; p.onGround = false; p.coyote = 0;   // no normal jump on top of the spring's launch
         this.bumps.push({ tx, ty, t: 10 });
         sfx.spring(); rumble(this.slot, 80, 0.3);
       } else if (under === '>') {

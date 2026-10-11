@@ -110,13 +110,30 @@ const KEYSETS = {
 };
 const NO_INPUT = { left: false, right: false, up: false, down: false, jump: false, run: false, jumpP: false, runP: false };
 
+/** Connected controllers, in order. Odd devices (headsets, remotes) are skipped when a real controller is there. */
 function padList() {
-  const ps = navigator.getGamepads ? [...navigator.getGamepads()] : [];
-  return ps.filter(p => p && p.connected);
+  const ps = (navigator.getGamepads ? [...navigator.getGamepads()] : []).filter(p => p && p.connected);
+  const real = ps.filter(p => p.mapping === 'standard');
+  return real.length ? real : ps;
 }
+// A stick or button only counts after it has been seen centered/released once,
+// so one that's stuck from the start can't drive the game (same fix as Evil One).
+const settled = new Map();
 function readPad(p) {
-  const b = n => !!(p.buttons[n] && (p.buttons[n].pressed || p.buttons[n].value > 0.5));
-  const ax = p.axes[0] || 0, ay = p.axes[1] || 0;
+  let s = settled.get(p.index);
+  if (!s) { s = { axes: [], buttons: [] }; settled.set(p.index, s); }
+  const b = n => {
+    const btn = p.buttons[n];
+    const down = !!(btn && (btn.pressed || btn.value > 0.5));
+    if (!down) s.buttons[n] = true;
+    return down && !!s.buttons[n];
+  };
+  const axis = i => {
+    const v = p.axes[i] || 0;
+    if (Math.abs(v) < 0.3) s.axes[i] = true;
+    return s.axes[i] ? v : 0;
+  };
+  const ax = axis(0), ay = axis(1);
   return {
     left: ax < -0.4 || b(14), right: ax > 0.4 || b(15),
     up: ay < -0.5 || b(12), down: ay > 0.5 || b(13),

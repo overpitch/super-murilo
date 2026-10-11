@@ -56,3 +56,35 @@ function botLevel(i) {
   while (st.state !== 'won' && f < 60 * 120 && !st.arenaLocked) { st.update(botInput(st, mem)); f++; }
   return { level: def.name, reachedEnd: st.state === 'won' || st.arenaLocked, time: fmtTime(f), hits, deathsAt };
 }
+
+/** Button-mashing test: random inputs for a long time on every level and track; reports crashes or broken numbers. */
+function fuzzAll(frames = 6000, seed = 1) {
+  const r = mulberry32(seed);
+  const problems = [];
+  const defs = [...ADVENTURE.map(d => [d, false]), ...RACE_TRACKS.map(d => [d, true])];
+  for (const [def, isRace] of defs) {
+    for (const heroKey of isRace ? ['murilo', 'maher'] : ['murilo']) {
+      for (const power of isRace ? [0] : [0, 1, 2, 3]) {
+        const st = new Stage(def, { race: isRace, hero: HEROES[heroKey], wallet: { score: 0, coins: 0, lives: 3 }, power, slot: 0 });
+        st.vw = 640;
+        let held = { left: false, right: true, jump: false, run: false }, prev = {};
+        try {
+          for (let f = 0; f < frames; f++) {
+            if (f % 8 === 0) held = { left: r() < 0.2, right: r() < 0.75, jump: r() < 0.35, run: r() < 0.5 };
+            const inp = { ...held, up: false, down: false, jumpP: held.jump && !prev.jump, runP: held.run && !prev.run };
+            prev = held;
+            st.update(inp);
+            const p = st.p;
+            if (![p.x, p.y, p.vx, p.vy].every(Number.isFinite)) { problems.push(`${def.name}/${heroKey}/p${power}: bad numbers at frame ${f}`); break; }
+            if (st.state === 'play' && (p.x < -1 || p.x > def.width * T)) { problems.push(`${def.name}: left the level at frame ${f} (x=${p.x})`); break; }
+            if (st.state === 'play' && st.solidAt(Math.floor((p.x + p.w / 2) / T), Math.floor((p.y + p.h / 2) / T)) && p.y > 0) {
+              problems.push(`${def.name}/${heroKey}/p${power}: stuck inside a block at frame ${f} (tile ${Math.floor((p.x + p.w / 2) / T)},${Math.floor((p.y + p.h / 2) / T)})`); break;
+            }
+            if (st.state === 'dead' || st.state === 'won') break;
+          }
+        } catch (e) { problems.push(`${def.name}/${heroKey}/p${power}: CRASH ${e.message}`); }
+      }
+    }
+  }
+  return problems;
+}

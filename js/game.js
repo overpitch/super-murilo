@@ -14,6 +14,7 @@ function saveBest(score) {
 const adv = {
   wallet: { score: 0, coins: 0, lives: 5 },
   power: 0, cleared: 0, node: 0, levelIdx: 0, stage: null,
+  started: false,       // an adventure is in progress (the title screen goes back to it)
   walk: null,            // { from, to, t } while Murilo walks on the map
 };
 const race = { track: 0, stages: [], wallets: [], order: [], endT: 0, goT: 0, results: null };
@@ -26,6 +27,7 @@ function update() {
   const twoP = scene === 'countdown' || scene === 'race';
   const I = pollInput(twoP);
   const g = I.any;
+  if (g.confirmP) initAudio();   // on Xbox a controller press may be the only way to unlock sound
   if (sceneT > 0) sceneT--;
 
   switch (scene) {
@@ -33,7 +35,7 @@ function update() {
       if (g.upP || g.downP) { menuSel = 1 - menuSel; sfx.select(); }
       if (g.confirmP) {
         initAudio(); sfx.select();
-        if (menuSel === 0) newAdventure(); else go('raceSelect');
+        if (menuSel === 0) { if (adv.started) go('map'); else newAdventure(); } else go('raceSelect');
       }
       break;
     }
@@ -48,7 +50,7 @@ function update() {
       break;
     case 'level': {
       if (g.pauseP) { paused = !paused; sfx.pause(); }
-      if (paused) { if (g.quitP) { adv.power = 0; go('map'); } break; }
+      if (paused) { if (g.quitP) { adv.power = adv.stage.p.power; go('map'); } break; }
       const s = adv.stage;
       s.vw = VW;
       s.update(I.p[0]);
@@ -60,7 +62,7 @@ function update() {
         adv.power = s.p.power;
         const first = adv.levelIdx >= adv.cleared;
         adv.cleared = Math.max(adv.cleared, adv.levelIdx + 1);
-        if (adv.levelIdx === ADVENTURE.length - 1) { saveBest(adv.wallet.score); go('ending', 120); }
+        if (adv.levelIdx === ADVENTURE.length - 1) { saveBest(adv.wallet.score); adv.started = false; go('ending', 120); }
         else {
           go('map');
           if (first) adv.walk = { from: adv.node, to: adv.node + 1, t: 0 };   // walk on to the next dot
@@ -115,6 +117,7 @@ function update() {
 function newAdventure() {
   adv.wallet = { score: 0, coins: 0, lives: 5 };
   adv.power = 0; adv.cleared = 0; adv.node = 0; adv.walk = null;
+  adv.started = true;
   go('map');
 }
 
@@ -202,7 +205,7 @@ function drawTitle() {
   drawHero(HEROES.murilo, VW / 2 - 70, 208 + bob, 22, 28, 1, 'stand', 0);
   drawHero(HEROES.maher, VW / 2 + 48, 204 - bob, 22, 32, -1, 'stand', 0);
 
-  const opts = ['1 PLAYER ADVENTURE', '2 PLAYER RACE'];
+  const opts = [adv.started ? 'CONTINUE ADVENTURE' : '1 PLAYER ADVENTURE', '2 PLAYER RACE'];
   opts.forEach((o, i) => {
     const y = 270 + i * 34, sel = i === menuSel;
     if (sel) R('rgba(0,0,0,0.45)', VW / 2 - 190, y - 8, 380, 30);
