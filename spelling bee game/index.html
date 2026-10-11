@@ -81,6 +81,7 @@
   .found ul { list-style: none; margin: 0; padding: 0; columns: 3; column-gap: 24px; }
   .found li { padding: var(--row, 7px) 0; border-bottom: 1px solid var(--line); text-transform: capitalize; break-inside: avoid; }
   .found li.pangram { font-weight: bold; }
+  .found li.bonus { color: #9a7d00; font-style: italic; }
 
   /* Message and typed word */
   #msg { height: 34px; margin-top: 40px; display: flex; align-items: center; }
@@ -169,8 +170,9 @@
   @media (max-width: 520px) {
     header { padding: 12px 16px; }
     .title span { display: none; }
-    .title h1 { font-size: 24px; }
-    .top-buttons button { padding: 9px 14px; }
+    .title h1 { font-size: 22px; }
+    .top-buttons { gap: 6px; }
+    .top-buttons button { padding: 8px 10px; font-size: 13px; }
   }
   @media (max-width: 760px) {
     main { flex-direction: column; gap: 8px; padding: 12px 16px; }
@@ -193,6 +195,7 @@
     <span>for Murilo</span>
   </div>
   <div class="top-buttons">
+    <button id="shuffle-top" title="Mix up the letters">Shuffle</button>
     <button id="reset" title="Clear your words, keep the same letters">Reset</button>
     <button id="restart" title="New letters">Restart</button>
   </div>
@@ -250,6 +253,7 @@
 </div>
 
 <script src="words.js"></script>
+<script src="bonus.js"></script>
 <script>
 (() => {
   const MIN_LEN = 3;
@@ -266,6 +270,8 @@
   // Words with exactly 7 different letters can become the puzzle's pangram.
   const pangramWords = dict.filter(d => bitCount(d.m) === 7);
   const VOWEL_MASK = mask("aeiou");
+  // Other real words are accepted as bonus words (puzzles are never built from them).
+  const BONUS = new Set(window.BONUS_WORDS || []);
 
   let letters, center, answers, found, score, total, typed = "";
   const recent = [];
@@ -287,6 +293,7 @@
       total = list.reduce((s, w) => s + points(w), 0);
       drawHive();
       reset();
+      say("New letters!");
       return;
     }
   }
@@ -295,7 +302,7 @@
   function reset() {
     found = []; score = 0; typed = ""; clearSoon = false;
     drawWord(); drawFound(); drawScore();
-    document.getElementById("msg").innerHTML = "";
+    say("Words cleared!");
     document.getElementById("win").classList.remove("show");
   }
 
@@ -331,11 +338,11 @@
   }
 
   function drawFound() {
-    const n = found.length;
+    const n = found.filter(w => answers.has(w)).length, bonus = found.length - n;
     document.getElementById("count").textContent =
-      `You have found ${n} of ${answers.size} words`;
+      `You have found ${n} of ${answers.size} words` + (bonus ? ` + ${bonus} bonus` : "");
     document.getElementById("list").innerHTML = [...found].sort()
-      .map(w => `<li class="${isPangram(w) ? "pangram" : ""}">${w}</li>`).join("");
+      .map(w => `<li class="${isPangram(w) ? "pangram" : ""} ${answers.has(w) ? "" : "bonus"}">${w}</li>`).join("");
     if (typeof fitList === "function") fitList();
   }
 
@@ -387,7 +394,7 @@
     else if (![...w].every(ch => ch === center || letters.includes(ch))) problem = "Bad letters";
     else if (!w.includes(center)) problem = "Missing center letter";
     else if (found.includes(w)) problem = "Already found";
-    else if (!answers.has(w)) problem = "Not in word list";
+    else if (!answers.has(w) && !BONUS.has(w)) problem = "Not in word list";
 
     if (problem) {
       say(problem, true); shake();
@@ -400,14 +407,17 @@
     const p = points(w);
     score += p;
     typed = "";
-    say(isPangram(w) ? `Pangram! +${p}` : `${w.length >= 7 ? "Awesome!" : w.length >= 5 ? "Nice!" : "Good!"} +${p}`);
+    say(isPangram(w) ? `Pangram! +${p}`
+      : !answers.has(w) ? `Bonus word! +${p}`
+      : `${w.length >= 7 ? "Awesome!" : w.length >= 5 ? "Nice!" : "Good!"} +${p}`);
     drawWord(); drawFound(); drawScore();
-    if (found.length === answers.size) setTimeout(() => { document.getElementById("win").classList.add("show"); showSel(); }, 700);
+    if (found.filter(f => answers.has(f)).length === answers.size) setTimeout(() => { document.getElementById("win").classList.add("show"); showSel(); }, 700);
   }
 
   document.getElementById("del").onclick = del;
   document.getElementById("enter").onclick = enter;
   document.getElementById("shuffle").onclick = shuffle;
+  document.getElementById("shuffle-top").onclick = shuffle;
   document.getElementById("restart").onclick = newPuzzle;
   document.getElementById("reset").onclick = reset;
   document.getElementById("again").onclick = newPuzzle;
@@ -447,12 +457,26 @@
     sel.classList.add("sel");
     [...document.querySelectorAll("#hive button")].forEach((b, i) => b.dataset.slot = i);
   }
+  // Moves inside the honeycomb. Cells: 0 middle, 1 top, 2 top-right, 3 bottom-right,
+  // 4 bottom, 5 bottom-left, 6 top-left. Pushing toward the middle always lands on it.
+  // A missing move leaves the honeycomb for the nearest button that way.
+  const HIVE_MOVES = {
+    up:    { 0: 1, 2: 1, 3: 2, 4: 0, 5: 6, 6: 1 },
+    down:  { 0: 4, 1: 0, 2: 3, 6: 5 },
+    left:  { 0: 6, 1: 6, 2: 0, 3: 0, 4: 5 },
+    right: { 0: 2, 1: 2, 6: 0, 5: 0, 4: 3 },
+  };
   // Pick the closest button in the direction pushed.
   function move(dx, dy) {
+    const cells = [...document.querySelectorAll("#hive button")];
+    const slot = cells.indexOf(sel);
+    const dir = dy < 0 ? "up" : dy > 0 ? "down" : dx < 0 ? "left" : "right";
+    if (slot >= 0 && HIVE_MOVES[dir][slot] != null) { sel = cells[HIVE_MOVES[dir][slot]]; showSel(); return; }
     const [x, y] = centerOf(sel);
     let best = null, bestScore = Infinity;
     for (const el of targets()) {
       if (el === sel) continue;
+      if (slot >= 0 && cells.includes(el)) continue;   // leaving the honeycomb
       const [ex, ey] = centerOf(el);
       const along = (ex - x) * dx + (ey - y) * dy;      // distance in the pushed direction
       const side = Math.abs((ex - x) * dy - (ey - y) * dx); // distance off to the side
@@ -470,7 +494,7 @@
     if (!ready[name]) return false;
     const now = performance.now();
     if (held[name] == null) { held[name] = now; held[name + "@"] = now; return true; }
-    if (repeat && now - held[name] > 400 && now - held[name + "@"] > 140) { held[name + "@"] = now; return true; }
+    if (repeat && now - held[name] > 650 && now - held[name + "@"] > 320) { held[name + "@"] = now; return true; }
     return false;
   }
   function padLoop() {
@@ -480,10 +504,10 @@
       const ax = p.axes[0] || 0, ay = p.axes[1] || 0;
       const k = p.index + ":";
       const acts = [
-        ["up",    btn(12) || ay < -0.5, true,  () => move(0, -1)],
-        ["down",  btn(13) || ay > 0.5,  true,  () => move(0, 1)],
-        ["left",  btn(14) || ax < -0.5, true,  () => move(-1, 0)],
-        ["right", btn(15) || ax > 0.5,  true,  () => move(1, 0)],
+        ["up",    btn(12) || ay < -0.6, true,  () => move(0, -1)],
+        ["down",  btn(13) || ay > 0.6,  true,  () => move(0, 1)],
+        ["left",  btn(14) || ax < -0.6, true,  () => move(-1, 0)],
+        ["right", btn(15) || ax > 0.6,  true,  () => move(1, 0)],
         ["a",     btn(0), false, () => sel.click()],
         ["b",     btn(1), true,  del],
         ["x",     btn(2), false, shuffle],
