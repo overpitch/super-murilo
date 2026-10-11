@@ -394,3 +394,17 @@ if (IS_XBOX) {
   for (const type of ['pointerdown', 'keydown']) addEventListener(type, guard);
   addEventListener('popstate', () => { guarded = false; guard(); });
 }
+
+// ---------------------------------------------------------------- difficulty
+const DIFFICULTIES = [
+  { name: 'EASY',   color: '#4ade80', lives: 9, enemySpeed: 0.7, bossHp: 8,  bossSpeed: 0.8, hurtInv: 180, spillShare: 0.5 },
+  { name: 'NORMAL', color: '#facc15', lives: 5, enemySpeed: 1,   bossHp: 12, bossSpeed: 1,   hurtInv: 120, spillShare: 1 },
+  { name: 'HARD',   color: '#f87171', lives: 3, enemySpeed: 1.4, bossHp: 16, bossSpeed: 1.25, hurtInv: 90, spillShare: 1 },
+];
+let difficulty = 1;
+try { const d = +localStorage.getItem('superMuriloDifficulty'); if (d >= 0 && d <= 2 && localStorage.getItem('superMuriloDifficulty') !== null) difficulty = d; } catch (e) {}
+function setDifficulty(d) {
+  difficulty = (d + DIFFICULTIES.length) % DIFFICULTIES.length;
+  try { localStorage.setItem('superMuriloDifficulty', String(difficulty)); } catch (e) {}
+}
+function diff() { return DIFFICULTIES[difficulty]; }

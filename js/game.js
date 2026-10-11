@@ -32,8 +32,11 @@ function update() {
 
   switch (scene) {
     case 'title': {
-      if (g.upP || g.downP) { menuSel = 1 - menuSel; sfx.select(); }
-      if (g.confirmP) {
+      if (g.upP) { menuSel = (menuSel + 2) % 3; sfx.select(); }
+      if (g.downP) { menuSel = (menuSel + 1) % 3; sfx.select(); }
+      if (menuSel === 2 && (g.leftP || g.rightP || g.confirmP)) {
+        setDifficulty(difficulty + (g.leftP ? -1 : 1)); sfx.select();
+      } else if (g.confirmP) {
         initAudio(); sfx.select();
         if (menuSel === 0) { if (adv.started) go('map'); else newAdventure(); } else go('raceSelect');
       }
@@ -71,7 +74,7 @@ function update() {
       break;
     }
     case 'gameover':
-      if (sceneT <= 0 && g.confirmP) { adv.wallet.lives = 5; adv.wallet.coins = 0; go('map'); }
+      if (sceneT <= 0 && g.confirmP) { adv.wallet.lives = diff().lives; adv.wallet.coins = 0; go('map'); }
       break;
     case 'ending':
       if (sceneT <= 0 && g.confirmP) go('title');
@@ -115,7 +118,7 @@ function update() {
 
 // ---------------------------------------------------------------- adventure
 function newAdventure() {
-  adv.wallet = { score: 0, coins: 0, lives: 5 };
+  adv.wallet = { score: 0, coins: 0, lives: diff().lives };
   adv.power = 0; adv.cleared = 0; adv.node = 0; adv.walk = null;
   adv.started = true;
   go('map');
@@ -207,14 +210,19 @@ function drawTitle() {
 
   const opts = [adv.started ? 'CONTINUE ADVENTURE' : '1 PLAYER ADVENTURE', '2 PLAYER RACE'];
   opts.forEach((o, i) => {
-    const y = 270 + i * 34, sel = i === menuSel;
-    if (sel) R('rgba(0,0,0,0.45)', VW / 2 - 190, y - 8, 380, 30);
+    const y = 262 + i * 32, sel = i === menuSel;
+    if (sel) R('rgba(0,0,0,0.45)', VW / 2 - 190, y - 8, 380, 28);
     text((sel ? '> ' : '  ') + o, VW / 2, y, 14, sel ? '#ffd700' : '#fff');
   });
-  if (blink()) text('PRESS A OR ENTER', VW / 2, 352, 10, '#fff');
-  if (IS_XBOX) text('XBOX: HOLD THE MENU BUTTON TO USE THE CONTROLLER', VW / 2, 380, 8, '#aef');
-  else text('F = FULL SCREEN', VW / 2, 380, 8, '#ccc');
-  if (best) text('BEST ADVENTURE SCORE ' + best, VW / 2, 404, 8, '#aaf');
+  const d = diff(), dSel = menuSel === 2, dy = 326;
+  if (dSel) R('rgba(0,0,0,0.45)', VW / 2 - 190, dy - 8, 380, 28);
+  text((dSel ? '> ' : '  ') + 'DIFFICULTY:', VW / 2 - 40, dy + 2, 11, dSel ? '#ffd700' : '#fff', 'right');
+  text((dSel ? '< ' : '') + d.name + (dSel ? ' >' : ''), VW / 2 + 60, dy + 1, 12, d.color);
+  if (dSel) text('LEFT / RIGHT TO CHANGE', VW / 2, 362, 8, '#ddd');
+  else if (blink()) text('PRESS A OR ENTER', VW / 2, 362, 10, '#fff');
+  if (IS_XBOX) text('XBOX: HOLD THE MENU BUTTON TO USE THE CONTROLLER', VW / 2, 386, 8, '#aef');
+  else text('F = FULL SCREEN', VW / 2, 386, 8, '#ccc');
+  if (best) text('BEST ADVENTURE SCORE ' + best, VW / 2, 406, 8, '#aaf');
   text('A GAME BY MURILO', VW / 2, VH - 28, 10, '#fff');
 }
 
@@ -316,7 +324,7 @@ function drawAdvHUD() {
     text('GOOBER KING', VW / 2, 70, 10, '#fff');
     const bw = 200;
     R('#000', VW / 2 - bw / 2 - 2, 86, bw + 4, 12);
-    R('#e11d48', VW / 2 - bw / 2, 88, bw * Math.max(0, B.hp) / 12, 8);
+    R('#e11d48', VW / 2 - bw / 2, 88, bw * Math.max(0, B.hp) / B.maxHp, 8);
   }
 }
 
@@ -324,7 +332,7 @@ function drawGameOver() {
   R('#000', 0, 0, VW, VH);
   text('GAME OVER', VW / 2, VH / 2 - 50, 26, '#ff4d4d');
   text('SCORE ' + adv.wallet.score, VW / 2, VH / 2, 14, '#fff');
-  if (sceneT <= 0 && blink()) text('PRESS A: TRY AGAIN WITH 5 LIVES', VW / 2, VH / 2 + 50, 10, '#ffd700');
+  if (sceneT <= 0 && blink()) text(`PRESS A: TRY AGAIN WITH ${diff().lives} LIVES`, VW / 2, VH / 2 + 50, 10, '#ffd700');
 }
 
 function drawEnding() {
@@ -368,6 +376,7 @@ function drawRaceSelect() {
   const n = padList().length;
   text(n >= 2 ? '2 CONTROLLERS READY!' : `${n} CONTROLLER${n === 1 ? '' : 'S'} CONNECTED`, VW / 2, 352, 10, n >= 2 ? '#4ade80' : '#facc15');
   text('MOST POINTS WINS: FINISH FIRST + FAST TIME + COINS', VW / 2, 380, 8, '#fff');
+  text('DIFFICULTY: ' + diff().name + '  (CHANGE IT ON THE TITLE SCREEN)', VW / 2, 66, 8, diff().color);
   if (blink()) text('PRESS A TO RACE    B: BACK', VW / 2, 410, 10, '#ffd700');
 }
 

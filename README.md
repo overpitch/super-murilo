@@ -41,6 +41,17 @@ Then open http://localhost:8123. (Opening `index.html` straight from Finder won'
 - **Each player's clock** starts at 0:00 when the race starts and stops when *that* player finishes. There's no time limit.
 - **Points:** 5000 for finishing first, a fast-time bonus of `(150 − seconds) × 50`, and 100 per coin. Most points wins.
 
+### Difficulty
+Pick it on the title screen (select **DIFFICULTY**, then press left/right). The game remembers it. In the race, both players use the same difficulty.
+
+| | Easy | Normal | Hard |
+|---|---|---|---|
+| Lives to start | 9 | 5 | 3 |
+| Goobers | slower | normal | faster |
+| Goober King | 2 stomps, slower | 3 stomps | 4 stomps, faster, spits more |
+| Blinking (safe) time after a hit | longer | normal | shorter |
+| Race: getting hit | lose half your coins | lose all | lose all |
+
 ## Controls
 
 | | Xbox controller | Keyboard (1 player) | Keyboard (race P1 / P2) |

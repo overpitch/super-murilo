@@ -7,8 +7,8 @@
 const SOLID = new Set(['#', 'B', '?', 'U', 'S', 'P', 'Q', 'G', 'K', '^', '>']);
 const BIG_H = 50;
 
-function makeEnemy(tx, ty) {
-  return { x: tx * T + 2, y: (ty + 1) * T - 26, w: 28, h: 26, vx: -1.1, vy: 0,
+function makeEnemy(tx, ty, speed = 1.1) {
+  return { x: tx * T + 2, y: (ty + 1) * T - 26, w: 28, h: 26, vx: -speed, vy: 0,
            active: false, squish: 0, flip: false, dead: false };
 }
 const enemyAlive = e => e.active && !e.dead && !e.flip && !e.squish;
@@ -22,9 +22,11 @@ class Stage {
     this.hero = opts.hero;
     this.wallet = opts.wallet;
     this.theme = THEMES[def.theme];
+    this.diff = diff();                        // the difficulty when this level started
+    this.espeed = 1.1 * this.diff.enemySpeed;  // how fast Goobers walk
     this.width = def.width;
     this.grid = def.g.map(r => r.slice());
-    this.enemies = def.enemyStarts.map(s => makeEnemy(s.x, s.y));
+    this.enemies = def.enemyStarts.map(s => makeEnemy(s.x, s.y, this.espeed));
     this.items = []; this.fireballs = []; this.particles = []; this.bumps = []; this.spills = [];
     this.cam = 0; this.vw = VW; this.flagY = 2.5 * T; this.shake = 0;
     this.state = 'play';   // play → dying → dead   |   play → clear/bossdown → won
@@ -219,7 +221,7 @@ class Stage {
     if (bd && !this.arenaLocked && p.x > (bd.arenaX + 1) * T) {
       this.arenaLocked = true;
       for (let y = 1; y < 13; y++) this.grid[y][bd.arenaX] = 'S';
-      this.boss = { x: bd.x * T, y: 13 * T - 68, w: 76, h: 68, vx: -1.5, vy: 0, hp: 12, inv: 0,
+      this.boss = { x: bd.x * T, y: 13 * T - 68, w: 76, h: 68, vx: -1.5, vy: 0, hp: this.diff.bossHp, maxHp: this.diff.bossHp, inv: 0,
                     jumpT: 90, spitT: 160, dead: false, onGround: true, face: -1 };
       this.shake = 20; sfx.thud(); rumble(this.slot, 300, 0.7);
     }
@@ -273,19 +275,20 @@ class Stage {
     rumble(this.slot, 250, 0.8);
     if (this.race) {
       // Like Sonic's rings: your coins fly out and you can grab some back.
-      const n = Math.min(this.wallet.coins, 20);
+      const lose = Math.ceil(this.wallet.coins * this.diff.spillShare);   // Easy: only half your coins fly out
+      const n = Math.min(lose, 20);
       if (n > 0) {
         for (let i = 0; i < n; i++) {
           const a = Math.PI * (0.12 + 0.76 * i / Math.max(1, n - 1));
           this.spills.push({ x: p.x + p.w / 2, y: p.y + 8, vx: Math.cos(a) * (2.5 + (i % 3)), vy: -Math.sin(a) * (6 + (i % 2) * 2),
                              life: 240, delay: 30 });
         }
-        this.wallet.coins = 0;
+        this.wallet.coins -= lose;
         sfx.spill();
       } else sfx.hurt();
-      p.vx = -p.face * 4; p.vy = -6; p.inv = 100; p.stun = 20; p.boost = 0;
+      p.vx = -p.face * 4; p.vy = -6; p.inv = Math.round(this.diff.hurtInv * 0.85); p.stun = 20; p.boost = 0;
     } else if (p.power > 0) {
-      this.setPower(0); p.inv = 120; sfx.shrink();
+      this.setPower(0); p.inv = this.diff.hurtInv; sfx.shrink();
     } else {
       this.die();
     }
@@ -343,7 +346,7 @@ class Stage {
       }
       const dir = Math.sign(e.vx) || -1;
       e.vy = Math.min(e.vy + 0.6, 14);
-      if (this.moveEntity(e)) e.vx = -dir * 1.1;
+      if (this.moveEntity(e)) e.vx = -dir * this.espeed;
       if (e.y > VH + 50) { e.dead = true; continue; }
 
       if (this.state === 'play' && overlap(p, e)) {
@@ -364,7 +367,7 @@ class Stage {
       const a = live[i], b = live[j];
       if (overlap(a, b)) {
         const left = a.x < b.x ? a : b, right = left === a ? b : a;
-        left.vx = -Math.abs(left.vx || 1.1); right.vx = Math.abs(right.vx || 1.1);
+        left.vx = -Math.abs(left.vx || this.espeed); right.vx = Math.abs(right.vx || this.espeed);
       }
     }
     if (this.enemies.length > 60) this.enemies = this.enemies.filter(e => !e.dead);
@@ -376,8 +379,9 @@ class Stage {
     if (!B) return;
     if (B.dead) { B.vy += 0.4; B.y += B.vy; return; }
     if (B.inv > 0) B.inv--;
-    const rage = (12 - B.hp) / 12;           // he gets faster as he gets hurt
-    const speed = 1.5 + rage * 1.5;
+    const rage = (B.maxHp - B.hp) / B.maxHp;  // he gets faster as he gets hurt
+    const bs = this.diff.bossSpeed;
+    const speed = (1.5 + rage * 1.5) * bs;
     const wasAir = !B.onGround;
     const dir = Math.sign(B.vx) || -1;
     B.vy = Math.min(B.vy + 0.6, 14);
@@ -389,13 +393,13 @@ class Stage {
     if (B.vx) B.face = B.vx < 0 ? -1 : 1;
     if (B.onGround && --B.jumpT <= 0) {
       B.vy = -13;
-      B.vx = (Math.sign(p.x - B.x) || -1) * (2.5 + rage * 1.5);
-      B.jumpT = 120 - rage * 50;
+      B.vx = (Math.sign(p.x - B.x) || -1) * (2.5 + rage * 1.5) * bs;
+      B.jumpT = (120 - rage * 50) / bs;
     }
     if (--B.spitT <= 0) {
-      B.spitT = 200 - rage * 80;
+      B.spitT = (200 - rage * 80) / bs;
       if (this.enemies.filter(enemyAlive).length < 4) {
-        this.enemies.push({ x: B.x + B.w / 2 - 14, y: B.y + 10, w: 28, h: 26, vx: B.face * 1.5, vy: -5,
+        this.enemies.push({ x: B.x + B.w / 2 - 14, y: B.y + 10, w: 28, h: 26, vx: B.face * this.espeed * 1.35, vy: -5,
                             active: true, squish: 0, flip: false, dead: false });
         sfx.spit();
       }
