@@ -22,7 +22,7 @@ A second game in the `spelling bee game` folder: **https://overpitch.github.io/s
 - **Shuffle** mixes up the letters. **Reset** clears your words and keeps the letters. **Restart** gives new letters. You can play as many puzzles as you like.
 - **Xbox controller:** d-pad or left stick moves the highlight, **A** presses it, **B** deletes, **X** shuffles, **Y** enters the word, **View ⧉** resets, **Menu ☰** gives new letters. Hold **Menu ☰** for a second first, like in Super Murilo.
 - Keyboard: type letters, **Enter** to submit, **Backspace** to delete, **Space** to shuffle.
-- The words puzzles are built from (common words, slang, animals, food and sports) are in `spelling bee game/words.js`. Other real words count as **bonus words** (`spelling bee game/bonus.js`): they score points but aren't needed to finish.
+- The words puzzles are built from (common words, slang, animals, food, sports and colors) are in `spelling bee game/words.js`. Other real words count as **bonus words** (`spelling bee game/bonus.js`): they score points but aren't needed to finish.
 
 ## Play it on this computer
 

@@ -90,76 +90,75 @@ window.BONUS_WORDS = (
   "alveolarly alveolars alveoli alveolus alway amain amalgam amalgamate amalgamates amalgamating " +
   "amalgams amanuenses amanuensis amaranth amaranths amaretto amarettos amaryllis amass amasser amasses " +
   "amassing amateur amateurs amatory amazedly amazement amazements amazer amazers amazon amazonian " +
-  "amazons ambassadress ambassadresses amber ambers ambit amble ambled ambler amblers ambles ambling " +
-  "ambrose ambrosia ambrosias ambulant ambulate ambushes amenably amend amender amending amened amener " +
-  "amenest amening amenity amenorrhea amens amerce amerced amercement amerces americium amethyst " +
-  "amethysts amiability amiable amiabler amiably amicably amid amide amides amids amidship amidships " +
-  "amigo amigos amine amines amities amity ammeter ammeters ammonia ammoniac ammonias ammonium ammos " +
-  "amnesiac amnesiacs amnesias amnesic amnesics amnesties amnion amnions amniotic amoeba amoebae " +
-  "amoebas amoebic amoeboid amok amoks amorally amour amours amp amperage amperages ampere amperes " +
-  "amphibian amphora amphorae ampicillin amping ampleness ampler amplest amplify amply amps ampules " +
-  "amputate amputated amputates amputee amputees ams amt amulets amusements amuser amusers amygdala " +
-  "amyl amylase amylases amyloid anabolic anaerobe anaerobes anaglyph anagram anagrammed anagramming " +
-  "anagrams anal analgesia analgesias anally analogical analogizing analogs analysand analysands " +
-  "analytically analyticity analyzable analyzer analyzes anapest anapests anaphora anarchic anarchical " +
-  "anarchy anastomoses anastomosis anathema anathemas anatomic anatomist anatomists ancestress " +
-  "ancestresses anchorman anchors anchovy ancienter ancientest ancientness ancientnesses ancients " +
-  "ancillary andante andantes anded anders anding andiron andirons androgen androgyny androids ands " +
-  "anechoic anemias anemics anemometer anemone anemones anent aneroid anesthesias anesthetist " +
-  "anesthetists anew angel angeled angelic angelica angelical angeling angels angering angers anginas " +
-  "angle angled angler anglers anglicizing anglings angora angoras angrily angriness angsts anguishing " +
-  "angularly aniline anilines anilingus animal animally animalness animate animateness animates " +
-  "animating animations animator anime animism animisms animist animistic animists animized animus " +
-  "animuses anion anionic anionics anions aniseed aniseeds anises anisette anisettes ankh ankhs " +
-  "anklebone ankled anklet anklets ankling annal annalist annalists anneal annealed annealer annealers " +
-  "annealing anneals annelid annelids annexe annexes annexing annihilating annihilation annotate " +
-  "annotated annotates annotating annotation annotator annotators annoyances annoyer annoyers " +
-  "annoyingly annuals annuitant annuitants annuities annuity annular annularly annulars annuli " +
-  "annulling annuls annulus annum annunciate annunciating annunciation anode anodes anodic anodize " +
-  "anodized anodizing anodyne anodynes anoint anointer anointing anointment anoints anomalous anomic " +
-  "anomie anon anons anorak anoraks anorexia ans answerer answerers antacids antagonists antagonizing " +
-  "ante antecedence antecedences antecedent antecedents anted antedate antedated antedates antedating " +
-  "anteing antenatal antennae antennas anteroom antes anthemed anthems anther anthers anthill anthills " +
-  "anthrax antiabortion antiaircraft antic anticancer anticking anticlimactic anticline antidoted " +
-  "antidoting antifascist antifascists antigen antigenic antigens antigone antiknock antimalarial " +
-  "antimatter antimony anting antinomian antinomy antioxidant antipasti antipasto antipastos antipathy " +
-  "antiphon antiproton antiquarian antiquate antiquating antiquation antiquing antis antiscience " +
-  "antisemitism antisepses antisepsis antitank antitheses antithesis antithetic antitoxin antitoxins " +
-  "antitrust antivenin antivenins antiviral antiwar antler antlered antonym antonyms antral antrum " +
-  "antsier antsiest anus anuses anvil anviled anviling anvils anxieties anyones anywise aortas aortic " +
-  "apace apache apaches apartness apathetic apathies apathy apatite apatites aped apelike aper aperitif " +
-  "apertured apertures apexes aphasia aphasias aphasic aphasics aphelia aphid aphids aphonic apiaries " +
-  "apiarist apiarists apiary apical apically apicals aping apish apishly apishness aplenty aplomb " +
-  "aplombs apocrypha apogee apogees apolar apolitical apologia apologias apoplexy apoptosis apoptotic " +
-  "apostasies apostasy apostate apostates apotheoses app appall appallingly appalls appaloosa " +
-  "appaloosas appanage apparatuses apparel appareled apparels apparency apparentness apparition " +
-  "appealer appealers appearer appearers appeased appeasement appeasements appeaser appeasers appeases " +
-  "appeasing appellant appellants appellative append appendages appended appender appenders appending " +
-  "appends appertain applauded applauder applauds applauses applecart applesauce applesauces applet " +
-  "applets applicably applicant applicate applier appliers applique appointee appointing appoints " +
-  "apportion appose apposed apposes apposing apposite apposition appraisal appraisals appraise " +
-  "appraisees appraiser appraisers appraises appraising apprehender apprise apprised apprises apprising " +
-  "apprize apprized apprizer apprizers apprizes apprizing approacher approbate appropriation " +
-  "appropriator appropriators approvals approver approvers apps appurtenant aproned aproning aprons " +
-  "apropos apse apses apsis apter aptest aptly aptness aptnesses aqua aqualung aqualungs aquanaut " +
-  "aquanauts aquaplane aquariums aquas aquatint aquatints aquavit aquavits aqueous aquifer aquiline " +
-  "arabesque arabesques arability arable arables arachnid arbiter arbiters arbitrage arbitrager " +
-  "arbitraging arbitrarily arbitrate arbitrated arbitrates arbitrating arbitrators arboreal arboreally " +
-  "arbored arbores arbors arbutus arbutuses arcaded arcades arcading arcana arcane arcaneness arced " +
-  "archaically archaism archaisms archaist archaists archaize archaizer archer archeries archers " +
-  "archest archfool arching archival archiver archly archness archnesses archway archways arcing " +
-  "arclike arcs arcsine arctangent arctics ardency ardent ardor ardors arduous areal areawide arenas " +
-  "ares argent argents arginine arginines argonaut argons argosies argosy argot argots arguable arguer " +
-  "arguers argyle argyles arias arid arider aridest aridities aridity aridly aridness aright arisen " +
-  "ariser arisings aristocrat aristocrats arks armada armadas armaments armature armatured armatures " +
-  "armband armbands armchair armchairs armer armers armful armfuls armhole armless armlet armlets " +
-  "armload armloads armorer armorers armorial armorials armoried armories armoring armors armory " +
-  "armrest armrests aromas aromatic arousal arousals arouses arpeggio arr arrack arraign arraigning " +
-  "arraigns arrangeable arrangers arranges arrant arrantly arras arrases arrayed arrayer arraying " +
-  "arrays arrear arrears arrestee arrestees arrester arresters arrestor arrestors arrivals arriver " +
-  "arrogate arrogated arrogates arrogating arrogation arrow arrowed arrowing arrowroot arrowroots " +
-  "arrows arroyo arroyos arsenal arsenals arsenate arsenics arsenide arsine arsines arsing arterial " +
-  "arterially arterials arteriolar arteriole artesian artfully arthritic arthritics arthritis " +
+  "amazons ambassadress ambassadresses ambers ambit amble ambled ambler amblers ambles ambling ambrose " +
+  "ambrosia ambrosias ambulant ambulate ambushes amenably amend amender amending amened amener amenest " +
+  "amening amenity amenorrhea amens amerce amerced amercement amerces americium amethyst amethysts " +
+  "amiability amiable amiabler amiably amicably amid amide amides amids amidship amidships amigo amigos " +
+  "amine amines amities amity ammeter ammeters ammonia ammoniac ammonias ammonium ammos amnesiac " +
+  "amnesiacs amnesias amnesic amnesics amnesties amnion amnions amniotic amoeba amoebae amoebas amoebic " +
+  "amoeboid amok amoks amorally amour amours amp amperage amperages ampere amperes amphibian amphora " +
+  "amphorae ampicillin amping ampleness ampler amplest amplify amply amps ampules amputate amputated " +
+  "amputates amputee amputees ams amt amulets amusements amuser amusers amygdala amyl amylase amylases " +
+  "amyloid anabolic anaerobe anaerobes anaglyph anagram anagrammed anagramming anagrams anal analgesia " +
+  "analgesias anally analogical analogizing analogs analysand analysands analytically analyticity " +
+  "analyzable analyzer analyzes anapest anapests anaphora anarchic anarchical anarchy anastomoses " +
+  "anastomosis anathema anathemas anatomic anatomist anatomists ancestress ancestresses anchorman " +
+  "anchors anchovy ancienter ancientest ancientness ancientnesses ancients ancillary andante andantes " +
+  "anded anders anding andiron andirons androgen androgyny androids ands anechoic anemias anemics " +
+  "anemometer anemone anemones anent aneroid anesthesias anesthetist anesthetists anew angel angeled " +
+  "angelic angelica angelical angeling angels angering angers anginas angle angled angler anglers " +
+  "anglicizing anglings angora angoras angrily angriness angsts anguishing angularly aniline anilines " +
+  "anilingus animal animally animalness animate animateness animates animating animations animator " +
+  "anime animism animisms animist animistic animists animized animus animuses anion anionic anionics " +
+  "anions aniseed aniseeds anises anisette anisettes ankh ankhs anklebone ankled anklet anklets ankling " +
+  "annal annalist annalists anneal annealed annealer annealers annealing anneals annelid annelids " +
+  "annexe annexes annexing annihilating annihilation annotate annotated annotates annotating annotation " +
+  "annotator annotators annoyances annoyer annoyers annoyingly annuals annuitant annuitants annuities " +
+  "annuity annular annularly annulars annuli annulling annuls annulus annum annunciate annunciating " +
+  "annunciation anode anodes anodic anodize anodized anodizing anodyne anodynes anoint anointer " +
+  "anointing anointment anoints anomalous anomic anomie anon anons anorak anoraks anorexia ans answerer " +
+  "answerers antacids antagonists antagonizing ante antecedence antecedences antecedent antecedents " +
+  "anted antedate antedated antedates antedating anteing antenatal antennae antennas anteroom antes " +
+  "anthemed anthems anther anthers anthill anthills anthrax antiabortion antiaircraft antic anticancer " +
+  "anticking anticlimactic anticline antidoted antidoting antifascist antifascists antigen antigenic " +
+  "antigens antigone antiknock antimalarial antimatter antimony anting antinomian antinomy antioxidant " +
+  "antipasti antipasto antipastos antipathy antiphon antiproton antiquarian antiquate antiquating " +
+  "antiquation antiquing antis antiscience antisemitism antisepses antisepsis antitank antitheses " +
+  "antithesis antithetic antitoxin antitoxins antitrust antivenin antivenins antiviral antiwar antler " +
+  "antlered antonym antonyms antral antrum antsier antsiest anus anuses anvil anviled anviling anvils " +
+  "anxieties anyones anywise aortas aortic apace apache apaches apartness apathetic apathies apathy " +
+  "apatite apatites aped apelike aper aperitif apertured apertures apexes aphasia aphasias aphasic " +
+  "aphasics aphelia aphid aphids aphonic apiaries apiarist apiarists apiary apical apically apicals " +
+  "aping apish apishly apishness aplenty aplomb aplombs apocrypha apogee apogees apolar apolitical " +
+  "apologia apologias apoplexy apoptosis apoptotic apostasies apostasy apostate apostates apotheoses " +
+  "app appall appallingly appalls appaloosa appaloosas appanage apparatuses apparel appareled apparels " +
+  "apparency apparentness apparition appealer appealers appearer appearers appeased appeasement " +
+  "appeasements appeaser appeasers appeases appeasing appellant appellants appellative append " +
+  "appendages appended appender appenders appending appends appertain applauded applauder applauds " +
+  "applauses applecart applesauce applesauces applet applets applicably applicant applicate applier " +
+  "appliers applique appointee appointing appoints apportion appose apposed apposes apposing apposite " +
+  "apposition appraisal appraisals appraise appraisees appraiser appraisers appraises appraising " +
+  "apprehender apprise apprised apprises apprising apprize apprized apprizer apprizers apprizes " +
+  "apprizing approacher approbate appropriation appropriator appropriators approvals approver approvers " +
+  "apps appurtenant aproned aproning aprons apropos apse apses apsis apter aptest aptly aptness " +
+  "aptnesses aqualung aqualungs aquanaut aquanauts aquaplane aquariums aquas aquatint aquatints aquavit " +
+  "aquavits aqueous aquifer aquiline arabesque arabesques arability arable arables arachnid arbiter " +
+  "arbiters arbitrage arbitrager arbitraging arbitrarily arbitrate arbitrated arbitrates arbitrating " +
+  "arbitrators arboreal arboreally arbored arbores arbors arbutus arbutuses arcaded arcades arcading " +
+  "arcana arcane arcaneness arced archaically archaism archaisms archaist archaists archaize archaizer " +
+  "archer archeries archers archest archfool arching archival archiver archly archness archnesses " +
+  "archway archways arcing arclike arcs arcsine arctangent arctics ardency ardent ardor ardors arduous " +
+  "areal areawide arenas ares argent argents arginine arginines argonaut argons argosies argosy argot " +
+  "argots arguable arguer arguers argyle argyles arias arid arider aridest aridities aridity aridly " +
+  "aridness aright arisen ariser arisings aristocrat aristocrats arks armada armadas armaments armature " +
+  "armatured armatures armband armbands armchair armchairs armer armers armful armfuls armhole armless " +
+  "armlet armlets armload armloads armorer armorers armorial armorials armoried armories armoring " +
+  "armors armory armrest armrests aromas aromatic arousal arousals arouses arpeggio arr arrack arraign " +
+  "arraigning arraigns arrangeable arrangers arranges arrant arrantly arras arrases arrayed arrayer " +
+  "arraying arrays arrear arrears arrestee arrestees arrester arresters arrestor arrestors arrivals " +
+  "arriver arrogate arrogated arrogates arrogating arrogation arrow arrowed arrowing arrowroot " +
+  "arrowroots arrows arroyo arroyos arsenal arsenals arsenate arsenics arsenide arsine arsines arsing " +
+  "arterial arterially arterials arteriolar arteriole artesian artfully arthritic arthritics arthritis " +
   "arthrogram arthropod articular artier artiest artifice artificer artilleries artillerist artiness " +
   "artinesses artisan artisans artiste artistes artistries artistry artless artlessly artlessness " +
   "artlessnesses artsier artsiest artworks arty arugula arum arums asbestoses ascend ascendance " +
@@ -208,11 +207,11 @@ window.BONUS_WORDS = (
   "awhiles awing awkwarder awkwardly awl awls awn awned awning awninged awnings awns awoken awrier " +
   "awriest awry axed axehead axeheads axeman axer axers axes axial axially axillary axing axiological " +
   "axiology axiom axiomatic axioms axion axions axises axle axles axletree axletrees axolotl axolotls " +
-  "axon axons ayah ayahs ayatollah ayatollahs aye ayer ayers ayes azalea azaleas azimuth azure azures " +
-  "baa baaed baaing baas babbitt babbitted babbitting babbitts babbled babbler babblers babbles babe " +
-  "babel babels babes babied babier babiest babushka babushkas babyhood babyhoods babying babyish " +
-  "babysat babysits baccarat baccarats bacchanal bacchanalia bacchanalian bacchanals baccy bacillary " +
-  "bacilli bacillus backache backaches backarrow backbench backbit backbite backboard backbone backchat " +
+  "axon axons ayah ayahs ayatollah ayatollahs aye ayer ayers ayes azalea azaleas azimuth azures baa " +
+  "baaed baaing baas babbitt babbitted babbitting babbitts babbled babbler babblers babbles babe babel " +
+  "babels babes babied babier babiest babushka babushkas babyhood babyhoods babying babyish babysat " +
+  "babysits baccarat baccarats bacchanal bacchanalia bacchanalian bacchanals baccy bacillary bacilli " +
+  "bacillus backache backaches backarrow backbench backbit backbite backboard backbone backchat " +
   "backcomb backcombs backdate backdated backdoor backer backfill backhand backhoe backlash backless " +
   "backlog backpacked backpacker backpacks backroom backseats backslash backspace backspaces backtalk " +
   "backtalks backtrack backtracker backtracks backwash backwood baconer bacons badder baddest baddie " +
@@ -325,69 +324,69 @@ window.BONUS_WORDS = (
   "biters bitingly bitings bitmap bitmaps bitser bitted bittered bitterer bitterest bittering bitterly " +
   "bittern bitternesses bitterns bitternut bitterroot bitters bittersweets bittier bittiest bittiness " +
   "bitting bitumen bitwise bivalve bivalved bivalves bivariate bivouac biweeklies biweekly biyearly biz " +
-  "bizarres bizzes blab blabber blabbered blabbers blabs black blackball blackballed blackballs blacken " +
-  "blacker blackface blackjack blackjacks blackleg blackly blacks bladders blade bladed blades blading " +
-  "blag blagged blagging blags blahed blahing blahs blamelessly blamelessness blamelessnesses blamer " +
-  "blamers blammo blanc blanch bland blander blandly blandness blandnesses blank blanked blanker " +
-  "blanking blankly blankness blanknesses blanks blare blared blares blarney blase blaster blasters " +
-  "blastoff blastoffs blasts blat blatancy blatantly blatantness blather blatherer blats blatting blaze " +
-  "blazed blazer blazers blazon blazons bleach bleacher bleaches bleaker bleakest bleakly bleakness " +
-  "bleaknesses bleaks blear bleared blearier blearily blears bleary bleat bleated bleater bleats bled " +
-  "bleeders bleeped bleeper bleepers bleeping bleeps blemish blemishes blench blenched blenches blended " +
-  "blender blenders blending blends blessed blesseder blessedest blessedly blessedness blessednesses " +
-  "blesses blessing bletch blighting blights blimeys blimpish blimps blinder blindingly blindings " +
-  "blindnesses blindside blindsides blindsiding blini blinis blinker blinks blintz blintze blip blipped " +
-  "blipping blips bliss blissed blisses blissfully blissing blister blisters blithe blithely blither " +
-  "blithest blitz blitzed blitzes blitzing blivet blivets blizzard bloat bloater bloats blob blobbed " +
-  "blobbing blobs blocker blocky blocs blogged blogger bloggers blogging bloke blokish blonde blonder " +
-  "blondes blondness blondnesses blonds bloodied bloodier bloodies bloodily blooding bloodless " +
-  "bloodlessly bloodlessness bloodlessnesses bloodline bloodmobile bloodroot bloods bloodsheds " +
-  "bloodshot bloodworm bloom bloomed bloomer bloomers blooms bloop blooped blooper bloopers blooping " +
-  "bloops blossom blossomed blossomy blot blotch blotchy blots blotted blotter blotters blotting blotto " +
-  "bloused blouses blower blowers blowfly blowgun blowhole blowholes blowier blowies blowjob blowjobs " +
-  "blowlamp blowouts blowpipe blowups blowy blowzy blubber blubbered blubberer blubbers blubbery blue " +
-  "blueback bluebell bluebells bluebill bluebonnet bluebook bluebottle bluebottles bluebush blued " +
-  "bluegill bluegills blueish bluely blueness bluenesses bluenose bluenoses bluer blues bluesier " +
-  "bluesiest bluest bluesy bluet bluets bluffed bluffer bluffers bluffest bluffly bluffness bluffnesses " +
-  "bluffs bluing bluings bluish blundered blunderer blunt blunted blunter bluntest blunting bluntly " +
-  "bluntness bluntnesses blunts blur blurbed blurbing blurbs blurredly blurrier blurring blurs blurter " +
-  "blurts blushed blusher blushers blushes bluster blusterer blusterers blusters boarder boarders " +
-  "boardrooms boasted boaster boasters boated boater boaters boating boatloads boatman boatmen boatyard " +
-  "bobbed bobbies bobbin bobbins bobble bobbled bobbles bobbling bobby bobbysoxer bobbysoxers bobolink " +
-  "bobolinks bobs bobsled bobsledded bobsledder bobsledders bobsleds bobtail bobtails bobwhite boccie " +
-  "boccies bock bocked bocking bocks bod bode boded bodegas bodes bodge bodged bodges bodging bodice " +
-  "bodices bodiless boding bodkin bodkins bods bodying bodywork boffin boffins boffo boga bogey bogeyed " +
-  "bogeying bogeymen bogeys bogged boggier boggiest bogging boggle boggled boggles bogglingly boggy " +
-  "bogie bogies bogon bogosity bogs bogyman bogymen boiler boilings boink boinked boinking boinks bola " +
-  "bolas bolder boldest boldly boldness boldnesses bolds bole bolero boleros boles bolivar boll bollard " +
-  "bollards bolled bolling bollix bollixed bollixes bollixing bollocks bolls bolo bologna bolognas " +
-  "bolometer bolos bolshie bolster bolsterer bolsters bolt bolter bolthole boltholes bolting bolus " +
-  "boluses bombard bombarded bombards bombast bombasts bomber bombers bombings bombproof bombshells " +
-  "bombsite bombsites bona bonanza bonanzas bonbons bonce bonces bond bondage bonder bonders bondings " +
-  "bondman bondmen bonds bondsman bondsmen bondwoman bondwomen bonehead boneheaded boneless boner " +
-  "boners bones bong bonged bonging bongo bongos bongs bonhomie bonier boniest boniness boninesses " +
-  "boning bonito bonitos bonjour bonked bonking bonks bonneted bonneting bonnets bonnie bonnier " +
-  "bonniest bonny bonsai bonsais bonuses bony bonzes boobies boodle boodled boodles boodling booed " +
-  "booger boogers boogeymen boogie boogied boogieing boogies boohoo boohooed boohooing boohoos booing " +
-  "bookbind bookbinding bookcase bookcases bookend bookended bookends booker bookers bookie bookies " +
-  "bookings bookish bookkeep bookkeeper bookkeepers booklets bookmaker bookmark bookmarks bookmobile " +
-  "bookseller booksellers bookshop bookshops bookstall bookstalls bookwork bookworm bookworms boolean " +
-  "booleans boombox boomboxes boomed boomer boomers boomings booms boomtown boomtowns boon boondocks " +
-  "boondoggle boondoggled boondoggling boonies boons boor boorish boors boos boosted booster boosting " +
-  "boosts bootblack bootee bootees booth booties booting bootlace bootleg bootlegged bootlegger " +
-  "bootlegs bootless boots bootstrap bootstraps booty boozer boozers boozier booziest boozy bop bopped " +
-  "bopping bops borate borated borates borax boraxes bordello bordellos borderer borders boredoms " +
-  "borehole boreholes borer borers boric borings boron borons borrower borrowers borrows borscht " +
-  "borschts borstal borstals borzoi borzois bosh boshes bosomier bosomiest boson bosons bossed bosser " +
-  "bossier bossies bossiest bossily bossiness bossinesses bossism bossisms bot botanic botanists botch " +
-  "botcher botches botfly bothy botnet botnets bots bottler bottlers bottling bottomed bottomer " +
-  "bottoming bottommost bottoms botulin boudoirs bouffant bough boughed boughs bouillon bouillons " +
-  "boulder bouldered boules bounce bouncer boundedness bounden bounder bounding bounds bounteous " +
-  "bounteousness bounteousnesses bounty bourbons bouts bouzouki bouzoukis bovine bovines bovver bowed " +
-  "boweled bower bowered bowers bowie bowleg bowlegged bowlegs bowlers bowlful bowlfuls bowline bowman " +
-  "bowmen bows bowser bowwow bowwowed bowwowing bowwows boxcar boxcars boxers boxful boxier boxiest " +
-  "boxiness boxings boxlike boxroom boxrooms boxtops boxwood boxwoods boxy boycotted boycotter boycotts " +
-  "boyer boyhood boyhoods boyish boyishly boyscout boysenberry bozo bpi bra brace braced bracer bracero " +
+  "bizarres bizzes blab blabber blabbered blabbers blabs blackball blackballed blackballs blacken " +
+  "blackface blackjack blackjacks blackleg blackly bladders blade bladed blades blading blag blagged " +
+  "blagging blags blahed blahing blahs blamelessly blamelessness blamelessnesses blamer blamers blammo " +
+  "blanc blanch bland blander blandly blandness blandnesses blank blanked blanker blanking blankly " +
+  "blankness blanknesses blanks blare blared blares blarney blase blaster blasters blastoff blastoffs " +
+  "blasts blat blatancy blatantly blatantness blather blatherer blats blatting blaze blazed blazer " +
+  "blazers blazon blazons bleach bleacher bleaches bleaker bleakest bleakly bleakness bleaknesses " +
+  "bleaks blear bleared blearier blearily blears bleary bleat bleated bleater bleats bled bleeders " +
+  "bleeped bleeper bleepers bleeping bleeps blemish blemishes blench blenched blenches blended blender " +
+  "blenders blending blends blessed blesseder blessedest blessedly blessedness blessednesses blesses " +
+  "blessing bletch blighting blights blimeys blimpish blimps blinder blindingly blindings blindnesses " +
+  "blindside blindsides blindsiding blini blinis blinker blinks blintz blintze blip blipped blipping " +
+  "blips bliss blissed blisses blissfully blissing blister blisters blithe blithely blither blithest " +
+  "blitz blitzed blitzes blitzing blivet blivets blizzard bloat bloater bloats blob blobbed blobbing " +
+  "blobs blocker blocky blocs blogged blogger bloggers blogging bloke blokish blonde blonder blondes " +
+  "blondness blondnesses blonds bloodied bloodier bloodies bloodily blooding bloodless bloodlessly " +
+  "bloodlessness bloodlessnesses bloodline bloodmobile bloodroot bloods bloodsheds bloodshot bloodworm " +
+  "bloom bloomed bloomer bloomers blooms bloop blooped blooper bloopers blooping bloops blossom " +
+  "blossomed blossomy blot blotch blotchy blots blotted blotter blotters blotting blotto bloused " +
+  "blouses blower blowers blowfly blowgun blowhole blowholes blowier blowies blowjob blowjobs blowlamp " +
+  "blowouts blowpipe blowups blowy blowzy blubber blubbered blubberer blubbers blubbery blueback " +
+  "bluebell bluebells bluebill bluebonnet bluebook bluebottle bluebottles bluebush blued bluegill " +
+  "bluegills blueish bluely blueness bluenesses bluenose bluenoses bluesier bluesiest bluest bluesy " +
+  "bluet bluets bluffed bluffer bluffers bluffest bluffly bluffness bluffnesses bluffs bluing bluings " +
+  "blundered blunderer blunt blunted blunter bluntest blunting bluntly bluntness bluntnesses blunts " +
+  "blur blurbed blurbing blurbs blurredly blurrier blurring blurs blurter blurts blushed blusher " +
+  "blushers blushes bluster blusterer blusterers blusters boarder boarders boardrooms boasted boaster " +
+  "boasters boated boater boaters boating boatloads boatman boatmen boatyard bobbed bobbies bobbin " +
+  "bobbins bobble bobbled bobbles bobbling bobby bobbysoxer bobbysoxers bobolink bobolinks bobs bobsled " +
+  "bobsledded bobsledder bobsledders bobsleds bobtail bobtails bobwhite boccie boccies bock bocked " +
+  "bocking bocks bod bode boded bodegas bodes bodge bodged bodges bodging bodice bodices bodiless " +
+  "boding bodkin bodkins bods bodying bodywork boffin boffins boffo boga bogey bogeyed bogeying " +
+  "bogeymen bogeys bogged boggier boggiest bogging boggle boggled boggles bogglingly boggy bogie bogies " +
+  "bogon bogosity bogs bogyman bogymen boiler boilings boink boinked boinking boinks bola bolas bolder " +
+  "boldest boldly boldness boldnesses bolds bole bolero boleros boles bolivar boll bollard bollards " +
+  "bolled bolling bollix bollixed bollixes bollixing bollocks bolls bolo bologna bolognas bolometer " +
+  "bolos bolshie bolster bolsterer bolsters bolt bolter bolthole boltholes bolting bolus boluses " +
+  "bombard bombarded bombards bombast bombasts bomber bombers bombings bombproof bombshells bombsite " +
+  "bombsites bona bonanza bonanzas bonbons bonce bonces bond bondage bonder bonders bondings bondman " +
+  "bondmen bonds bondsman bondsmen bondwoman bondwomen bonehead boneheaded boneless boner boners bones " +
+  "bong bonged bonging bongo bongos bongs bonhomie bonier boniest boniness boninesses boning bonito " +
+  "bonitos bonjour bonked bonking bonks bonneted bonneting bonnets bonnie bonnier bonniest bonny bonsai " +
+  "bonsais bonuses bony bonzes boobies boodle boodled boodles boodling booed booger boogers boogeymen " +
+  "boogie boogied boogieing boogies boohoo boohooed boohooing boohoos booing bookbind bookbinding " +
+  "bookcase bookcases bookend bookended bookends booker bookers bookie bookies bookings bookish " +
+  "bookkeep bookkeeper bookkeepers booklets bookmaker bookmark bookmarks bookmobile bookseller " +
+  "booksellers bookshop bookshops bookstall bookstalls bookwork bookworm bookworms boolean booleans " +
+  "boombox boomboxes boomed boomer boomers boomings booms boomtown boomtowns boon boondocks boondoggle " +
+  "boondoggled boondoggling boonies boons boor boorish boors boos boosted booster boosting boosts " +
+  "bootblack bootee bootees booth booties booting bootlace bootleg bootlegged bootlegger bootlegs " +
+  "bootless boots bootstrap bootstraps booty boozer boozers boozier booziest boozy bop bopped bopping " +
+  "bops borate borated borates borax boraxes bordello bordellos borderer borders boredoms borehole " +
+  "boreholes borer borers boric borings boron borons borrower borrowers borrows borscht borschts " +
+  "borstal borstals borzoi borzois bosh boshes bosomier bosomiest boson bosons bossed bosser bossier " +
+  "bossies bossiest bossily bossiness bossinesses bossism bossisms bot botanic botanists botch botcher " +
+  "botches botfly bothy botnet botnets bots bottler bottlers bottling bottomed bottomer bottoming " +
+  "bottommost bottoms botulin boudoirs bouffant bough boughed boughs bouillon bouillons boulder " +
+  "bouldered boules bounce bouncer boundedness bounden bounder bounding bounds bounteous bounteousness " +
+  "bounteousnesses bounty bourbons bouts bouzouki bouzoukis bovine bovines bovver bowed boweled bower " +
+  "bowered bowers bowie bowleg bowlegged bowlegs bowlers bowlful bowlfuls bowline bowman bowmen bows " +
+  "bowser bowwow bowwowed bowwowing bowwows boxcar boxcars boxers boxful boxier boxiest boxiness " +
+  "boxings boxlike boxroom boxrooms boxtops boxwood boxwoods boxy boycotted boycotter boycotts boyer " +
+  "boyhood boyhoods boyish boyishly boyscout boysenberry bozo bpi bra brace braced bracer bracero " +
   "braceros bracers brachia bracing bracken bract bracts brad bradawl bradawls bradded bradding brads " +
   "bradycardia brae braes braggart braggarts bragger braggers braggest brags braided braider braiding " +
   "braids braille brailled brailles brailling brain brainier braininess braininesses braining braise " +
@@ -406,22 +405,22 @@ window.BONUS_WORDS = (
   "brevity brew brewer breweries brewpub brewpubs brews briber briberies bribers brickbat bricked " +
   "bricker brickie brickies bricking bricks brickwork bridals bridged bridges bridging bridle bridled " +
   "bridles bridling brie briefer briefest briefness briefnesses briefs brier briers brig brigaded " +
-  "brigading brigand bright brighting brights brigs brill brim brimful brimless brimmed brimming brims " +
-  "brindle brindled brine brined briner brines bringer bringers brinier brinies briniest brininess " +
-  "brininesses brining brink brinks briny brioche briquette brisked brisker briskest briskets brisking " +
-  "briskly briskness brisknesses brisks bristle bristles bristlier bristliest bristly bristol bristols " +
-  "brittled brittler brittles brittlest brittling brittly broach broacher broadened broadener broadloom " +
+  "brigading brigand brighting brights brigs brill brim brimful brimless brimmed brimming brims brindle " +
+  "brindled brine brined briner brines bringer bringers brinier brinies briniest brininess brininesses " +
+  "brining brink brinks briny brioche briquette brisked brisker briskest briskets brisking briskly " +
+  "briskness brisknesses brisks bristle bristles bristlier bristliest bristly bristol bristols brittled " +
+  "brittler brittles brittlest brittling brittly broach broacher broadened broadener broadloom " +
   "broadsword broadswords brocade brocaded broccolis brochette brogan brogans brogue brogues broil " +
   "broiled broiler broilers broiling broils brokenness brokennesses broker brokerage brokered broking " +
   "brollies brolly bromide bromidic bromine bronc bronchi bronco broncos broncs bronzed bronzer bronzes " +
   "bronzing brooches brooded brooder brooders broodier broodily broodmare broods broody brook brooked " +
   "brooking brooklet brooks broom broomed brooming brooms broses brothered broths brouhaha brouhahas " +
-  "brow browbeat brown browned browner brownier browning brownly brownness brownnesses brownout browns " +
-  "brows browsed browsers browses bruin bruins bruiser bruisers bruisings bruit bruited bruiting bruits " +
-  "brunet brunets brunette brunettes brunt brunted brunting brunts brusher brushier brushoff brushoffs " +
-  "brushy brusque brusqueness brusquenesses brusquer brusquest bruted bruter brutes bruting brutish bub " +
-  "bubble bubbled bubblegum bubblegums bubbler bubbles bubblier bubblies bubbliest bubo buboes bubonic " +
-  "bubs buccaneer buck bucked bucker bucket bucketed buckeye buckeyes buckler buckles buckram bucksaw " +
+  "brow browbeat browned browner brownier browning brownly brownness brownnesses brownout brows browsed " +
+  "browsers browses bruin bruins bruiser bruisers bruisings bruit bruited bruiting bruits brunet " +
+  "brunets brunette brunettes brunt brunted brunting brunts brusher brushier brushoff brushoffs brushy " +
+  "brusque brusqueness brusquenesses brusquer brusquest bruted bruter brutes bruting brutish bub bubble " +
+  "bubbled bubblegum bubblegums bubbler bubbles bubblier bubblies bubbliest bubo buboes bubonic bubs " +
+  "buccaneer buck bucked bucker bucket bucketed buckeye buckeyes buckler buckles buckram bucksaw " +
   "bucksaws buckskin buckskins buckteeth bucktooth buckyball bucolic bucolics budded buddied budding " +
   "buddings buddying budged budges budgeted budgeter budgets budgie budgies budging buffed buffer " +
   "buffered bufferer bufferers buffers buffet buffeted buffets buffing buffoons buffs bugaboo bugaboos " +
@@ -530,32 +529,32 @@ window.BONUS_WORDS = (
   "centraler centric centrist centrists cephalic cerate cerated cereals cerebellar cerebellum cerebra " +
   "cerebrally cerebrals cerebrate cerebrated cerebrates cerebrum cerebrums cerement cerements cerise " +
   "cerises cerium ceriums cermet cermets cert certainer certifier certifiers certifies certify " +
-  "certiorari certitude certs cerulean cervical cervices cervix cesarean cesareans cesium cesiums " +
-  "cession cessions cesspit cesspits cesspools cetacean cetaceans ceteras ceteris chad chads chafe " +
-  "chafed chafer chafes chaff chaffed chaffer chaffered chafferer chaffinch chaffing chaffs chagrin " +
-  "chagrining chaining chainsaw chainsaws chairing chaise chaises chalet chalets chalice chaliced " +
-  "chalices chalked chalks chalky challis challises chamberer chambray chamfer chamois champed chanced " +
-  "chancels chancer chancery chancier chanciness chancinesses chancing chancre chancres chancy changer " +
-  "channeled channeler chanson chansons chanted chanter chantey chantry chants chaos chaoses chaotic " +
-  "chap chaparral chaparrals chapati chapatis chapatti chapattis chapbook chapeau chapeaus chaplet " +
-  "chappies chapping chappy char charabanc charabancs charactered charcoal charcoals chard chards " +
-  "charger chargers charier charily charing charisma charity charlady charlie charmed charmers charring " +
-  "chars charterer charterers charters chartist chartists chartroom chary chase chaser chasers chasm " +
-  "chasms chasten chasteness chastenesses chastens chaster chastest chastise chastises chastities " +
-  "chastity chateaus chateaux chatroom chattel chattels chattered chatterer chatterers chatters " +
-  "chattier chattiest chattily chaw cheapen cheapened cheapish cheaply cheapness cheapnesses cheapo " +
-  "cheaps cheater cheaters checkable checkbooks checkbox checker checkers checkoff checkoffs checkroom " +
-  "checksum checksums checkups cheddars cheek cheekbone cheeked cheekier cheekiest cheekily cheekiness " +
+  "certiorari certitude certs cervical cervices cervix cesarean cesareans cesium cesiums cession " +
+  "cessions cesspit cesspits cesspools cetacean cetaceans ceteras ceteris chad chads chafe chafed " +
+  "chafer chafes chaff chaffed chaffer chaffered chafferer chaffinch chaffing chaffs chagrin chagrining " +
+  "chaining chainsaw chainsaws chairing chaise chaises chalet chalets chalice chaliced chalices chalked " +
+  "chalks chalky challis challises chamberer chambray chamfer chamois champed chanced chancels chancer " +
+  "chancery chancier chanciness chancinesses chancing chancre chancres chancy changer channeled " +
+  "channeler chanson chansons chanted chanter chantey chantry chants chaos chaoses chaotic chap " +
+  "chaparral chaparrals chapati chapatis chapatti chapattis chapbook chapeau chapeaus chaplet chappies " +
+  "chapping chappy char charabanc charabancs charactered charcoals chard chards charger chargers " +
+  "charier charily charing charisma charity charlady charlie charmed charmers charring chars charterer " +
+  "charterers charters chartist chartists chartroom chary chase chaser chasers chasm chasms chasten " +
+  "chasteness chastenesses chastens chaster chastest chastise chastises chastities chastity chateaus " +
+  "chateaux chatroom chattel chattels chattered chatterer chatterers chatters chattier chattiest " +
+  "chattily chaw cheapen cheapened cheapish cheaply cheapness cheapnesses cheapo cheaps cheater " +
+  "cheaters checkable checkbooks checkbox checker checkers checkoff checkoffs checkroom checksum " +
+  "checksums checkups cheddars cheek cheekbone cheeked cheekier cheekiest cheekily cheekiness " +
   "cheekinesses cheeking cheeks cheeky cheep cheeped cheeping cheeps cheerer cheerers cheerfuller " +
   "cheerier cheeriest cheerily cheeriness cheerinesses cheerio cheerios cheerless cheerlessly " +
   "cheerlessness cheerlessnesses cheerly cheerses cheesecakes cheesecloth cheesecloths cheesed cheeses " +
   "cheesier cheesiest cheesiness cheesinesses cheesing cheffed cheffing chelate chelated chemic chemise " +
   "chemises chemist chemists chenilles cherish cherisher cherishes cheroot cheroots chert cherts cherub " +
-  "cherubic cherubs chervil chesses chessman chessmen chested chester chestier chestiest chestnut " +
-  "chests chesty cheviot chew chewer chewers chewier chewiest chewiness chewinesses chewy chge chi " +
-  "chianti chic chicane chicaned chicanes chicaning chicer chicest chichi chichier chichiest chichis " +
-  "chickadee chickening chickpea chickweed chicle chicles chicly chicness chicnesses chicories chicory " +
-  "chics chide chided chides chiding chiefer chiefest chiefs chiffon chiffons chigger chiggers chignon " +
+  "cherubic cherubs chervil chesses chessman chessmen chested chester chestier chestiest chests chesty " +
+  "cheviot chew chewer chewers chewier chewiest chewiness chewinesses chewy chge chi chianti chic " +
+  "chicane chicaned chicanes chicaning chicer chicest chichi chichier chichiest chichis chickadee " +
+  "chickening chickpea chickweed chicle chicles chicly chicness chicnesses chicories chicory chics " +
+  "chide chided chides chiding chiefer chiefest chiefs chiffon chiffons chigger chiggers chignon " +
   "chignons chilblain childed childes childhoods childing childishly childless childlike childly " +
   "chilies chiller chillers chillest chillier chillies chilliest chilliness chillinesses chillingly " +
   "chillings chillness chillnesses chilly chimed chimer chimera chimeric chimers chiming chin chinas " +
@@ -613,10 +612,10 @@ window.BONUS_WORDS = (
   "coachloads coachman coachmen coachwork coaled coaler coalesce coalesced coalescence coalescences " +
   "coalesces coalface coalfaces coaling coarse coarsen coarseness coarsenesses coarsens coarser " +
   "coarsest coasted coater coaters coatroom coatrooms coats coattail coattest coauthor coax coaxed " +
-  "coaxer coaxers coaxes coaxial coaxially coaxing cobalt cobalts cobbed cobber cobbers cobbing cobble " +
-  "cobbled cobblers cobbles cobbling coble cobnut cobnuts cobs cobweb cobwebbed cobwebbier cobwebby " +
-  "coca cocas cocci coccis coccus coccyges coccyx cochlea cochleae cochlear cochleas cockade cockades " +
-  "cockcrow cockcrows cockerel cockerels cockeye cockeyed cockeyedly cockier cockiest cockily cockiness " +
+  "coaxer coaxers coaxes coaxial coaxially coaxing cobalts cobbed cobber cobbers cobbing cobble cobbled " +
+  "cobblers cobbles cobbling coble cobnut cobnuts cobs cobweb cobwebbed cobwebbier cobwebby coca cocas " +
+  "cocci coccis coccus coccyges coccyx cochlea cochleae cochlear cochleas cockade cockades cockcrow " +
+  "cockcrows cockerel cockerels cockeye cockeyed cockeyedly cockier cockiest cockily cockiness " +
   "cockinesses cockle cockled cockles cockleshell cockleshells cockling cockney cockneys cockpits " +
   "cockscomb cockscombs cockshies cocksure coco cocoas cocooned cocooning cocoons cocos coda codas " +
   "codded codding coddled coddler coddles coddling codebook codebooks codeine codeines codename " +
@@ -639,12 +638,12 @@ window.BONUS_WORDS = (
   "colluded colludes collusion collusions collying cologned colognes colon colonelcies colonelcy " +
   "colonels colones colonially colonials colonist colonize colonizing colonnaded colonoscopy colons " +
   "colophon colophons colorant coloratura coloreds colorer colorers colorfully colorist colorists " +
-  "colorize colorless colorlessly colorlessness colorlessnesses colors colorway colossally colossi " +
-  "colossus colostomy cols colter coltish com comae comaker comas combatant combats comber combers " +
-  "combos combs combust combusts comedienne comedown comelier comely comer comers comest comet cometh " +
-  "comets comfier comfit comfits comforter comical comically comings comities comity commando commandos " +
-  "commas commemorator commencements commencer commences commencing commended commender commends " +
-  "commentate commenter commerced commerces commies commingling commissar commissars commits committal " +
+  "colorize colorless colorlessly colorlessness colorlessnesses colorway colossally colossi colossus " +
+  "colostomy cols colter coltish com comae comaker comas combatant combats comber combers combos combs " +
+  "combust combusts comedienne comedown comelier comely comer comers comest comet cometh comets comfier " +
+  "comfit comfits comforter comical comically comings comities comity commando commandos commas " +
+  "commemorator commencements commencer commences commencing commended commender commends commentate " +
+  "commenter commerced commerces commies commingling commissar commissars commits committal " +
   "committeemen committer commode commodes commodious commodores commoner commoners commonest " +
   "commonness commonnesses commonsense commotions communed communing communisms commutate commutator " +
   "commuted commutes comp compactor compacts comparator comparer compass compasses comped compeer " +
@@ -689,11 +688,11 @@ window.BONUS_WORDS = (
   "cookhouses cookings cookout cookouts cooks cookware coolant coolants cooler coolheaded coolie " +
   "coolies coolings coolly coolness coolnesses coonskin coonskins cooper cooperage cooperator coopered " +
   "coopers cooping coops coos coot cootie coots copacetic copay copays cope coped coper copes copier " +
-  "copiers copilot copilots copings copious coplanar copora copper coppered coppers coppery copra " +
-  "copras copse copsed copses copsing copter copters copula copulas copybook copybooks copycats copying " +
-  "copyist copyists coquette coquetted coquettes cor coracle coracles corbel corbeled corbels cordage " +
-  "corded corder cording cordite cordon cordoned cordoning cordons cordovan corduroyed corduroys cored " +
-  "corer corers cores corgi corgis coring corkage corked corker corkers corking corks corkscrews corm " +
+  "copiers copilot copilots copings copious coplanar copora coppered coppers coppery copra copras copse " +
+  "copsed copses copsing copter copters copula copulas copybook copybooks copycats copying copyist " +
+  "copyists coquette coquetted coquettes cor coracle coracles corbel corbeled corbels cordage corded " +
+  "corder cording cordite cordon cordoned cordoning cordons cordovan corduroyed corduroys cored corer " +
+  "corers cores corgi corgis coring corkage corked corker corkers corking corks corkscrews corm " +
   "cormorant corms corncob corncobs corncrake cornea corneal corneas cornering cornerstones cornet " +
   "cornets cornflour cornice corniced cornices cornicing cornier cornily corniness corninesses corning " +
   "cornrow cornrowed cornrowing cornrows corns corolla corollary corollas corona coronal coronals " +
@@ -735,13 +734,13 @@ window.BONUS_WORDS = (
   "cresses crested crestless crests cretin cretins cretonne cretonnes crevasse crevassed crevasses " +
   "crevice crevices crewed crewel crewels crewelwork crewing crewman crewmen crews cribbage cribbed " +
   "cribber cribbers cribbing cribs crick cricked cricketed cricketers cricking cricks criers crikey " +
-  "crimed criming crimped crimper crimping crimps crimson crimsons cringed cringer cringes cringing " +
-  "crinkle crinklier crinkling crinkly crinoline cripes crippler cripplers cripples crises crisp " +
-  "crisped crisper crispest crispier crispiest crispiness crispinesses crisping crisply crispness " +
-  "crispnesses crisps crispy criss crisscross crisscrossed crisscrosses crisscrossing criticality " +
-  "criticizer criticizers criticizes critter critters croaked croaker croakers croakier croaks croaky " +
-  "crochet crocheted crocheter crocheters crochets crocked crocker crockeries crockery crocking crocks " +
-  "crocus crocuses croft crofter crofters crofts crone crones crony crook crookeder crooking crookneck " +
+  "crimed criming crimped crimper crimping crimps crimsons cringed cringer cringes cringing crinkle " +
+  "crinklier crinkling crinkly crinoline cripes crippler cripplers cripples crises crisp crisped " +
+  "crisper crispest crispier crispiest crispiness crispinesses crisping crisply crispness crispnesses " +
+  "crisps crispy criss crisscross crisscrossed crisscrosses crisscrossing criticality criticizer " +
+  "criticizers criticizes critter critters croaked croaker croakers croakier croaks croaky crochet " +
+  "crocheted crocheter crocheters crochets crocked crocker crockeries crockery crocking crocks crocus " +
+  "crocuses croft crofter crofters crofts crone crones crony crook crookeder crooking crookneck " +
   "crooknecks crooks croon crooned crooner crooners crooning croons cropped cropper croppers cropping " +
   "croquette crosier crosiers cross crossarm crossbar crossbars crossbones crossbows crossbred " +
   "crossbreds crossbreed crossbreeds crosscheck crosschecks crosscut crosscuts crosser crossers " +
@@ -771,54 +770,54 @@ window.BONUS_WORDS = (
   "cusps cuss cussed cussedly cussedness cusser cusses cussing custards custom cutaway cutaways cutback " +
   "cutbacks cutely cuteness cutenesses cutes cutesier cutesiest cutesy cutey cuteys cuticle cuticles " +
   "cuties cutlass cutlasses cutler cutlers cutlery cutlet cutlets cutoff cutoffs cutout cutouts cutter " +
-  "cuttings cuttle cutup cutups cutworm cyan cyanate cyanic cyanided cyaniding cyanogen cyans " +
-  "cyberbully cybercafe cyborg cyborgs cyclamen cycled cycler cycleway cycleways cyclical cyclically " +
-  "cyclicals cycloid cycloidal cycloids cyclone cyclones cyclonic cyclopes cyclops cyclotron cyder " +
-  "cyders cygnet cygnets cylindric cymbal cymbals cynically cynicisms cynics cypher cyphered cyphers " +
-  "cypreses cypress cypresses cyst cystic cystitis cysts cytology cytolysis cytotoxic czar czarina " +
-  "czarinas czarism czarist czarists czars dabbed dabber dabbers dabbing dabbled dabbler dabblers " +
-  "dabbles dabbling dabs dace daces dacha dachas dactyl dactylic dactyls dadaism dadaisms dadaist " +
-  "dadaists dado dadoed dadoes dadoing daemon daemons daffier daffiest daffiness daffinesses daffodil " +
-  "daffy daft dafter daftest daftly daftness daftnesses dag dagger daggered daggering daggers dago " +
-  "dagoes dagos dags dahlia dahlias dailiness dailinesses daintier dainties daintiest daintily " +
-  "daintiness daintinesses daiquiri daiquiris dairies dairying dairyland dairymaid dairymaids dairyman " +
-  "dais daises daisy dale dales daleth dalliance dallied dallier dalliers dallies dally dallying " +
-  "damageable damager damagers damask damasked damasks damed dames dammed damming dammit dammits " +
-  "damnably damnedests damp damped dampen dampened dampener dampers dampest damping damply dampness " +
-  "dampnesses damps damsels damson damsons dancer dancings dandelion dander dandered dandering danders " +
-  "dandier dandies dandiest dandified dandifies dandify dandifying dandily dandle dandled dandles " +
-  "dandling dandruffs danged danger dangered dangering danging dangled dangler dangles danglingly dangs " +
-  "dank danker dankest dankly dankness danknesses danseuse danseuses dapper dapperer dapperest dapperly " +
-  "dapperness dappers dapple dappled dapples dappling daredevil darer darers daresay darings darked " +
-  "darken darkened darkener darkeners darkie darkies darking darkish darklier darkly darkness " +
-  "darknesses darkrooms darks darneder darnedest darner darners darning darns dartboard dartboards " +
-  "darted darter darters darting dashboards dasher dashers dashes dashiki dashikis dastard dastardly " +
-  "dastards databased datafile datagram datagrams dataset datasets datatype datebook datedly datedness " +
-  "dateline datelined dater daters dateset dative datives datum datums daub daubed dauber daubers " +
-  "daubing daubs daunt daunted daunting daunts dauphin davit davits dawdle dawdled dawdler dawdlers " +
-  "dawdles dawdling dawn dawning dawns daybed daybeds daycares daydream daydreamed daydreamer " +
-  "daydreamers daylong daysack daze dazed dazedly dazedness dazes dazing dazzle dazzler dazzlers " +
-  "dazzles dded dding deaconed deaconess deaconesses deacons deadbeats deadbolt deaden deadened " +
-  "deadener deadening deadest deadhead deadheaded deadheading deadheads deadlier deadliest deadlined " +
-  "deadliness deadlinesses deadlining deadlock deadlocked deadness deadpan deadpanned deadpanner " +
-  "deadpanning deadpans deadwood deadwoods deafen deafened deafening deafer deafest deafly deafness " +
-  "deafnesses deallocate deallocated dean deaned deaneries deanery deaning deans dearer dearests " +
-  "dearies dearness dearnesses dearth dearths deary deassign deassigns deathbeds deathless deathly " +
-  "deathtrap deathward deathwatch deaves deb debacles debar debared debarer debarest debark debarked " +
-  "debarker debarkers debarks debarred debars debase debased debaser debases debasest debatable debater " +
-  "debaters debauch debauched debauchee debenture debilitate debilitated debilities debility debit " +
-  "debited debiter debiters debiting debits debouch debouched debriefed debriefer debriefs debs debtor " +
-  "debtors debug debugged debugger debuggered debuggers debugging debugs debunk debunked debunker " +
-  "debunks debuts decadence decadenced decadences decadencies decadency decadents decaff decaffs decafs " +
-  "decagon decal decals decamp decamped decamps decant decanted decanter decants decapitate decathlete " +
-  "decayed decayer decays decease deceases decedent decedents deceits deceiver deceivers deceives " +
-  "decelerate decelerated decencies decennial decenter decentered decentest decently decibel decibels " +
-  "decidable decidedness decider deciders decile deciles deciliter decimal decimate decimated decimeter " +
-  "deciphered decipherer decisioned decisiveness decisivenesses decker deckhand decking deckle deckles " +
-  "declaim declaimed declarable declarer declarers declaw declawed declawer declaws decliner declines " +
-  "deco decoded decoders decodes decoding decoherence decollete decolletes decompose decomposed " +
-  "decomposes deconvolve decor decorous decors decouple decoupled decoyed decoyer decoyest decoyly " +
-  "decoyness decoys decreaser decreed decreeds decreeing decreer decrees decrement decremented decrepit " +
+  "cuttings cuttle cutup cutups cutworm cyanate cyanic cyanided cyaniding cyanogen cyans cyberbully " +
+  "cybercafe cyborg cyborgs cyclamen cycled cycler cycleway cycleways cyclical cyclically cyclicals " +
+  "cycloid cycloidal cycloids cyclone cyclones cyclonic cyclopes cyclops cyclotron cyder cyders cygnet " +
+  "cygnets cylindric cymbal cymbals cynically cynicisms cynics cypher cyphered cyphers cypreses cypress " +
+  "cypresses cyst cystic cystitis cysts cytology cytolysis cytotoxic czar czarina czarinas czarism " +
+  "czarist czarists czars dabbed dabber dabbers dabbing dabbled dabbler dabblers dabbles dabbling dabs " +
+  "dace daces dacha dachas dactyl dactylic dactyls dadaism dadaisms dadaist dadaists dado dadoed dadoes " +
+  "dadoing daemon daemons daffier daffiest daffiness daffinesses daffodil daffy daft dafter daftest " +
+  "daftly daftness daftnesses dag dagger daggered daggering daggers dago dagoes dagos dags dahlia " +
+  "dahlias dailiness dailinesses daintier dainties daintiest daintily daintiness daintinesses daiquiri " +
+  "daiquiris dairies dairying dairyland dairymaid dairymaids dairyman dais daises daisy dale dales " +
+  "daleth dalliance dallied dallier dalliers dallies dally dallying damageable damager damagers damask " +
+  "damasked damasks damed dames dammed damming dammit dammits damnably damnedests damp damped dampen " +
+  "dampened dampener dampers dampest damping damply dampness dampnesses damps damsels damson damsons " +
+  "dancer dancings dandelion dander dandered dandering danders dandier dandies dandiest dandified " +
+  "dandifies dandify dandifying dandily dandle dandled dandles dandling dandruffs danged danger " +
+  "dangered dangering danging dangled dangler dangles danglingly dangs dank danker dankest dankly " +
+  "dankness danknesses danseuse danseuses dapper dapperer dapperest dapperly dapperness dappers dapple " +
+  "dappled dapples dappling daredevil darer darers daresay darings darked darken darkened darkener " +
+  "darkeners darkie darkies darking darkish darklier darkly darkness darknesses darkrooms darks " +
+  "darneder darnedest darner darners darning darns dartboard dartboards darted darter darters darting " +
+  "dashboards dasher dashers dashes dashiki dashikis dastard dastardly dastards databased datafile " +
+  "datagram datagrams dataset datasets datatype datebook datedly datedness dateline datelined dater " +
+  "daters dateset dative datives datum datums daub daubed dauber daubers daubing daubs daunt daunted " +
+  "daunting daunts dauphin davit davits dawdle dawdled dawdler dawdlers dawdles dawdling dawn dawning " +
+  "dawns daybed daybeds daycares daydream daydreamed daydreamer daydreamers daylong daysack daze dazed " +
+  "dazedly dazedness dazes dazing dazzle dazzler dazzlers dazzles dded dding deaconed deaconess " +
+  "deaconesses deacons deadbeats deadbolt deaden deadened deadener deadening deadest deadhead " +
+  "deadheaded deadheading deadheads deadlier deadliest deadlined deadliness deadlinesses deadlining " +
+  "deadlock deadlocked deadness deadpan deadpanned deadpanner deadpanning deadpans deadwood deadwoods " +
+  "deafen deafened deafening deafer deafest deafly deafness deafnesses deallocate deallocated dean " +
+  "deaned deaneries deanery deaning deans dearer dearests dearies dearness dearnesses dearth dearths " +
+  "deary deassign deassigns deathbeds deathless deathly deathtrap deathward deathwatch deaves deb " +
+  "debacles debar debared debarer debarest debark debarked debarker debarkers debarks debarred debars " +
+  "debase debased debaser debases debasest debatable debater debaters debauch debauched debauchee " +
+  "debenture debilitate debilitated debilities debility debit debited debiter debiters debiting debits " +
+  "debouch debouched debriefed debriefer debriefs debs debtor debtors debug debugged debugger " +
+  "debuggered debuggers debugging debugs debunk debunked debunker debunks debuts decadence decadenced " +
+  "decadences decadencies decadency decadents decaff decaffs decafs decagon decal decals decamp " +
+  "decamped decamps decant decanted decanter decants decapitate decathlete decayed decayer decays " +
+  "decease deceases decedent decedents deceits deceiver deceivers deceives decelerate decelerated " +
+  "decencies decennial decenter decentered decentest decently decibel decibels decidable decidedness " +
+  "decider deciders decile deciles deciliter decimal decimate decimated decimeter deciphered decipherer " +
+  "decisioned decisiveness decisivenesses decker deckhand decking deckle deckles declaim declaimed " +
+  "declarable declarer declarers declaw declawed declawer declaws decliner declines deco decoded " +
+  "decoders decodes decoding decoherence decollete decolletes decompose decomposed decomposes " +
+  "deconvolve decor decorous decors decouple decoupled decoyed decoyer decoyest decoyly decoyness " +
+  "decoys decreaser decreed decreeds decreeing decreer decrees decrement decremented decrepit " +
   "decrescendo decrescendos decried decrier decries decry decrypt decrypted dedicates dedicative deduce " +
   "deduced deducer deduces deducible deducing deduct deducted deductive deducts deeded deeding deejay " +
   "deejayed deejays deem deeming deems deepen deepened deepening deepfake deepfakes deepish deepness " +
@@ -1024,79 +1023,79 @@ window.BONUS_WORDS = (
   "earshot earshots earthed earthen earthenware earthier earthiest earthlier earthmen earths earthward " +
   "earthy earwax earwaxes earwig earwigged earwigging earwigs eased easel easels easement easements " +
   "easer eases easies easiness easinesses easter easterlies easterly easterner easterners easting easts " +
-  "eastwards eatable eatables eateries eatery eatings eave eaves ebbed ebbing ebbs ebonies ebony " +
-  "ebullience ebullient eccentricities eccentricity eccentrics eccl ecclesial ecclesiastic " +
-  "ecclesiastics echeloned echelons echidna echo echoed echoes echoic echoing echos eclair eclairs " +
-  "eclat eclectically eclecticism eclecticisms eclectics eclipse eclipsed eclipses ecliptic ecliptics " +
-  "eclogue eclogues ecocide ecocides ecol ecologic ecologies econ economize ecru ecrus ecstasies " +
-  "ecstatics ecu ecumenic ecumenicism ecumenicisms ecumenics ecumenism ecumenisms ecus eczema eczemas " +
-  "edamame eddied eddies eddy eddying edelweiss edelweisses edemas eden edgeless edger edgers edgewise " +
-  "edgier edgiest edgily edginess edginesses edging edgings edibilities edibility edibleness " +
-  "ediblenesses edibles edict edicts edifice edifices edified edifier edifiers edifies edify edifying " +
-  "edit editable edits eds educ educable educates educe educed educes educing eek eeks eelgrass eerier " +
-  "eeriest eerily eeriness eerinesses eff efface effaceable effaced effacement effacer effaces effacing " +
-  "effected effecting effectives effector effectors effectual effectuate effectuated effectuates effed " +
-  "effeminate effendi effendis efferent efferently efferents effervesce effervesced effervescence " +
-  "effervescences effervesces effete effetely effeteness effetenesses efficacies efficiencies " +
-  "efficients effigies effigy effing effloresce effluence effluences effluent effluents effluvia " +
-  "effluvium efflux effortful effortless effrontery effs effulgence effulgent effuse effused effuses " +
-  "effusing effusion effusive effusiveness effusivenesses egad eggbeater eggbeaters eggcup eggcups " +
-  "egged egger egghead eggheaded eggheadedness eggheads egging eggnogs eggshell eglantine egoism " +
-  "egoisms egoist egoistic egoists egomania egos egotism egotisms egotist egotistic egotists egress " +
-  "egressed egresses egressing eider eiderdown eiders eidetic eigenstate eigenstates eighteens " +
-  "eighteenths eighths eightieth eightieths einsteinium einsteiniums eisteddfod eisteddfods ejaculate " +
-  "ejecta ejected ejecting ejection ejector ejectors ejects eke eked ekes eking elan eland elands elans " +
-  "elapse elapsed elapses elastic elasticities elastics elate elated elatedly elatedness elater elates " +
-  "elating elation elbowed elbowroom elder elderberries elderberry eldercare elderflower elderlies " +
-  "elderliness electable electing elective electively electives electress electric electricities " +
-  "electrics electrifier electro electrocute electrode electrolyte electron elects elegances elegantly " +
-  "elegiac elegiacal elegiacs elegies elegy elem element elemental elementally elementals elev " +
-  "elevateds elevates elevens elevenses elevenths elfin elfins elfish elicit elicited eliciting elicits " +
-  "elide elided elides eliding eligibilities eligibles elision elisions eliteness elites elitism " +
-  "elitisms elitists elixirs elks ell ellipse ellipses ellipsis ellipsoid ellipsoids elliptic " +
-  "elliptical ellipticity ells elmer elms elodea elodeas elongate eloper elopes eloquence els eluate " +
-  "eluates elude eludes eluding elusively elusiveness elusivenesses elute eluted eluting elution elven " +
-  "elver elvers elvish elysian emaciate emaciated emaciates emacs emailed emailing emails emanate " +
-  "emanated emanates emanating emanation embalm embalmed embalmer embalmers embalms embank embanked " +
-  "embankment embanks embargo embarks embarrasses embassies embattle embattled embattles embed " +
-  "embeddable embedder embedding embeds embellish embellishes ember embers embezzle embezzler " +
-  "embezzlers embezzles embitter embittered embitterment embitters emblemed embleming emblems embodied " +
-  "embodier embodies embody embolden emboldened embolisms embosom emboss embossed embosser embossers " +
-  "embosses embower embowered embowers embraceable embracer embraces embrasure embrasures embrittle " +
-  "embroider embroidered embroiderer embroil embryo emcee emceed emceeing emcees emend emended emender " +
-  "emending emends emerald emeralds emergences emergent emergents emeried emeries emerita emeritae " +
-  "emeriti emery emerying emetic emetics emf emfs emigrate emigre emigres eminences eminently emir " +
-  "emirate emirs emissaries emissivities emissivity emit emits emittance emitted emitter emitters " +
-  "emitting emo emollient emolument emos emoted emoticon emoting emotive empaneled emphases emphysema " +
-  "emphysemas empire empires empiric empiricism empiricisms empirics emplace empower empowered empowers " +
-  "empresses emptied emptier empties emptiest emptily emptinesses empyrean ems emulate emulated " +
-  "emulates emulsifies enabler enablers enact enacting enactment enactments enacts enamel enameled " +
-  "enameler enamelers enameling enamels enamelware enamor enamors enc encamp encamped encampment " +
-  "encamps encase encased encasement encasements encases encasing enchain enchained enchaining enchains " +
-  "enchanter enchants encipher encipherer encircle encircled encircles encircling encl enclave enclaved " +
-  "enclaves enclose encloses encode encoder encoders encodes encomium encore encored encores encoring " +
-  "encroach encroacher encrust encrusts encrypt encumber ency encyclical encyst encysted encystment " +
-  "encystments encysts endangers endear endeared endearment endears endeavored endeavorer endemics " +
-  "ender enders endgame endgames endian endianness endive endives endlessness endlessnesses endmost " +
-  "endnote endnotes endocrine endogenous endorser endorsers endorses endoscope endoscopes endow " +
-  "endowing endows endpoint endue endued endues enduing endungeoned endures endways enemas energize " +
-  "energizer energizers energizes energizing enervate enervated enervates enfeeble enfeebled " +
-  "enfeeblement enfeebles enfeebling enfilade enfiladed enfold enfolded enfolds enforcer enforcers " +
-  "enforces engage engages engagingly engender engendered engendering engenders engineer engineeringly " +
-  "engineerings engining engorge engorged engorgement engorges engorging engram engrams engrave " +
-  "engraver engravers engraves engraving engross engrossed engrosser engrosses engrossing engulf " +
-  "engulfed engulfing engulfs enhanceable enhancer enhancers enhances enigma enigmas enjambment enjoin " +
-  "enjoinder enjoined enjoining enjoins enlarge enlargeable enlarger enlargers enlarges enlarging " +
-  "enlistee enlistees enlister enlisting enlistment enlistments enlists enliven enlivened enlivening " +
-  "enlivenment enlivens enmesh enmeshed enmeshes enmeshing enmeshment enmeshments enmities enmity " +
-  "ennoble ennobled ennoblement ennobler ennobles ennobling ennuis enormousness enormousnesses enoughs " +
-  "enplane enplaned enplanes enplaning enqueue enqueued enqueues enquirers enrage enrages enraging " +
-  "enrapture enrich enriched enricher enriches enriching enrobed enroll enrollee enrollees enrolling " +
-  "enrolls ens ensconce ensconced ensconces ensconcing enshrine enshrined enshrines enshrining ensigns " +
-  "ensilage ensilages ensilaging enslave enslaved enslaver enslavers enslaves ensnare ensnared " +
-  "ensnarement ensnarements ensnares ensnaring ensues ensurer ensurers entail entailed entailer " +
-  "entailing entailment entangle entangled entanglement entangler entangles entangling entente ententes " +
-  "enter enteral enterer enteric enteritides enteritis enteritises enterprise enterpriser entertainers " +
+  "eastwards eatable eatables eateries eatery eatings eave eaves ebbed ebbing ebbs ebonies ebullience " +
+  "ebullient eccentricities eccentricity eccentrics eccl ecclesial ecclesiastic ecclesiastics echeloned " +
+  "echelons echidna echo echoed echoes echoic echoing echos eclair eclairs eclat eclectically " +
+  "eclecticism eclecticisms eclectics eclipse eclipsed eclipses ecliptic ecliptics eclogue eclogues " +
+  "ecocide ecocides ecol ecologic ecologies econ economize ecru ecrus ecstasies ecstatics ecu ecumenic " +
+  "ecumenicism ecumenicisms ecumenics ecumenism ecumenisms ecus eczema eczemas edamame eddied eddies " +
+  "eddy eddying edelweiss edelweisses edemas eden edgeless edger edgers edgewise edgier edgiest edgily " +
+  "edginess edginesses edging edgings edibilities edibility edibleness ediblenesses edibles edict " +
+  "edicts edifice edifices edified edifier edifiers edifies edify edifying edit editable edits eds educ " +
+  "educable educates educe educed educes educing eek eeks eelgrass eerier eeriest eerily eeriness " +
+  "eerinesses eff efface effaceable effaced effacement effacer effaces effacing effected effecting " +
+  "effectives effector effectors effectual effectuate effectuated effectuates effed effeminate effendi " +
+  "effendis efferent efferently efferents effervesce effervesced effervescence effervescences " +
+  "effervesces effete effetely effeteness effetenesses efficacies efficiencies efficients effigies " +
+  "effigy effing effloresce effluence effluences effluent effluents effluvia effluvium efflux effortful " +
+  "effortless effrontery effs effulgence effulgent effuse effused effuses effusing effusion effusive " +
+  "effusiveness effusivenesses egad eggbeater eggbeaters eggcup eggcups egged egger egghead eggheaded " +
+  "eggheadedness eggheads egging eggnogs eggshell eglantine egoism egoisms egoist egoistic egoists " +
+  "egomania egos egotism egotisms egotist egotistic egotists egress egressed egresses egressing eider " +
+  "eiderdown eiders eidetic eigenstate eigenstates eighteens eighteenths eighths eightieth eightieths " +
+  "einsteinium einsteiniums eisteddfod eisteddfods ejaculate ejecta ejected ejecting ejection ejector " +
+  "ejectors ejects eke eked ekes eking elan eland elands elans elapse elapsed elapses elastic " +
+  "elasticities elastics elate elated elatedly elatedness elater elates elating elation elbowed " +
+  "elbowroom elder elderberries elderberry eldercare elderflower elderlies elderliness electable " +
+  "electing elective electively electives electress electric electricities electrics electrifier " +
+  "electro electrocute electrode electrolyte electron elects elegances elegantly elegiac elegiacal " +
+  "elegiacs elegies elegy elem element elemental elementally elementals elev elevateds elevates elevens " +
+  "elevenses elevenths elfin elfins elfish elicit elicited eliciting elicits elide elided elides " +
+  "eliding eligibilities eligibles elision elisions eliteness elites elitism elitisms elitists elixirs " +
+  "elks ell ellipse ellipses ellipsis ellipsoid ellipsoids elliptic elliptical ellipticity ells elmer " +
+  "elms elodea elodeas elongate eloper elopes eloquence els eluate eluates elude eludes eluding " +
+  "elusively elusiveness elusivenesses elute eluted eluting elution elven elver elvers elvish elysian " +
+  "emaciate emaciated emaciates emacs emailed emailing emails emanate emanated emanates emanating " +
+  "emanation embalm embalmed embalmer embalmers embalms embank embanked embankment embanks embargo " +
+  "embarks embarrasses embassies embattle embattled embattles embed embeddable embedder embedding " +
+  "embeds embellish embellishes ember embers embezzle embezzler embezzlers embezzles embitter " +
+  "embittered embitterment embitters emblemed embleming emblems embodied embodier embodies embody " +
+  "embolden emboldened embolisms embosom emboss embossed embosser embossers embosses embower embowered " +
+  "embowers embraceable embracer embraces embrasure embrasures embrittle embroider embroidered " +
+  "embroiderer embroil embryo emcee emceed emceeing emcees emend emended emender emending emends " +
+  "emeralds emergences emergent emergents emeried emeries emerita emeritae emeriti emery emerying " +
+  "emetic emetics emf emfs emigrate emigre emigres eminences eminently emir emirate emirs emissaries " +
+  "emissivities emissivity emit emits emittance emitted emitter emitters emitting emo emollient " +
+  "emolument emos emoted emoticon emoting emotive empaneled emphases emphysema emphysemas empire " +
+  "empires empiric empiricism empiricisms empirics emplace empower empowered empowers empresses emptied " +
+  "emptier empties emptiest emptily emptinesses empyrean ems emulate emulated emulates emulsifies " +
+  "enabler enablers enact enacting enactment enactments enacts enamel enameled enameler enamelers " +
+  "enameling enamels enamelware enamor enamors enc encamp encamped encampment encamps encase encased " +
+  "encasement encasements encases encasing enchain enchained enchaining enchains enchanter enchants " +
+  "encipher encipherer encircle encircled encircles encircling encl enclave enclaved enclaves enclose " +
+  "encloses encode encoder encoders encodes encomium encore encored encores encoring encroach " +
+  "encroacher encrust encrusts encrypt encumber ency encyclical encyst encysted encystment encystments " +
+  "encysts endangers endear endeared endearment endears endeavored endeavorer endemics ender enders " +
+  "endgame endgames endian endianness endive endives endlessness endlessnesses endmost endnote endnotes " +
+  "endocrine endogenous endorser endorsers endorses endoscope endoscopes endow endowing endows endpoint " +
+  "endue endued endues enduing endungeoned endures endways enemas energize energizer energizers " +
+  "energizes energizing enervate enervated enervates enfeeble enfeebled enfeeblement enfeebles " +
+  "enfeebling enfilade enfiladed enfold enfolded enfolds enforcer enforcers enforces engage engages " +
+  "engagingly engender engendered engendering engenders engineer engineeringly engineerings engining " +
+  "engorge engorged engorgement engorges engorging engram engrams engrave engraver engravers engraves " +
+  "engraving engross engrossed engrosser engrosses engrossing engulf engulfed engulfing engulfs " +
+  "enhanceable enhancer enhancers enhances enigma enigmas enjambment enjoin enjoinder enjoined " +
+  "enjoining enjoins enlarge enlargeable enlarger enlargers enlarges enlarging enlistee enlistees " +
+  "enlister enlisting enlistment enlistments enlists enliven enlivened enlivening enlivenment enlivens " +
+  "enmesh enmeshed enmeshes enmeshing enmeshment enmeshments enmities enmity ennoble ennobled " +
+  "ennoblement ennobler ennobles ennobling ennuis enormousness enormousnesses enoughs enplane enplaned " +
+  "enplanes enplaning enqueue enqueued enqueues enquirers enrage enrages enraging enrapture enrich " +
+  "enriched enricher enriches enriching enrobed enroll enrollee enrollees enrolling enrolls ens " +
+  "ensconce ensconced ensconces ensconcing enshrine enshrined enshrines enshrining ensigns ensilage " +
+  "ensilages ensilaging enslave enslaved enslaver enslavers enslaves ensnare ensnared ensnarement " +
+  "ensnarements ensnares ensnaring ensues ensurer ensurers entail entailed entailer entailing " +
+  "entailment entangle entangled entanglement entangler entangles entangling entente ententes enter " +
+  "enteral enterer enteric enteritides enteritis enteritises enterprise enterpriser entertainers " +
   "entertains enthrall enthrone enthroned enthronement enthrones enthuse enthused enthuses enticed " +
   "enticement enticements enticer enticers entices enticings entires entireties entitle entitlement " +
   "entitlements entitling entomb entombed entombment entombments entombs entrain entrained entrainer " +
@@ -1321,13 +1320,13 @@ window.BONUS_WORDS = (
   "froufrous froward frowned frowner frowning frowns frowzier frowzy frozenness fructify frugal " +
   "frugally fruited fruiter fruiterer fruiterers fruitfuller fruitfully fruitier fruitiest fruiting " +
   "fruition fruity frump frumpier frumps frumpy frustrate frustrater frustrates frustum frustums fryer " +
-  "fryers ftpers ftping fuchsia fuchsias fuddle fuddled fuddles fuddling fudged fudges fudging fuehrer " +
-  "fuehrers fueler fuelers fueling fug fugal fuggy fugued fugues fuguing fulcrum fulcrums fulfiller " +
-  "fulfills fullback fulled fuller fullered fullers fulling fullish fullness fullnesses fulls fullstops " +
-  "fullword fulsome fum fumbled fumbler fumbles fume fumed fumier fumiest fuming fums fumy functor " +
-  "funder funders fundings funerary funereal funfair funfairs fungal fungals fungoid fungous fungus " +
-  "funk funked funkier funkiness funkinesses funking funks funned funnel funneled funneling funnels " +
-  "funner funnest funnies funnily funniness funninesses funning funnyman funnymen funs furbish furies " +
+  "fryers ftpers ftping fuchsias fuddle fuddled fuddles fuddling fudged fudges fudging fuehrer fuehrers " +
+  "fueler fuelers fueling fug fugal fuggy fugued fugues fuguing fulcrum fulcrums fulfiller fulfills " +
+  "fullback fulled fuller fullered fullers fulling fullish fullness fullnesses fulls fullstops fullword " +
+  "fulsome fum fumbled fumbler fumbles fume fumed fumier fumiest fuming fums fumy functor funder " +
+  "funders fundings funerary funereal funfair funfairs fungal fungals fungoid fungous fungus funk " +
+  "funked funkier funkiness funkinesses funking funks funned funnel funneled funneling funnels funner " +
+  "funnest funnies funnily funniness funninesses funning funnyman funnymen funs furbish furies " +
   "furiouser furl furled furling furlong furlough furls furn furness furnish furor furore furores " +
   "furors furred furrier furriers furriest furriness furrinesses furring furrings furrow furrowed " +
   "furrows furry furs furthered furtherer furtherest furthers furtive furze furzes fusebox fuseboxes " +
@@ -1403,233 +1402,232 @@ window.BONUS_WORDS = (
   "gleefulness gleefulnesses gleeing glees glen glenoid glens glib glibber glibbest glibly glibness " +
   "glibnesses glide glided glider gliders glides gliding glidings glim glimmered glimmering glimmers " +
   "glimpses glimpsing glint glinted glinting glints glissandi glisten glistens glister glisters " +
-  "glitching glitter glitterati glittered glittering glitters glittery glitz glitzed glitzes glitzier " +
-  "glitziest glitzing glitzy gloaming gloated gloater gloats glob globals globed globetrotter globing " +
-  "globs globular globule globules globulin glommed gloomed gloomier gloomily glooming glooms glop " +
-  "glopped gloppier glopping gloppy glops gloried glories glorifier glorify glory glorying glossary " +
-  "glossed glosses glossier glossies glossiest glossily glossiness glossinesses glossing glossolalia " +
-  "glossolalias glossy glottal glottis glottises gloved gloveless glover glovers gloving glowed glower " +
-  "glowered glowers glowingly glowworm glowworms glucagon glucoses gluer gluers glues gluey gluier " +
-  "gluiest gluing glum glumly glummer glummest glumness glumnesses glums gluon gluons glut glutamate " +
-  "gluten gluts glutted glutting gluttonous gluttons glycerol glycine glycogen glycol glycols glyph " +
-  "glyphs gnarl gnarled gnarlier gnarling gnarls gnash gnashed gnashes gnashing gnaw gnawed gnawer " +
-  "gnawings gnaws gneiss gneisses gnomic gnomish gnomonic gnostic goad goaded goads goaled goalies " +
-  "goaling goalless goalpost goalposts goatees gobbed gobbet gobbets gobbing gobbled gobbler gobblers " +
-  "gobbling goblets goblin gobs godchild godded goddess goddesses godding godhead godheads godhood " +
-  "godhoods godlessly godlessness godlessnesses godlier godlike godly godsends godsons godspeed goer " +
-  "goering goers gofer gofers goggle goggled goggler gogglers goggling goings goiters golden goldener " +
-  "goldenly goldenness goldenrod golder goldest goldfield golding golds golfed golfers golfing golfs " +
-  "gollies golliwog golliwogs gonad gonadal gonads gondolas goners gong gonged gonging gongs gonion " +
-  "gonk gonks gonzo goo goodish goodlier goodly goodnesses goodwills goof goofball goofballs goofed " +
-  "goofier goofiest goofiness goofinesses goofs google googled googles googlies googling googly gooier " +
-  "gooiest goon goop goops goos gooseberries gooseberry goosed gooses goosestep goosestepped goosesteps " +
-  "goosing gore gored gores gorged gorgeousness gorgeousnesses gorger gorges gorging gorgon gorgons " +
-  "gorier goriest gorily goriness gorinesses goring gormless gorp gorps gorse gorses gory gos goshawk " +
-  "goshawks goshes gosling goslings gospeler gospelers gossamers gossiped gossiper gossipers gossips " +
-  "gossipy gotchas goths goto gouache gouge gouger gougers gouges gouging goulash gourd gourde gourdes " +
-  "gourds gout goutier goutiest gouts gouty gov governesses governs govs govt gowned gowning grabber " +
-  "grabbers grabbier grabbings grabby grace graced graceless gracing grackle gradate gradated gradates " +
-  "gradating gradely gradings grads graduals graduand graduands graffito grafted grafter grafters " +
-  "grafting grafts graham grahams grails grained grainer grainier graininess graininesses graining " +
-  "grainy grammarian grammarians grammars grammatic gramme grammes grampus granaries granary grandam " +
-  "grandams grandaunt granddads grandee grandees grander grandkid grandly grandmas grandness " +
-  "grandnesses grandpas grands grandsons grandstand grandstands granger granges granitic grannies " +
-  "granny granolas grans grant grantee grantees granter granters granular granularly granule graped " +
-  "graphed grapheme graphing graping grapnel grapple grappled grappler grapples grappling grasper " +
-  "grasps grassed grassers grasses grassier grassiest grassing grasslands grassy grate grated grater " +
-  "graters grates gratify gratin grating gratings gratins gratis gratuity gravamen graved gravedigger " +
-  "graveled gravelly gravels gravely graven graveness gravenesses graver gravers graves gravest gravid " +
-  "gravies graving gravitas gravitate gravitating gray graybeard grayed grayer grayest graying grayish " +
-  "grayly grayness graynesses grays graze grazer grazers grazes grease greaser greasers greases " +
-  "greasier greasiest greasiness greasinesses greasing greatcoat greaten greatened greatening " +
-  "greathearted greatnesses greats grebe grebes greedier greediest greedily greediness greedinesses " +
-  "greeds green greenbelt greened greener greeneries greenery greenest greenfly greengage greengages " +
-  "greengrocer greengrocers greengrocery greenhorn greenhorns greening greenish greenishness greenly " +
-  "greenness greennesses greenroom greenrooms greens greenstone greenwood greeter greeters greets " +
-  "gremlin grenades grenadier grenadine grep grepped grepping greps greybeard greyness gribble gribbles " +
-  "gridded griddle griddled griddles griddling griding gridiron gridironed gridironing gridirons grids " +
-  "griefs grieved griever grievers grieves griffon griffons grille griller grilles grillings grills " +
-  "grillwork grim grimace grimacer grimacing grime grimed grimes grimier grimiest griminess griminesses " +
-  "griming grimly grimmer grimmest grimness grimnesses grimy grin grinder grinders grindingly grindings " +
-  "grinds gringo gringos grinned grinner grinningly grins griped griper gripers gripes griping grippe " +
-  "gripped gripper grippers grippes gripping grippingly grislier grisliest grisliness grislinesses " +
-  "grist gristle gristles gristlier gristliest gristly gristmill gristmills grists grit grits gritted " +
-  "gritter gritters grittier grittiest grittiness grittinesses gritting grizzle grizzled grizzles " +
-  "grizzlier grizzling groan groaned groaner groaners groaning groans groat groats grocer grocers grog " +
-  "groggier groggiest groggily grogginess grogginesses grogs groined groining groins grok grokked " +
-  "grokking groks grommet grommeted grommets groofs groomer groomers grooms groomsman groomsmen groove " +
-  "grooved groover grooves groovier grooving grope groped groper gropers gropes gropings grosgrain " +
-  "grosgrains gross grosser grosses grossest grossly grossness grossnesses grottier grottiest grottoes " +
-  "grotty grouch grounder groundnut grouper groupers groused grouser grousers grousing grout grouted " +
-  "grouter grouting grouts grove groveled groveler grovelers grovelled grovels grover grovers groves " +
-  "grower growers growled growler growlers growlier growls growly growths grub grubbed grubber grubbers " +
-  "grubbier grubbily grubs grudged grudger grudging grudgings grue gruel grueled gruels grues gruesomer " +
-  "gruff gruffed gruffer gruffest gruffing gruffly gruffness gruffnesses gruffs grumble grumbler grump " +
-  "grumped grumpier grumping grumps grumpy grunge grunges grungier grunion grunions grunt grunted " +
-  "grunter grunts guanine guanines guano guanos guarani guaranis guaranteer guarantor guaranty guarder " +
-  "guarders guardian guardrail guardroom guava guavas gudgeon guernsey guernseys guessable guesser " +
-  "guessers guested guesthouses guesting guff guffaw guffawed guffawing guffaws guffs guideline guider " +
-  "guiders guilder guildhall guilds guile guiled guileful guileless guilelessly guilelessness " +
-  "guilelessnesses guiles guiling guillotining guiltier guiltiest guiltily guiltless guilts guised " +
-  "guises guising guitar guitarists guitars gulag gulags gulch gulches gulden guldens gulfed gulfing " +
-  "gulfs gulled gullet gullets gullibility gullied gullies gulling gully gullying gulp gulped gulper " +
-  "gulpers gulping gulps gumball gumballs gumboil gumboot gumboots gumbos gumdrop gummed gummier " +
-  "gummiest gumminess gumming gums gumshoe gumshoes gumtree gumtrees gunboat gunfight gunfighting " +
-  "gunflint gunfought gunge gungy gunk gunkier gunks gunky gunmen gunnel gunnels gunner gunneries " +
-  "gunners gunnery gunnies gunning gunny gunrunner gunrunners gunrunning gunrunnings gunship gunships " +
-  "gunsling gunslinging gunwale gurgle gurgled gurgles gurgling gurney gurneys gurus gush gushed gusher " +
-  "gushers gushes gushier gushiest gushy gusset gusseted gusseting gussets gussied gussies gussy " +
-  "gussying gust gusted gustier gustiest gustily gustiness gusting gustoes gusts gusty gutlessness " +
-  "gutlessnesses gutser gutsier gutsiest gutsiness guttered guttering guttier gutties guttiest gutting " +
-  "guttural gutturally gutturals gutty guv guvnor guvnors guvs guyed guyer guyers guying guzzle guzzled " +
-  "guzzler guzzlers guzzles gymkhana gymnasts gyms gymslip gymslips gynecology gyp gypped gypper " +
-  "gyppers gypping gyps gypsied gypsite gypster gypsters gypsum gypsums gyrate gyrated gyrates gyrating " +
-  "gyrator gyrators gyro gyros gyve gyved gyves gyving habeas haberdasher haberdashers habitability " +
-  "habitable habitant habitants habitation habited habiting habitual habituate habitue hacienda hack " +
-  "hacked hacker hackers hacking hackish hackle hackled hackler hackles hackney hacksaws hackwork " +
-  "haddock haddocks haded hading hadith hadron hadrons hadst hafnium haft hafted hafting hafts hag " +
-  "haggard haggardly haggards hagged hagging haggis haggises haggish haggled haggler hagglers haggles " +
-  "haggling hags hahnium hahniums hailer hailing hails hairball hairballs hairband haircare hairdos " +
-  "hairdressers hairdryer hairgrip hairgrips hairier hairiest hairiness hairinesses hairlike hairnet " +
-  "hairpiece hairpin hairpins hairsprays hairy haj hajj hajjes hajji hajjis hake hakes halal halalled " +
-  "halalling halals halberd halcyon hale haled haler hales halest halfback halfness halfwit halibut " +
-  "halide halides haling halite halites halitosis hall hallelujahs haller hallmark hallmarks hallo " +
-  "halloed halloing halloo hallooing halloos hallos hallow hallows halo haloed halogen haloing halon " +
-  "halos halter haltered halters halting halts halve halved halvers halves halving halyard halyards " +
-  "hamburg hamlet hammed hammer hammerer hammerers hammerhead hammerheads hammerless hammers hammertoe " +
-  "hammier hammiest hamming hammock hammocks hammy hamper hampers hams handbag handbagged handbagging " +
-  "handbags handball handballs handbasin handbill handcar handcars handcart handcuff handedness hander " +
-  "handers handguns handheld handhelds handhold handholds handier handily handiness handinesses " +
-  "handleable handler handless handmaid handmaiden handmaids handrail handsaw handsaws handset handsets " +
-  "handshakes handstand handstands handy handyman handymen hangared hangaring hangars hangdog hangdogs " +
-  "hangings hangman hangmen hangnail hangnails hangup hangups hank hanked hanker hankered hankerer " +
-  "hankers hankie hankies hanking hanks hansom hansoms hap haphazard haphazards hapless haplessly " +
-  "haplessness haplessnesses haploid haply happed happinesses happing haps haptic harangue haranguer " +
-  "haranguing harasser harassers harasses harbored harborer harborers harbors hardback hardball " +
-  "hardballs hardboard hardboards hardcore harden hardener hardeners hardhat hardhats hardheaded " +
-  "hardheadedly hardheadedness hardheadednesses hardhearted hardier hardies hardihood hardihoods " +
-  "hardily harding hardness hardnesses hards hardshell hardships hardstand hardstands hardtack hardtop " +
-  "hardwares hardwire hardwired hardwood hardwoods hardy harebell harebells hared harelip harems " +
-  "haricot haring hark harked harking harks harlotry harmer harms harness harnessed harnesser harnesses " +
-  "harp harped harper harpers harpies harpist harpists harpoon harpooner harpoons harps harridan " +
-  "harridans harried harrier harriers harries harrow harrowed harrower harrows harrumph harrumphs harry " +
-  "harrying harshen harshened harsher harshest harshness harshnesses hart harvest harvester harvesters " +
-  "harvests hash hashed hasher hashes hashing hashish hashishes hashtag hashtags hasp hasped hasping " +
-  "hasps hassler hassock hassocks hast hasted hasten hastened hastener hastes hastier hastiest hastily " +
-  "hastiness hastinesses hasting hastings hasty hatband hatbands hatbox hatch hatchback hatchbacks " +
-  "hatcheck hatchecks hatcher hatchery hatches hatcheted hatchets hatchway hatchways hater haters " +
-  "hatless hatpin hatpins hatreds hatstand hatstands hatted hatter hatters hatting hauberk haughty " +
-  "haulage haulages hauler haulers haulier hauls haunch haunched haunches haunching haunter hauteur " +
-  "hauteurs havened havening havens haver havers haves havocs haw hawed hawing hawked hawker hawkers " +
-  "hawking hawkish haws hawser hawsers hawthorn haycock haycocks hayed hayer haying hayloft haymaker " +
-  "haymow haymows hayrick hayride hays hayseed hayseeds haystacks haywain hazard hazarded haze hazed " +
-  "hazel hazels hazer hazers hazes hazier haziest hazily haziness hazinesses hazings hazmat hazy " +
-  "headband headbands headbutt headbutted headcase headcases headcheese headdress headdresses headers " +
-  "headgears headhunt headhunted headier headiest headily headiness headinesses headlamp headland " +
-  "headlands headless headlessness headlined headman headmen headphone headpiece headpin headrest " +
-  "headrests headroom headsets headship headships headsman headsmen headstall headstalls headstand " +
-  "headstands headteacher headwall headwalls headwater headways headwind headword heady healers " +
-  "healthful healthily healths heaped heaping heaps hearer hearers hearest hearken hearkened hearkens " +
-  "hearsays hearsed hearses heartaches heartbeats hearten heartened heartens hearthrug hearths heartier " +
-  "hearties heartiest hearts heartthrob heatedly heater heaters heath heathen heathenish heather " +
-  "heathers heathery heathland heaths heatwave heatwaves heaved heaven heaver heavers heaves heavies " +
-  "heaviest heaviness heavinesses heavyset heckle heckled heckler hecklers hecks hectare hectics " +
-  "hectometer hector hectored hectors hedge hedged hedgehop hedgehopped hedgehops hedger hedgerow " +
-  "hedgers hedges hedging heed heeded heedful heedfully heeding heedless heedlessly heedlessness " +
-  "heedlessnesses heeds heehaw heehawed heehawing heehaws heeled heeler heelers heeling heelless heft " +
-  "hefted heftier heftiest heftily heftiness heftinesses hefting hefts hegemony hegira hegiras heifer " +
-  "heifers heighten heightening heinousness heinousnesses heired heiresses heiring heisted heister " +
-  "heisting heists helical helically helices helicon helipad helium heliums helix hellbender hellbent " +
-  "hellcat hellcats hellebore hellebores hellfire hellholes hellion hellions hellishly hellishness " +
-  "hellishnesses hello helloing hellos helm helmed helmet helmeted helming helms helmsman helmsmen " +
-  "helot helots helper helpfully helplessly helplessness helplessnesses helpline helplines helpmate " +
-  "helve helved helves helving hematite hematites heme hemes hemispheres hemline hemlines hemlock " +
-  "hemmed hemmer hemmers hemming hemostat hemostats hemp hemps hems hemstitch hemstitches hences " +
-  "henchman henchmen henge henna hennaed hennaing hennas henning henpeck henpecked henpecks henry hep " +
-  "hepatic hepper heppest heps heptane heralded heraldry heralds herbage herbages herbals herbicide " +
-  "herbivore herd herded herder herders herding herds herdsmen hereafter hereafters heredities heredity " +
-  "herein hereof hereon heres heresies heresy heretic heretics hereto heretofore hereunder hereunto " +
-  "hereupon herewith heritor hermetic hermit hermits hernial hernias herniate heroism heroisms hertz " +
-  "hes hesitater hesitates hessian hetero heterodox heteros hewed hewer hewers hewing hews hex hexagon " +
-  "hexagram hexameter hexed hexer hexes hexing heyday heydays hgwy hiatuses hibachi hibachis hibiscus " +
-  "hibiscuses hiccough hiccoughing hiccoughs hiccup hiccuped hiccuping hick hickey hickeys hickory " +
-  "hicks hidden hided hideout hider hiders hidings hie hied hieing hierarchal hierarchic hierarchical " +
-  "hierarchies hieratic hies highball highballing highballs highborn highboy highboys highbrow " +
-  "highchair highchairs highers highhanded highish highland highlighter highnesses highpoint highroad " +
-  "highs hight hightailing hightails hijab hijabs hijacks hiked hikers hikes hiking hilarity hill " +
-  "hillbillies hilled hiller hillier hilliest hilliness hillinesses hilling hillman hillmen hillock " +
-  "hillocks hillside hillsides hilltop hilltops hilt hilted hilting hilts hims hind hinder hindered " +
-  "hinderer hindering hinders hinds hindsights hing hinged hinger hinging hings hinted hinter hinters " +
-  "hipbath hipbaths hipbone hipness hipnesses hipped hipper hippest hippie hippier hippiest hipping " +
-  "hipster hipsters hiragana hireling hirer hirers hirings hirsute hiss hissed hisser hisses hissing " +
-  "hissings hist histed histidine histidines histing histologist histologists historicist hists hitcher " +
-  "hitchers hitches hitchhike hitchhiked hitchhikes hitherto hitless hittable hitters hive hived " +
-  "hivemind hiving hoagie hoagies hoar hoard hoarded hoarder hoarders hoards hoarfrost hoarfrosts " +
-  "hoarier hoarse hoarseness hoarsenesses hoarser hoarsest hoary hoax hoaxed hoaxer hoaxers hoaxes " +
-  "hoaxing hobbed hobbing hobbit hobbits hobble hobbled hobbler hobblers hobbles hobbling hobbyhorse " +
-  "hobbyhorses hobbyist hobbyists hobgoblin hobnail hobnob hobnobbed hobnobbing hobnobs hobo hoboed " +
-  "hoboing hobos hobs hoc hock hocked hocker hockeys hocking hocks hockshop hockshops hod hodge " +
-  "hodgepodge hodgepodges hodges hods hoe hoecake hoecakes hoed hoedown hoedowns hoeing hoer hoers hoes " +
-  "hogan hogans hogback hogged hogger hoggish hoggishly hogshead hogsheads hogtie hogtied hogties " +
-  "hogtying hogwash hogwashes hoick hoicked hoicking hoicks hoisted hoister hoisting hoists hoke hoked " +
-  "hokes hokeyer hokeyest hokeyness hokier hokiest hoking hokum hokums holdall holdalls holder holdout " +
-  "holdouts holdover holdups holey holiday holies holiest holinesses holing holism holistic holler " +
-  "hollered hollers hollies hollowed hollower hollowest hollowing hollowly hollowness hollownesses " +
-  "hollows hollowware holly hollyhock hollyhocks holmium holmiums holograph hols holsters homaged " +
-  "homager homages homaging hombre hombres homburg homebody homeboy homeboys homed homelessness " +
-  "homelessnesses homelier homelike homely homemade homemake homeomorph homeopath homeostases homeowner " +
-  "homepage homered homerooms homers homeworker homeyness homeynesses homeys homier homiest homilies " +
-  "homily hominid hominids hominies hominoid hominoids hominy homogamy homograph homologous homologue " +
-  "homology homomorphic homomorphism homomorphisms homonym homonyms homophobia homophobic homophone " +
-  "homophones homotopy hon honchoed honchoing honchos hone honer honers hones honester honestest " +
-  "honesties honeybee honeybees honeydew honeyed honeying honeymooned honeymooner honeymoons honeypot " +
-  "honeys hong honing honk honked honker honkers honkies honks honoree honorees honorer honorers " +
-  "honorific hons hooch hooches hood hooded hoodedness hoodie hoodies hooding hoodoo hoodooed hoodooing " +
-  "hoodoos hoodwink hooeys hoof hoofed hoofer hoofers hoofing hoofmark hoofs hookah hookahs hookedness " +
-  "hookier hookies hookiest hooks hookup hookups hookworm hookworms hooligan hooped hooper hooping " +
-  "hoopla hooplas hoorayed hoorays hoosegow hoosegows hooted hootenanny hooter hooting hoots hoover " +
-  "hoovered hoovers hopeful hopelessness hopelessnesses hoper hopper hoppers hoppled hopples hops " +
-  "hopscotch hopscotches hora horas horde horded hording horehound horizon horn horned hornedness " +
-  "horner hornier horniness horning hornless hornpipe horologic horology horoscopes horridly horrified " +
-  "horrifies horrify horsebox horseboxes horsedom horseflesh horsehair horsehairs horsehide horsehides " +
-  "horseless horsely horsemen horsepower horsepowers horseshoed horseshoer horseshoes horsey horsier " +
-  "horsiest hortatory hos hosanna hosannaed hosannaing hosannas hosed hosepipe hosepipes hosier " +
-  "hosieries hosiers hosiery hosing hosp hospice hospices hosteled hosteler hostelers hostels hostessed " +
-  "hostesses hostily hostler hostlers hostly hotbed hotbeds hotblooded hotbox hotboxes hotcake " +
-  "hotchpotch hotelier hotfoot hotfooted hotfooting hotfoots hotheaded hotheads hothouse hothoused " +
-  "hothouses hotkey hotkeys hotlink hotly hotness hotnesses hotplate hotpot hotpots hotrod hotshot " +
-  "hotshots hotted hottie hotties hotting hough hounder houri houris houseboy houseboys houseful " +
-  "housefuls housekeep housemen houser houseroom housetop housetops housings hove hovel hoveled hovels " +
-  "hover hovered hoverer hovers howbeit howdah howdahs howdied howdies howl howled howler howlers howls " +
-  "hows howsoever hoy hoyden hoydened hoydens huarache huaraches hubbies hubbub hubbubs hubcap hubcaps " +
-  "hubris hubrises hubs huddler huddles huddling hued hues huff huffed huffier huffiest huffily " +
-  "huffiness huffinesses huffing huffs huffy hugely hugeness hugenesses huger hugest hugger huggings " +
-  "hugs huhs hula hulaed hulaing hulas hulk hulked hulking hulks hull hullabaloo hullabaloos hulled " +
-  "huller hullers hulling hullo hulloed hulloing hullos hulls humane humaneness humanenesses humaner " +
-  "humanism humanisms humanness humannesses humble humbler humbles humbug humbugged humbugging humbugs " +
-  "humdrum humdrums humeral humeri humerus humidified humidify humidly humidor hummed hummer hummers " +
-  "hummock hummocks hummocky hummuses humored humorer humorers humors humph humphed humphing humphs " +
-  "humps hums humus humuses hunchback hunched hunching hundreder hung hungered hungering hungers " +
-  "hungrier hunker hunkered hunkers hunkier hunkies hunks hunt hunter hunting huntings huntress " +
-  "huntresses huntsman huntsmen hurdled hurdler hurdlers hurl hurler hurlers hurls hurrahed hurrahing " +
-  "hurrahs hurrayed hurrays hurried hurrier hurries hurter hurtfully hurtle hurtled hurtles hushed " +
-  "hushes hushing husk husked husker huskers huskier huskiest huskily huskiness huskinesses husking " +
-  "husks hussar hussars hussies hustings hustler hustlers hustles hutched hutches hutching huts hutted " +
-  "hutting huzzah huzzahed huzzahing huzzahs hwy hyacinth hydra hydras hydrate hydrated hydride " +
-  "hydrides hydro hydrology hydros hydrous hydroxy hydroxyl hygienes hygienic hying hymen hymeneal " +
-  "hymens hymnal hymnals hymnbook hymned hymning hypers hypersphere hypertext hypertrophy hypes hyphen " +
-  "hyphenate hyphened hyphening hyphens hyping hypnoses hypo hypoed hypoing hypos hypotheses hypoxia " +
-  "hyssop hyssops hysteresis iamb iambi iambic iambics iambs iambus iambuses ibid ibidem iceberg " +
-  "icebergs iceboat icebox iceboxes icebreaker icecap icecaps iceman icemen icepack icepick icepicks " +
-  "ices icicle icicles icier iciest icily iciness icinesses icings ickier ickiest icky ictus ictuses " +
-  "idealism idealisms idealist idealists idealize idealized idealizer idealizes ideally ideate ideates " +
-  "ideation idem identifier identikit identikits ideologies ideologue ides idiocies idiolect idiom " +
-  "idiomatic idioms idle idled idleness idlenesses idler idlers idles idlest idling idly idolize " +
-  "idolized idolizer idolizes idolizing idols ids idyll idyllic idyllically idylls iffier iffiest " +
-  "iffiness iffinesses iffy ifs igloos igneous ignited igniter ignites igniting ignitions ignoble " +
-  "ignobly ignominies ignominious ignominy ignorer iii ilea ileitides ileitis ileum ilia iliac ilium " +
-  "ilk ilks illegalities illegality illegals illegibilities illegibility illegible illegibly illiberal " +
-  "illiberally illicit illicitly illicitness illicitnesses illimitable illiquid illiterately " +
+  "glitching glitterati glittered glittering glitters glitz glitzed glitzes glitzier glitziest glitzing " +
+  "glitzy gloaming gloated gloater gloats glob globals globed globetrotter globing globs globular " +
+  "globule globules globulin glommed gloomed gloomier gloomily glooming glooms glop glopped gloppier " +
+  "glopping gloppy glops gloried glories glorifier glorify glory glorying glossary glossed glosses " +
+  "glossier glossies glossiest glossily glossiness glossinesses glossing glossolalia glossolalias " +
+  "glossy glottal glottis glottises gloved gloveless glover glovers gloving glowed glower glowered " +
+  "glowers glowingly glowworm glowworms glucagon glucoses gluer gluers glues gluey gluier gluiest " +
+  "gluing glum glumly glummer glummest glumness glumnesses glums gluon gluons glut glutamate gluten " +
+  "gluts glutted glutting gluttonous gluttons glycerol glycine glycogen glycol glycols glyph glyphs " +
+  "gnarl gnarled gnarlier gnarling gnarls gnash gnashed gnashes gnashing gnaw gnawed gnawer gnawings " +
+  "gnaws gneiss gneisses gnomic gnomish gnomonic gnostic goad goaded goads goaled goalies goaling " +
+  "goalless goalpost goalposts goatees gobbed gobbet gobbets gobbing gobbled gobbler gobblers gobbling " +
+  "goblets goblin gobs godchild godded goddess goddesses godding godhead godheads godhood godhoods " +
+  "godlessly godlessness godlessnesses godlier godlike godly godsends godsons godspeed goer goering " +
+  "goers gofer gofers goggle goggled goggler gogglers goggling goings goiters golden goldener goldenly " +
+  "goldenness goldenrod golder goldest goldfield golding golfed golfers golfing golfs gollies golliwog " +
+  "golliwogs gonad gonadal gonads gondolas goners gong gonged gonging gongs gonion gonk gonks gonzo goo " +
+  "goodish goodlier goodly goodnesses goodwills goof goofball goofballs goofed goofier goofiest " +
+  "goofiness goofinesses goofs google googled googles googlies googling googly gooier gooiest goon goop " +
+  "goops goos gooseberries gooseberry goosed gooses goosestep goosestepped goosesteps goosing gore " +
+  "gored gores gorged gorgeousness gorgeousnesses gorger gorges gorging gorgon gorgons gorier goriest " +
+  "gorily goriness gorinesses goring gormless gorp gorps gorse gorses gory gos goshawk goshawks goshes " +
+  "gosling goslings gospeler gospelers gossamers gossiped gossiper gossipers gossips gossipy gotchas " +
+  "goths goto gouache gouge gouger gougers gouges gouging goulash gourd gourde gourdes gourds gout " +
+  "goutier goutiest gouts gouty gov governesses governs govs govt gowned gowning grabber grabbers " +
+  "grabbier grabbings grabby grace graced graceless gracing grackle gradate gradated gradates gradating " +
+  "gradely gradings grads graduals graduand graduands graffito grafted grafter grafters grafting grafts " +
+  "graham grahams grails grained grainer grainier graininess graininesses graining grainy grammarian " +
+  "grammarians grammars grammatic gramme grammes grampus granaries granary grandam grandams grandaunt " +
+  "granddads grandee grandees grander grandkid grandly grandmas grandness grandnesses grandpas grands " +
+  "grandsons grandstand grandstands granger granges granitic grannies granny granolas grans grant " +
+  "grantee grantees granter granters granular granularly granule graped graphed grapheme graphing " +
+  "graping grapnel grapple grappled grappler grapples grappling grasper grasps grassed grassers grasses " +
+  "grassier grassiest grassing grasslands grassy grate grated grater graters grates gratify gratin " +
+  "grating gratings gratins gratis gratuity gravamen graved gravedigger graveled gravelly gravels " +
+  "gravely graven graveness gravenesses graver gravers graves gravest gravid gravies graving gravitas " +
+  "gravitate gravitating graybeard grayed grayer grayest graying grayly grayness graynesses graze " +
+  "grazer grazers grazes grease greaser greasers greases greasier greasiest greasiness greasinesses " +
+  "greasing greatcoat greaten greatened greatening greathearted greatnesses greats grebe grebes " +
+  "greedier greediest greedily greediness greedinesses greeds greenbelt greened greeneries greenery " +
+  "greenest greenfly greengage greengages greengrocer greengrocers greengrocery greenhorn greenhorns " +
+  "greening greenishness greenly greenness greennesses greenroom greenrooms greenstone greenwood " +
+  "greeter greeters greets gremlin grenades grenadier grenadine grep grepped grepping greps greybeard " +
+  "greyness gribble gribbles gridded griddle griddled griddles griddling griding gridiron gridironed " +
+  "gridironing gridirons grids griefs grieved griever grievers grieves griffon griffons grille griller " +
+  "grilles grillings grills grillwork grim grimace grimacer grimacing grime grimed grimes grimier " +
+  "grimiest griminess griminesses griming grimly grimmer grimmest grimness grimnesses grimy grin " +
+  "grinder grinders grindingly grindings grinds gringo gringos grinned grinner grinningly grins griped " +
+  "griper gripers gripes griping grippe gripped gripper grippers grippes gripping grippingly grislier " +
+  "grisliest grisliness grislinesses grist gristle gristles gristlier gristliest gristly gristmill " +
+  "gristmills grists grit grits gritted gritter gritters grittier grittiest grittiness grittinesses " +
+  "gritting grizzle grizzled grizzles grizzlier grizzling groan groaned groaner groaners groaning " +
+  "groans groat groats grocer grocers grog groggier groggiest groggily grogginess grogginesses grogs " +
+  "groined groining groins grok grokked grokking groks grommet grommeted grommets groofs groomer " +
+  "groomers grooms groomsman groomsmen groove grooved groover grooves groovier grooving grope groped " +
+  "groper gropers gropes gropings grosgrain grosgrains gross grosser grosses grossest grossly grossness " +
+  "grossnesses grottier grottiest grottoes grotty grouch grounder groundnut grouper groupers groused " +
+  "grouser grousers grousing grout grouted grouter grouting grouts grove groveled groveler grovelers " +
+  "grovelled grovels grover grovers groves grower growers growled growler growlers growlier growls " +
+  "growly growths grub grubbed grubber grubbers grubbier grubbily grubs grudged grudger grudging " +
+  "grudgings grue gruel grueled gruels grues gruesomer gruff gruffed gruffer gruffest gruffing gruffly " +
+  "gruffness gruffnesses gruffs grumble grumbler grump grumped grumpier grumping grumps grumpy grunge " +
+  "grunges grungier grunion grunions grunt grunted grunter grunts guanine guanines guano guanos guarani " +
+  "guaranis guaranteer guarantor guaranty guarder guarders guardian guardrail guardroom guava guavas " +
+  "gudgeon guernsey guernseys guessable guesser guessers guested guesthouses guesting guff guffaw " +
+  "guffawed guffawing guffaws guffs guideline guider guiders guilder guildhall guilds guile guiled " +
+  "guileful guileless guilelessly guilelessness guilelessnesses guiles guiling guillotining guiltier " +
+  "guiltiest guiltily guiltless guilts guised guises guising guitar guitarists guitars gulag gulags " +
+  "gulch gulches gulden guldens gulfed gulfing gulfs gulled gullet gullets gullibility gullied gullies " +
+  "gulling gully gullying gulp gulped gulper gulpers gulping gulps gumball gumballs gumboil gumboot " +
+  "gumboots gumbos gumdrop gummed gummier gummiest gumminess gumming gums gumshoe gumshoes gumtree " +
+  "gumtrees gunboat gunfight gunfighting gunflint gunfought gunge gungy gunk gunkier gunks gunky gunmen " +
+  "gunnel gunnels gunner gunneries gunners gunnery gunnies gunning gunny gunrunner gunrunners " +
+  "gunrunning gunrunnings gunship gunships gunsling gunslinging gunwale gurgle gurgled gurgles gurgling " +
+  "gurney gurneys gurus gush gushed gusher gushers gushes gushier gushiest gushy gusset gusseted " +
+  "gusseting gussets gussied gussies gussy gussying gust gusted gustier gustiest gustily gustiness " +
+  "gusting gustoes gusts gusty gutlessness gutlessnesses gutser gutsier gutsiest gutsiness guttered " +
+  "guttering guttier gutties guttiest gutting guttural gutturally gutturals gutty guv guvnor guvnors " +
+  "guvs guyed guyer guyers guying guzzle guzzled guzzler guzzlers guzzles gymkhana gymnasts gyms " +
+  "gymslip gymslips gynecology gyp gypped gypper gyppers gypping gyps gypsied gypsite gypster gypsters " +
+  "gypsum gypsums gyrate gyrated gyrates gyrating gyrator gyrators gyro gyros gyve gyved gyves gyving " +
+  "habeas haberdasher haberdashers habitability habitable habitant habitants habitation habited " +
+  "habiting habitual habituate habitue hacienda hack hacked hacker hackers hacking hackish hackle " +
+  "hackled hackler hackles hackney hacksaws hackwork haddock haddocks haded hading hadith hadron " +
+  "hadrons hadst hafnium haft hafted hafting hafts hag haggard haggardly haggards hagged hagging haggis " +
+  "haggises haggish haggled haggler hagglers haggles haggling hags hahnium hahniums hailer hailing " +
+  "hails hairball hairballs hairband haircare hairdos hairdressers hairdryer hairgrip hairgrips hairier " +
+  "hairiest hairiness hairinesses hairlike hairnet hairpiece hairpin hairpins hairsprays hairy haj hajj " +
+  "hajjes hajji hajjis hake hakes halal halalled halalling halals halberd halcyon hale haled haler " +
+  "hales halest halfback halfness halfwit halibut halide halides haling halite halites halitosis hall " +
+  "hallelujahs haller hallmark hallmarks hallo halloed halloing halloo hallooing halloos hallos hallow " +
+  "hallows halo haloed halogen haloing halon halos halter haltered halters halting halts halve halved " +
+  "halvers halves halving halyard halyards hamburg hamlet hammed hammer hammerer hammerers hammerhead " +
+  "hammerheads hammerless hammers hammertoe hammier hammiest hamming hammock hammocks hammy hamper " +
+  "hampers hams handbag handbagged handbagging handbags handball handballs handbasin handbill handcar " +
+  "handcars handcart handcuff handedness hander handers handguns handheld handhelds handhold handholds " +
+  "handier handily handiness handinesses handleable handler handless handmaid handmaiden handmaids " +
+  "handrail handsaw handsaws handset handsets handshakes handstand handstands handy handyman handymen " +
+  "hangared hangaring hangars hangdog hangdogs hangings hangman hangmen hangnail hangnails hangup " +
+  "hangups hank hanked hanker hankered hankerer hankers hankie hankies hanking hanks hansom hansoms hap " +
+  "haphazard haphazards hapless haplessly haplessness haplessnesses haploid haply happed happinesses " +
+  "happing haps haptic harangue haranguer haranguing harasser harassers harasses harbored harborer " +
+  "harborers harbors hardback hardball hardballs hardboard hardboards hardcore harden hardener " +
+  "hardeners hardhat hardhats hardheaded hardheadedly hardheadedness hardheadednesses hardhearted " +
+  "hardier hardies hardihood hardihoods hardily harding hardness hardnesses hards hardshell hardships " +
+  "hardstand hardstands hardtack hardtop hardwares hardwire hardwired hardwood hardwoods hardy harebell " +
+  "harebells hared harelip harems haricot haring hark harked harking harks harlotry harmer harms " +
+  "harness harnessed harnesser harnesses harp harped harper harpers harpies harpist harpists harpoon " +
+  "harpooner harpoons harps harridan harridans harried harrier harriers harries harrow harrowed " +
+  "harrower harrows harrumph harrumphs harry harrying harshen harshened harsher harshest harshness " +
+  "harshnesses hart harvest harvester harvesters harvests hash hashed hasher hashes hashing hashish " +
+  "hashishes hashtag hashtags hasp hasped hasping hasps hassler hassock hassocks hast hasted hasten " +
+  "hastened hastener hastes hastier hastiest hastily hastiness hastinesses hasting hastings hasty " +
+  "hatband hatbands hatbox hatch hatchback hatchbacks hatcheck hatchecks hatcher hatchery hatches " +
+  "hatcheted hatchets hatchway hatchways hater haters hatless hatpin hatpins hatreds hatstand hatstands " +
+  "hatted hatter hatters hatting hauberk haughty haulage haulages hauler haulers haulier hauls haunch " +
+  "haunched haunches haunching haunter hauteur hauteurs havened havening havens haver havers haves " +
+  "havocs haw hawed hawing hawked hawker hawkers hawking hawkish haws hawser hawsers hawthorn haycock " +
+  "haycocks hayed hayer haying hayloft haymaker haymow haymows hayrick hayride hays hayseed hayseeds " +
+  "haystacks haywain hazard hazarded haze hazed hazel hazels hazer hazers hazes hazier haziest hazily " +
+  "haziness hazinesses hazings hazmat hazy headband headbands headbutt headbutted headcase headcases " +
+  "headcheese headdress headdresses headers headgears headhunt headhunted headier headiest headily " +
+  "headiness headinesses headlamp headland headlands headless headlessness headlined headman headmen " +
+  "headphone headpiece headpin headrest headrests headroom headsets headship headships headsman " +
+  "headsmen headstall headstalls headstand headstands headteacher headwall headwalls headwater headways " +
+  "headwind headword heady healers healthful healthily healths heaped heaping heaps hearer hearers " +
+  "hearest hearken hearkened hearkens hearsays hearsed hearses heartaches heartbeats hearten heartened " +
+  "heartens hearthrug hearths heartier hearties heartiest hearts heartthrob heatedly heater heaters " +
+  "heath heathen heathenish heather heathers heathery heathland heaths heatwave heatwaves heaved heaven " +
+  "heaver heavers heaves heavies heaviest heaviness heavinesses heavyset heckle heckled heckler " +
+  "hecklers hecks hectare hectics hectometer hector hectored hectors hedge hedged hedgehop hedgehopped " +
+  "hedgehops hedger hedgerow hedgers hedges hedging heed heeded heedful heedfully heeding heedless " +
+  "heedlessly heedlessness heedlessnesses heeds heehaw heehawed heehawing heehaws heeled heeler heelers " +
+  "heeling heelless heft hefted heftier heftiest heftily heftiness heftinesses hefting hefts hegemony " +
+  "hegira hegiras heifer heifers heighten heightening heinousness heinousnesses heired heiresses " +
+  "heiring heisted heister heisting heists helical helically helices helicon helipad helium heliums " +
+  "helix hellbender hellbent hellcat hellcats hellebore hellebores hellfire hellholes hellion hellions " +
+  "hellishly hellishness hellishnesses hello helloing hellos helm helmed helmet helmeted helming helms " +
+  "helmsman helmsmen helot helots helper helpfully helplessly helplessness helplessnesses helpline " +
+  "helplines helpmate helve helved helves helving hematite hematites heme hemes hemispheres hemline " +
+  "hemlines hemlock hemmed hemmer hemmers hemming hemostat hemostats hemp hemps hems hemstitch " +
+  "hemstitches hences henchman henchmen henge henna hennaed hennaing hennas henning henpeck henpecked " +
+  "henpecks henry hep hepatic hepper heppest heps heptane heralded heraldry heralds herbage herbages " +
+  "herbals herbicide herbivore herd herded herder herders herding herds herdsmen hereafter hereafters " +
+  "heredities heredity herein hereof hereon heres heresies heresy heretic heretics hereto heretofore " +
+  "hereunder hereunto hereupon herewith heritor hermetic hermit hermits hernial hernias herniate " +
+  "heroism heroisms hertz hes hesitater hesitates hessian hetero heterodox heteros hewed hewer hewers " +
+  "hewing hews hex hexagon hexagram hexameter hexed hexer hexes hexing heyday heydays hgwy hiatuses " +
+  "hibachi hibachis hibiscus hibiscuses hiccough hiccoughing hiccoughs hiccup hiccuped hiccuping hick " +
+  "hickey hickeys hickory hicks hidden hided hideout hider hiders hidings hie hied hieing hierarchal " +
+  "hierarchic hierarchical hierarchies hieratic hies highball highballing highballs highborn highboy " +
+  "highboys highbrow highchair highchairs highers highhanded highish highland highlighter highnesses " +
+  "highpoint highroad highs hight hightailing hightails hijab hijabs hijacks hiked hikers hikes hiking " +
+  "hilarity hill hillbillies hilled hiller hillier hilliest hilliness hillinesses hilling hillman " +
+  "hillmen hillock hillocks hillside hillsides hilltop hilltops hilt hilted hilting hilts hims hind " +
+  "hinder hindered hinderer hindering hinders hinds hindsights hing hinged hinger hinging hings hinted " +
+  "hinter hinters hipbath hipbaths hipbone hipness hipnesses hipped hipper hippest hippie hippier " +
+  "hippiest hipping hipster hipsters hiragana hireling hirer hirers hirings hirsute hiss hissed hisser " +
+  "hisses hissing hissings hist histed histidine histidines histing histologist histologists " +
+  "historicist hists hitcher hitchers hitches hitchhike hitchhiked hitchhikes hitherto hitless hittable " +
+  "hitters hive hived hivemind hiving hoagie hoagies hoar hoard hoarded hoarder hoarders hoards " +
+  "hoarfrost hoarfrosts hoarier hoarse hoarseness hoarsenesses hoarser hoarsest hoary hoax hoaxed " +
+  "hoaxer hoaxers hoaxes hoaxing hobbed hobbing hobbit hobbits hobble hobbled hobbler hobblers hobbles " +
+  "hobbling hobbyhorse hobbyhorses hobbyist hobbyists hobgoblin hobnail hobnob hobnobbed hobnobbing " +
+  "hobnobs hobo hoboed hoboing hobos hobs hoc hock hocked hocker hockeys hocking hocks hockshop " +
+  "hockshops hod hodge hodgepodge hodgepodges hodges hods hoe hoecake hoecakes hoed hoedown hoedowns " +
+  "hoeing hoer hoers hoes hogan hogans hogback hogged hogger hoggish hoggishly hogshead hogsheads " +
+  "hogtie hogtied hogties hogtying hogwash hogwashes hoick hoicked hoicking hoicks hoisted hoister " +
+  "hoisting hoists hoke hoked hokes hokeyer hokeyest hokeyness hokier hokiest hoking hokum hokums " +
+  "holdall holdalls holder holdout holdouts holdover holdups holey holiday holies holiest holinesses " +
+  "holing holism holistic holler hollered hollers hollies hollowed hollower hollowest hollowing " +
+  "hollowly hollowness hollownesses hollows hollowware holly hollyhock hollyhocks holmium holmiums " +
+  "holograph hols holsters homaged homager homages homaging hombre hombres homburg homebody homeboy " +
+  "homeboys homed homelessness homelessnesses homelier homelike homely homemade homemake homeomorph " +
+  "homeopath homeostases homeowner homepage homered homerooms homers homeworker homeyness homeynesses " +
+  "homeys homier homiest homilies homily hominid hominids hominies hominoid hominoids hominy homogamy " +
+  "homograph homologous homologue homology homomorphic homomorphism homomorphisms homonym homonyms " +
+  "homophobia homophobic homophone homophones homotopy hon honchoed honchoing honchos hone honer honers " +
+  "hones honester honestest honesties honeybee honeybees honeydew honeyed honeying honeymooned " +
+  "honeymooner honeymoons honeypot honeys hong honing honk honked honker honkers honkies honks honoree " +
+  "honorees honorer honorers honorific hons hooch hooches hood hooded hoodedness hoodie hoodies hooding " +
+  "hoodoo hoodooed hoodooing hoodoos hoodwink hooeys hoof hoofed hoofer hoofers hoofing hoofmark hoofs " +
+  "hookah hookahs hookedness hookier hookies hookiest hooks hookup hookups hookworm hookworms hooligan " +
+  "hooped hooper hooping hoopla hooplas hoorayed hoorays hoosegow hoosegows hooted hootenanny hooter " +
+  "hooting hoots hoover hoovered hoovers hopeful hopelessness hopelessnesses hoper hopper hoppers " +
+  "hoppled hopples hops hopscotch hopscotches hora horas horde horded hording horehound horizon horn " +
+  "horned hornedness horner hornier horniness horning hornless hornpipe horologic horology horoscopes " +
+  "horridly horrified horrifies horrify horsebox horseboxes horsedom horseflesh horsehair horsehairs " +
+  "horsehide horsehides horseless horsely horsemen horsepower horsepowers horseshoed horseshoer " +
+  "horseshoes horsey horsier horsiest hortatory hos hosanna hosannaed hosannaing hosannas hosed " +
+  "hosepipe hosepipes hosier hosieries hosiers hosiery hosing hosp hospice hospices hosteled hosteler " +
+  "hostelers hostels hostessed hostesses hostily hostler hostlers hostly hotbed hotbeds hotblooded " +
+  "hotbox hotboxes hotcake hotchpotch hotelier hotfoot hotfooted hotfooting hotfoots hotheaded hotheads " +
+  "hothouse hothoused hothouses hotkey hotkeys hotlink hotly hotness hotnesses hotplate hotpot hotpots " +
+  "hotrod hotshot hotshots hotted hottie hotties hotting hough hounder houri houris houseboy houseboys " +
+  "houseful housefuls housekeep housemen houser houseroom housetop housetops housings hove hovel " +
+  "hoveled hovels hover hovered hoverer hovers howbeit howdah howdahs howdied howdies howl howled " +
+  "howler howlers howls hows howsoever hoy hoyden hoydened hoydens huarache huaraches hubbies hubbub " +
+  "hubbubs hubcap hubcaps hubris hubrises hubs huddler huddles huddling hued huff huffed huffier " +
+  "huffiest huffily huffiness huffinesses huffing huffs huffy hugely hugeness hugenesses huger hugest " +
+  "hugger huggings hugs huhs hula hulaed hulaing hulas hulk hulked hulking hulks hull hullabaloo " +
+  "hullabaloos hulled huller hullers hulling hullo hulloed hulloing hullos hulls humane humaneness " +
+  "humanenesses humaner humanism humanisms humanness humannesses humble humbler humbles humbug " +
+  "humbugged humbugging humbugs humdrum humdrums humeral humeri humerus humidified humidify humidly " +
+  "humidor hummed hummer hummers hummock hummocks hummocky hummuses humored humorer humorers humors " +
+  "humph humphed humphing humphs humps hums humus humuses hunchback hunched hunching hundreder hung " +
+  "hungered hungering hungers hungrier hunker hunkered hunkers hunkier hunkies hunks hunt hunter " +
+  "hunting huntings huntress huntresses huntsman huntsmen hurdled hurdler hurdlers hurl hurler hurlers " +
+  "hurls hurrahed hurrahing hurrahs hurrayed hurrays hurried hurrier hurries hurter hurtfully hurtle " +
+  "hurtled hurtles hushed hushes hushing husk husked husker huskers huskier huskiest huskily huskiness " +
+  "huskinesses husking husks hussar hussars hussies hustings hustler hustlers hustles hutched hutches " +
+  "hutching huts hutted hutting huzzah huzzahed huzzahing huzzahs hwy hyacinth hydra hydras hydrate " +
+  "hydrated hydride hydrides hydro hydrology hydros hydrous hydroxy hydroxyl hygienes hygienic hying " +
+  "hymen hymeneal hymens hymnal hymnals hymnbook hymned hymning hypers hypersphere hypertext " +
+  "hypertrophy hypes hyphen hyphenate hyphened hyphening hyphens hyping hypnoses hypo hypoed hypoing " +
+  "hypos hypotheses hypoxia hyssop hyssops hysteresis iamb iambi iambic iambics iambs iambus iambuses " +
+  "ibid ibidem iceberg icebergs iceboat icebox iceboxes icebreaker icecap icecaps iceman icemen icepack " +
+  "icepick icepicks ices icicle icicles icier iciest icily iciness icinesses icings ickier ickiest icky " +
+  "ictus ictuses idealism idealisms idealist idealists idealize idealized idealizer idealizes ideally " +
+  "ideate ideates ideation idem identifier identikit identikits ideologies ideologue ides idiocies " +
+  "idiolect idiom idiomatic idioms idle idled idleness idlenesses idler idlers idles idlest idling idly " +
+  "idolize idolized idolizer idolizes idolizing idols ids idyll idyllic idyllically idylls iffier " +
+  "iffiest iffiness iffinesses iffy ifs igloos igneous ignited igniter ignites igniting ignitions " +
+  "ignoble ignobly ignominies ignominious ignominy ignorer iii ilea ileitides ileitis ileum ilia iliac " +
+  "ilium ilk ilks illegalities illegality illegals illegibilities illegibility illegible illegibly " +
+  "illiberal illiberally illicit illicitly illicitness illicitnesses illimitable illiquid illiterately " +
   "illiterates illnesses illogic illogical illogically ills illume illumed illumine illumined illumines " +
   "illuming illumining illus illusion illusionist illusionists illusive illusively illusiveness " +
   "illusory illy imaged imageries imaginal imaginer imagines imaginings imago imagoes imam imams " +
@@ -1670,14 +1668,14 @@ window.BONUS_WORDS = (
   "indemnity indent indentation indented indenter indenting indention indentions indents indenture " +
   "indentured independences indexed indexer indexers indexes indexing indicant indicants indices indict " +
   "indicter indicting indicts indifferenced indigence indigences indigent indigents indigested " +
-  "indignant indignities indignity indigo indigos indirected indispose indisposes indisposing " +
-  "indisposition indispositions indistinct indistinctest indistinctness indistinctnesses indite indited " +
-  "indites inditing indium indiums indolence indolent indoored indooring indrawn inducer induces " +
-  "inducing induct inductee inducting inducts indulged indwell indweller indwelling indwells indwelt " +
-  "inebriate inedible inedited ineffable inefficacies inefficacy inefficiencies inefficiency " +
-  "inefficient inefficients inelegance inelegant ineligible ineligibles ineligibly ineptitude ineptly " +
-  "ineptness ineptnesses inequities inequity inerrant inerrants inert inertia inertial inertias inertly " +
-  "inertness inertnesses inerts inessential inessentials inexact inexistent inexpedience inexpedient " +
+  "indignant indignities indignity indigos indirected indispose indisposes indisposing indisposition " +
+  "indispositions indistinct indistinctest indistinctness indistinctnesses indite indited indites " +
+  "inditing indium indiums indolence indolent indoored indooring indrawn inducer induces inducing " +
+  "induct inductee inducting inducts indulged indwell indweller indwelling indwells indwelt inebriate " +
+  "inedible inedited ineffable inefficacies inefficacy inefficiencies inefficiency inefficient " +
+  "inefficients inelegance inelegant ineligible ineligibles ineligibly ineptitude ineptly ineptness " +
+  "ineptnesses inequities inequity inerrant inerrants inert inertia inertial inertias inertly inertness " +
+  "inertnesses inerts inessential inessentials inexact inexistent inexpedience inexpedient " +
   "inexpensiveness inexpensivenesses inexperience inexpert inf infallibly infamies infamy infancied " +
   "infancier infancies infanciness infancy infancying infarct infatuate infatuating infauna infecter " +
   "infective infects infecund infer inference inferencer inferences inferencing inferiors inferno " +
@@ -1762,9 +1760,9 @@ window.BONUS_WORDS = (
   "isthmians isthmus isthmuses ital italic italicize italics itched itchier itchiest itchiness " +
   "itchinesses itemed iteming itemize itemized itemizer itemizers itemizes itemizing iterate iterated " +
   "iterates iterating iteration iterative iterator iterators itinerant itinerants itineraries ivied " +
-  "ivies ivories ivory jabbed jabber jabbered jabberer jabberers jabbers jabbing jabots jabs jacaranda " +
-  "jacarandas jack jackass jackasses jackboot jackdaw jackdaws jacker jacketed jackpot jacquard jade " +
-  "jadedly jadedness jadednesses jadeite jadeites jades jading jag jagged jaggeder jaggedest jaggedly " +
+  "ivies ivories jabbed jabber jabbered jabberer jabberers jabbers jabbing jabots jabs jacaranda " +
+  "jacarandas jack jackass jackasses jackboot jackdaw jackdaws jacker jacketed jackpot jacquard jadedly " +
+  "jadedness jadednesses jadeite jadeites jades jading jag jagged jaggeder jaggedest jaggedly " +
   "jaggedness jaggednesses jaggers jaggies jagging jags jailbird jailer jailers jailing jails jalapeno " +
   "jalopy jamb jambalaya jambalayas jambed jambing jamboree jambs jammier jammiest jammy jams jangle " +
   "jangled jangler jangles jangling jangly janissaries janissary japanned japanner japanning japans " +
@@ -1811,10 +1809,10 @@ window.BONUS_WORDS = (
   "keratin keratitis kerbside kerchief kerfuffle kerfuffles kerned kernel kerneled kerneling kernels " +
   "kerning kerosenes kestrel kestrels ketch ketches keto ketone ketones ketosis kettleful kettles " +
   "keyclick keyclicks keyholes keying keynote keynoted keynoter keynotes keypad keypads keyring keys " +
-  "keystone keystones keystroke keystrokes keyword khaki khakis khan khans kibble kibbled kibbles " +
-  "kibbling kibbutz kibbutzim kibitz kibitzed kibitzer kibitzes kibitzing kiboshes kickback kickbacks " +
-  "kickballs kicker kickers kickier kickiest kickoffs kicky kidded kidder kidders kiddied kiddingly " +
-  "kiddish kiddos kiddying kidless kidskin kidskins kielbasa kielbasas kielbasi kier killdeer killdeers " +
+  "keystone keystones keystroke keystrokes keyword khakis khan khans kibble kibbled kibbles kibbling " +
+  "kibbutz kibbutzim kibitz kibitzed kibitzer kibitzes kibitzing kiboshes kickback kickbacks kickballs " +
+  "kicker kickers kickier kickiest kickoffs kicky kidded kidder kidders kiddied kiddingly kiddish " +
+  "kiddos kiddying kidless kidskin kidskins kielbasa kielbasas kielbasi kier killdeer killdeers " +
   "killingly killjoy killjoys kiln kilned kilning kilns kilo kilobit kilobits kilobuck kilocycle kilohm " +
   "kilojoule kiloliter kiloton kilotons kilovolt kilovolts kilowatt kiloword kilt kilted kilter kilters " +
   "kilting kilts kimono kimonos kinder kindle kindled kindler kindles kindlier kindliness kindlinesses " +
@@ -1863,7 +1861,7 @@ window.BONUS_WORDS = (
   "lathered latherer lathers lathery lathing laths latices latish latitudinal lats latterly latticed " +
   "lattices latticing laud laudably laudanum laudanums lauded lauder lauding lauds laughably laugher " +
   "launderer laura laureated laureates laurel laureled laurels lav lavage lavages lavaliere lavalieres " +
-  "lavas lavatorial lavatory lave laved lavender lavendered laves laving lavish lavishes lavishly lavs " +
+  "lavas lavatorial lavatory lave laved lavendered laves laving lavish lavishes lavishly lavs " +
   "lawbreaker lawed lawgiving lawing lawless lawlessly lawlessness lawlessnesses lawmaker lawman lawmen " +
   "lawyered lawyerly laxer laxes laxest laxities laxity laxly laxness laxnesses layabout layaway " +
   "layaways layered layette layettes layman laymen layoff layoffs layouts layover laypeople lays layup " +
@@ -1901,68 +1899,68 @@ window.BONUS_WORDS = (
   "lickings licorice licorices lidded lidding lidless lido lidos lids lieder lief liefer liefest liefs " +
   "lieger lieges lien liens lier lieu lieus lieut lifebelt lifebelts lifeblood lifelessly lifelessness " +
   "lifelessnesses lifelikeness lifelines lifer lifers lifter lifters liftoff liftoffs ligand ligands " +
-  "ligate ligated ligates ligating ligation lighted lighter lightest lightings lightning lightnings " +
-  "lights lightship lightships lignin lignite lignites lignum lii likability likelier likeliest " +
-  "likeliness liken likened likenesses likening likens liker likest likings lilac lilacs lilied " +
-  "lilliputian lilo lilos lilt lilted lilting liltingly liltingness lilts lily limbed limber limbered " +
-  "limberer limberly limbers limbic limbing limbless limboed limboing limbos limeade limeades limed " +
-  "limekiln limescale limey limeys limier limiest liming limitability limitably limitedly limiteds " +
-  "limiter limiters limitings limitless limitlessly limitlessness limitlessnesses limn limned limning " +
-  "limns limped limper limpest limpet limpets limpid limpidity limpidly limply limpness limpnesses " +
-  "limps limy linage linages linchpin linchpins linden lindens lineage lineages lineal lineally " +
-  "lineament linearize linearly linefeed lineman linemen liners linesman linesmen lineups ling lingered " +
-  "lingerer lingerers lingeringly lingerings lingers lingo lingoes lings lingua lingual lingually " +
-  "linguals linguine linguist linguists liniment liniments linings link linkable linkage linker linkers " +
-  "linkings linkman linkmen linkup linkups linnet linnets lino linoleum linseed linseeds lint linted " +
-  "lintel lintels linter lintier linties lintiest linting lints linty lioness lionesses lionization " +
-  "lionize lionized lionizer lionizes lionizing lipase lipid lipids lipped lipper lippier lippiest " +
-  "lipping lippy lipread lipreader lipsticks liq liquefied liquefier liquefies liquefy liqueur " +
-  "liqueured liqueurs liquid liquidity liquidize liquidized liquidly liquids liquors lira lire lisle " +
-  "lisles lisp lisped lisper lispers lisping lisps lissome lissomeness lissomness lister listeria " +
-  "listers listless listlessly listlessness listlessnesses litanies litany litchi litchis lite liter " +
-  "literals literate literately literates literati lites lithe lithely litheness lithenesses lither " +
-  "lithest lithium lithiums lithology litigant litigants litigate litigated litigates litigating " +
-  "litigator litigious litmus litmuses litotes lits litterateur littered litterer litterers litters " +
-  "littleneck littleness littlenesses littler littles littoral littorals liturgic liturgist liturgists " +
-  "livability livable livably livelier liveliest liveliness livelinesses livelong lively livened " +
-  "liveness livening livens livered liveried liveries livering liverish livers livest liveware lividly " +
-  "lividness livingly livingness livings lix llano llanos loadable loader loaders loafed loafer loafing " +
-  "loafs loam loamed loamier loaming loams loamy loaner loaners loanword loath loathed loather loathly " +
-  "loaths loaves lobar lobbed lobber lobbers lobbied lobbies lobbing lobbyist lobbyists lobe lobed " +
-  "lobes lobing lobotomist lobs lobular lobularly lobule lobules locale localed locales localing " +
-  "localisms localize locatable locater locates locational locator locators locavore lochs loci " +
-  "lockable lockets lockjaw locknut lockout lockouts lockups loco locoed locoing locomotion locomotor " +
-  "locomotory locos locoweed locoweeds locum locums locus locution lode lodes lodestone lodestones " +
-  "lodgepole lodger lodgers lodges lodging lodgings lofted lofter loftier loftiest loftily lofting " +
-  "lofts lofty logbook logbooks loge loges logger loggers loggia loggias loggings logicals logician " +
-  "logics logier logiest login logins logion logistic logjam logjams logoff logoffs logon logons logos " +
-  "logotype logout logouts logrolling logrollings logs logy loin loincloth loiter loitered loiterer " +
-  "loiterers loiters lolcat lolcats loll lolled loller lollies lolling lollipops lollop lolloped " +
-  "lolloping lollops lolls lollygag lollygagged lollygagging lollygags lonelier loneliest lonelinesses " +
-  "loneness loners lonesome lonesomely lonesomeness lonesomenesses lonesomes long longboat longbow " +
-  "longbows longeing longhand longhorn longhorns longingly longings longish longly longness longueur " +
-  "longword loo loofah loofahs lookahead lookalike lookalikes looker lookers lookout lookouts lookup " +
-  "lookups loom loomed looms loonie loonier loonies looniest looped looper loopholed loopholing loopier " +
-  "loopiest looping loos loosed looseleaf loosener looseness loosenesses loosening loosens looser " +
-  "looses loosest looter looters looting loots lop lope loped loper lopes loping lopped lopper loppers " +
-  "lopping lops lopsided lorded lording lordlier lordly lore lores lorgnette loris lorises lorn lorries " +
-  "lorry lorryload lorryloads loser losers losings lossage lossier lossiest lossless lossy lostness " +
-  "lotions lotted lotter lotteries lotting lottos lotus lotuses louche louden loudened loudlier " +
-  "loudness loudnesses lough loughs lounged lounger lounges lour loured louring lours loused louses " +
-  "lousier lousiest lousily lousiness lousinesses lousing lout louted louting loutish louts louver " +
-  "louvered louvers lovably love loveless lovelessly lovelessness lovelies loveliest loveliness " +
-  "lovelinesses lovelorn lovelornness lovely lover loverly lovers loveys lovings lowborn lowboy lowboys " +
-  "lowbrow lowbrows lowdown lowdowns lowed lowing lowish lowlands lowlier lowliest lowlight lowliness " +
-  "lowlinesses lowness lownesses lows lox loxed loxes loxing loyaler loyalest loyalism loyalisms " +
-  "loyalists loyally lozenge lozenged lozenges luau luaus lubber lubberly lubbers lube lubed lubes " +
-  "lubing lucent lucently lucidity lucidly luckies lucking luckless lucks lucky lucre lucres ludo luff " +
-  "luffed luffing luffs luge luger luges luggages lugged lugger luggers lughole lugholes lugs lugsail " +
-  "lugsails lull lullabied lullabies lulled lulling lulls lulu lulus lumbago lumbars lumber lumbered " +
-  "lumberer lumberers lumbermen lumbers lumen luminous lummox lummoxes lumped lumper lumpier lumping " +
-  "lumpish lumpy lunars lunary lunate lunated lunately lunation lunched luncher lunching lune lunged " +
-  "lunger lunges lungful lungfuls lunging lupine lupines lupuses lurched lurcher lurches lurer lures " +
-  "lurex lurgy luridly lurk lurked lurker lurkers lurks luscious lusciously lush lushed lusher lushes " +
-  "lushest lushing lushly lushness lushnesses lustered lusterless lustful lustfully lustfulness lustier " +
+  "ligate ligated ligates ligating ligation lighted lightest lightings lightning lightnings lights " +
+  "lightship lightships lignin lignite lignites lignum lii likability likelier likeliest likeliness " +
+  "liken likened likenesses likening likens liker likest likings lilacs lilied lilliputian lilo lilos " +
+  "lilt lilted lilting liltingly liltingness lilts lily limbed limber limbered limberer limberly " +
+  "limbers limbic limbing limbless limboed limboing limbos limeade limeades limed limekiln limescale " +
+  "limey limeys limier limiest liming limitability limitably limitedly limiteds limiter limiters " +
+  "limitings limitless limitlessly limitlessness limitlessnesses limn limned limning limns limped " +
+  "limper limpest limpet limpets limpid limpidity limpidly limply limpness limpnesses limps limy linage " +
+  "linages linchpin linchpins linden lindens lineage lineages lineal lineally lineament linearize " +
+  "linearly linefeed lineman linemen liners linesman linesmen lineups ling lingered lingerer lingerers " +
+  "lingeringly lingerings lingers lingo lingoes lings lingua lingual lingually linguals linguine " +
+  "linguist linguists liniment liniments linings link linkable linkage linker linkers linkings linkman " +
+  "linkmen linkup linkups linnet linnets lino linoleum linseed linseeds lint linted lintel lintels " +
+  "linter lintier linties lintiest linting lints linty lioness lionesses lionization lionize lionized " +
+  "lionizer lionizes lionizing lipase lipid lipids lipped lipper lippier lippiest lipping lippy lipread " +
+  "lipreader lipsticks liq liquefied liquefier liquefies liquefy liqueur liqueured liqueurs liquid " +
+  "liquidity liquidize liquidized liquidly liquids liquors lira lire lisle lisles lisp lisped lisper " +
+  "lispers lisping lisps lissome lissomeness lissomness lister listeria listers listless listlessly " +
+  "listlessness listlessnesses litanies litany litchi litchis lite liter literals literate literately " +
+  "literates literati lites lithe lithely litheness lithenesses lither lithest lithium lithiums " +
+  "lithology litigant litigants litigate litigated litigates litigating litigator litigious litmus " +
+  "litmuses litotes lits litterateur littered litterer litterers litters littleneck littleness " +
+  "littlenesses littler littles littoral littorals liturgic liturgist liturgists livability livable " +
+  "livably livelier liveliest liveliness livelinesses livelong lively livened liveness livening livens " +
+  "livered liveried liveries livering liverish livers livest liveware lividly lividness livingly " +
+  "livingness livings lix llano llanos loadable loader loaders loafed loafer loafing loafs loam loamed " +
+  "loamier loaming loams loamy loaner loaners loanword loath loathed loather loathly loaths loaves " +
+  "lobar lobbed lobber lobbers lobbied lobbies lobbing lobbyist lobbyists lobe lobed lobes lobing " +
+  "lobotomist lobs lobular lobularly lobule lobules locale localed locales localing localisms localize " +
+  "locatable locater locates locational locator locators locavore lochs loci lockable lockets lockjaw " +
+  "locknut lockout lockouts lockups loco locoed locoing locomotion locomotor locomotory locos locoweed " +
+  "locoweeds locum locums locus locution lode lodes lodestone lodestones lodgepole lodger lodgers " +
+  "lodges lodging lodgings lofted lofter loftier loftiest loftily lofting lofts lofty logbook logbooks " +
+  "loge loges logger loggers loggia loggias loggings logicals logician logics logier logiest login " +
+  "logins logion logistic logjam logjams logoff logoffs logon logons logos logotype logout logouts " +
+  "logrolling logrollings logs logy loin loincloth loiter loitered loiterer loiterers loiters lolcat " +
+  "lolcats loll lolled loller lollies lolling lollipops lollop lolloped lolloping lollops lolls " +
+  "lollygag lollygagged lollygagging lollygags lonelier loneliest lonelinesses loneness loners lonesome " +
+  "lonesomely lonesomeness lonesomenesses lonesomes long longboat longbow longbows longeing longhand " +
+  "longhorn longhorns longingly longings longish longly longness longueur longword loo loofah loofahs " +
+  "lookahead lookalike lookalikes looker lookers lookout lookouts lookup lookups loom loomed looms " +
+  "loonie loonier loonies looniest looped looper loopholed loopholing loopier loopiest looping loos " +
+  "loosed looseleaf loosener looseness loosenesses loosening loosens looser looses loosest looter " +
+  "looters looting loots lop lope loped loper lopes loping lopped lopper loppers lopping lops lopsided " +
+  "lorded lording lordlier lordly lore lores lorgnette loris lorises lorn lorries lorry lorryload " +
+  "lorryloads loser losers losings lossage lossier lossiest lossless lossy lostness lotions lotted " +
+  "lotter lotteries lotting lottos lotus lotuses louche louden loudened loudlier loudness loudnesses " +
+  "lough loughs lounged lounger lounges lour loured louring lours loused louses lousier lousiest " +
+  "lousily lousiness lousinesses lousing lout louted louting loutish louts louver louvered louvers " +
+  "lovably love loveless lovelessly lovelessness lovelies loveliest loveliness lovelinesses lovelorn " +
+  "lovelornness lovely lover loverly lovers loveys lovings lowborn lowboy lowboys lowbrow lowbrows " +
+  "lowdown lowdowns lowed lowing lowish lowlands lowlier lowliest lowlight lowliness lowlinesses " +
+  "lowness lownesses lows lox loxed loxes loxing loyaler loyalest loyalism loyalisms loyalists loyally " +
+  "lozenge lozenged lozenges luau luaus lubber lubberly lubbers lube lubed lubes lubing lucent lucently " +
+  "lucidity lucidly luckies lucking luckless lucks lucky lucre lucres ludo luff luffed luffing luffs " +
+  "luge luger luges luggages lugged lugger luggers lughole lugholes lugs lugsail lugsails lull " +
+  "lullabied lullabies lulled lulling lulls lulu lulus lumbago lumbars lumber lumbered lumberer " +
+  "lumberers lumbermen lumbers lumen luminous lummox lummoxes lumped lumper lumpier lumping lumpish " +
+  "lumpy lunars lunary lunate lunated lunately lunation lunched luncher lunching lune lunged lunger " +
+  "lunges lungful lungfuls lunging lupine lupines lupuses lurched lurcher lurches lurer lures lurex " +
+  "lurgy luridly lurk lurked lurker lurkers lurks luscious lusciously lush lushed lusher lushes lushest " +
+  "lushing lushly lushness lushnesses lustered lusterless lustful lustfully lustfulness lustier " +
   "lustiest lustily lustiness lustinesses lustrous lustrously lutanist lutanists lute luted lutenist " +
   "lutenists lutes lutetium lutetiums luting lux luxe luxes luxurious lvi lvii lxi lxii lxiv lxix lxvi " +
   "lxvii lyceum lyceums lye lyes lyingly lyings lymphs lyre lyrebird lyres lyrically lyricism lyricisms " +
@@ -1972,20 +1970,20 @@ window.BONUS_WORDS = (
   "macrocosm macrocosms macron macrons macros macs madams madcap madcaps madded madden maddened " +
   "maddening maddens madders maddest madding madman madmen madness madnesses madrasa madrasah madrasahs " +
   "madrasas madrases madrassa madrassas madrigal mads madwoman madwomen maestro maestros mafia mafias " +
-  "mafiosi mafioso mag magazining mage magenta magentas mages magged magging maggot maggoty magi magic " +
-  "magician magicking magics magma magmas magnanimity magnate magnates magnesia magnesias magnet " +
-  "magnetite magneto magnify magnolia magnon magnum magnums mags magus maharajah maharajahs maharani " +
-  "maharanis maharishi maharishis mahatma mahatmas mahout mahouts maiden maidenhead maier mailbag " +
-  "mailbags mailbomb mailbombs mailers mailings maillot maillots mailman mailmen maim maimedness maimer " +
-  "maimers maiming maims mainlands mainlined mainliner mainlines mainlining mainmast mainmasts mains " +
-  "mainsail mainsails mainstay mainstays maintainer maintop maizes majesties majolica majordomo " +
-  "majordomos majored majorette majors makable makefile makeups maladapt maladapted maladies malady " +
-  "malaise malaises malamute malamutes malaprop malarial malarias malarkey malefic maleness malenesses " +
-  "malice maliced malices malicing malign maligning malignly maligns malleable malleableness malled " +
-  "mallet mallets malling mallow mallows malls malt malted malteds maltier maltiest malting maltose " +
-  "maltoses maltreat maltreated maltreatment maltreats malts malty malware mam mamas mamba mambas mambo " +
-  "mamboed mamboing mambos mammal mammalian mammalians mammary mammies mammograms mammon mammons mammy " +
-  "mams manacle manacled manacles manacling managements manageress manageresses manana mananas mandala " +
+  "mafiosi mafioso mag magazining mage magentas mages magged magging maggot maggoty magi magic magician " +
+  "magicking magics magma magmas magnanimity magnate magnates magnesia magnesias magnet magnetite " +
+  "magneto magnify magnolia magnon magnum magnums mags magus maharajah maharajahs maharani maharanis " +
+  "maharishi maharishis mahatma mahatmas mahout mahouts maiden maidenhead maier mailbag mailbags " +
+  "mailbomb mailbombs mailers mailings maillot maillots mailman mailmen maim maimedness maimer maimers " +
+  "maiming maims mainlands mainlined mainliner mainlines mainlining mainmast mainmasts mains mainsail " +
+  "mainsails mainstay mainstays maintainer maintop maizes majesties majolica majordomo majordomos " +
+  "majored majorette majors makable makefile makeups maladapt maladapted maladies malady malaise " +
+  "malaises malamute malamutes malaprop malarial malarias malarkey malefic maleness malenesses malice " +
+  "maliced malices malicing malign maligning malignly maligns malleable malleableness malled mallet " +
+  "mallets malling mallow mallows malls malt malted malteds maltier maltiest malting maltose maltoses " +
+  "maltreat maltreated maltreatment maltreats malts malty malware mam mamas mamba mambas mambo mamboed " +
+  "mamboing mambos mammal mammalian mammalians mammary mammies mammograms mammon mammons mammy mams " +
+  "manacle manacled manacles manacling managements manageress manageresses manana mananas mandala " +
   "mandalas mandamus mandamused mandamuses mandarin mandarins mandates mandating mandolin mandrake " +
   "mandrel mandrill mane maned manege manes maneuverer manful manfully manganese manganeses mange " +
   "manged mangers manges mangier manginess manginesses manging mangle mangler mangles mangling " +
@@ -2001,8 +1999,8 @@ window.BONUS_WORDS = (
   "marinade marinaded marinading marinaras marinas marinate marinating marination marine mariner " +
   "mariners marines maritally maritimer marjoram marjorams mark marker marketeer marketeers marketer " +
   "marketers markka markkaa marks marksman marksmen markup markups marl marled marlin marling marlins " +
-  "marls marmalades marmoreal marmoset marmosets maroon marooned marooner marooning maroons marque " +
-  "marquee marquees marques marquesses marquis marred marrieds marring marrowed marrows marsh marshaler " +
+  "marls marmalades marmoreal marmoset marmosets marooned marooner marooning maroons marque marquee " +
+  "marquees marques marquesses marquis marred marrieds marring marrowed marrows marsh marshaler " +
   "marshalers marshaller marshier marshy marted martially martian martin martinet marting martini " +
   "martins marts martyrdom martyred marvel marveled marvels marzipan mas masc mascaraed mascaras " +
   "mascots maser masers mases masher mashers mashes mashing mashings mashup mashups masker maskers " +
@@ -2013,20 +2011,20 @@ window.BONUS_WORDS = (
   "mastoids masts matador matadors matcher matchmake mated materiel maters matey mateys mathematic " +
   "maths matinees matings matins matriarch matrix matrons mats matte matted mattes matting mattings " +
   "mattock mattocks maturate maturated maturates mature maturer matures maturest matzo matzoh matzohs " +
-  "matzos matzot maudlin maul mauler maulers mauling mauls maunder maundered mausoleums mauve mauves " +
-  "maven mavens mawed mawing mawkish maws max maxes maxi maxilla maxillae maxillary maxim maxima " +
-  "maximal maximality maximally maximals maximize maximized maximizer maximizes maximizing maxims " +
-  "maximumly maximums maxing maxis maxwell mayday maydays mayer mayest mayfly mayhap mayhem mayhems " +
-  "maying mayoralty mayoress mayoresses mayos maypole mays mayst maze mazed mazedly mazedness " +
-  "mazednesses mazer mazes mazing mazurka mazurkas mdse mead meadow meadows meads meagerly meagerness " +
-  "meagernesses meagres mealed mealier mealies mealiest mealiness mealinesses mealing mealtime " +
-  "mealtimes mealy meander meandered meanders meaneing meanie meanies meanly meanness meannesses " +
-  "meantimes meany meas measle measled measlier measliest measureless measurer meataxe meathead " +
-  "meatheads meatier meatiest meatiness meatinesses meatless meaty mechanic med medaled meddled meddler " +
-  "meddlers meddles meddlesome medially medials medians medias mediate mediates medic medicaid medicare " +
-  "medicate medicined medicining medico medicos meditate meditated meditates meditative mediums medley " +
-  "medleys medulla medullas medusa medusae meed meeds meek meeker meekest meekly meekness meeknesses " +
-  "meeter meetly meetup meetups meg megabit megabyte megacycle megadeath megagram megagrams megameter " +
+  "matzos matzot maudlin maul mauler maulers mauling mauls maunder maundered mausoleums mauves maven " +
+  "mavens mawed mawing mawkish maws max maxes maxi maxilla maxillae maxillary maxim maxima maximal " +
+  "maximality maximally maximals maximize maximized maximizer maximizes maximizing maxims maximumly " +
+  "maximums maxing maxis maxwell mayday maydays mayer mayest mayfly mayhap mayhem mayhems maying " +
+  "mayoralty mayoress mayoresses mayos maypole mays mayst maze mazed mazedly mazedness mazednesses " +
+  "mazer mazes mazing mazurka mazurkas mdse mead meadow meadows meads meagerly meagerness meagernesses " +
+  "meagres mealed mealier mealies mealiest mealiness mealinesses mealing mealtime mealtimes mealy " +
+  "meander meandered meanders meaneing meanie meanies meanly meanness meannesses meantimes meany meas " +
+  "measle measled measlier measliest measureless measurer meataxe meathead meatheads meatier meatiest " +
+  "meatiness meatinesses meatless meaty mechanic med medaled meddled meddler meddlers meddles " +
+  "meddlesome medially medials medians medias mediate mediates medic medicaid medicare medicate " +
+  "medicined medicining medico medicos meditate meditated meditates meditative mediums medley medleys " +
+  "medulla medullas medusa medusae meed meeds meek meeker meekest meekly meekness meeknesses meeter " +
+  "meetly meetup meetups meg megabit megabyte megacycle megadeath megagram megagrams megameter " +
   "megameters megastar megastars megaton megawatt megawatts megohm megohms megs meioses meiosis meiotic " +
   "melamine melamines melange melanges melanin melanins melanoma melanomas meld melded melding melds " +
   "melee melees mellow mellower mellowest mellowly mellowness mellownesses mellows melody melter " +
@@ -2177,31 +2175,31 @@ window.BONUS_WORDS = (
   "needling needly neg negate negated negater negates negating negation negativing negator neglecter " +
   "neglects negligees negligences negligently negligible negligibly negotiant negroid negs neigh " +
   "neighed neighing neighs nelson nelsons nematic nematode nemeses nemesis neocon neocons neocortex " +
-  "neomycin neon neonatally neonate neonates neoned neons neophyte neoprene neoprenes nepenthe " +
-  "nepenthes nephews nephrite nepotist nepotists neptunium nerdier nerdiest nerved nerveless " +
-  "nervelessly nervelessness nervelessnesses nervier nerviest nerviness nervinesses nerving " +
-  "nervousnesses nervy nested nester nestle nestled nestler nestles nestling nestlings netball netbook " +
-  "netbooks netiquette netiquettes nett netted netter netters netting nettings nettle nettled nettles " +
-  "nettlesome nettling netts neurally neuritic neuritis neuron neuronal neurone neurones neuroses " +
-  "neurosis neurosurgeons neut neuter neuterer neuterers neutering neuters neutrino neutron neutrons " +
-  "nevermore nevi nevus newbie newbies newborns newcomer newed newel newels newing newish newline " +
-  "newlines newness newnesses newsagent newsagents newsboy newsboys newsed newses newsier newsies " +
-  "newsiest newsing newsletters newsman newsmen newspeak newsreader newsreaders newsreel newsreels " +
-  "newsrooms newsstands newsweeklies newsweekly newswire newswoman newswomen newsy newton newtons nexus " +
-  "nexuses niacin niacins nibbed nibbing nibbled nibbler nibblers nibbles nibs niceness nicenesses " +
-  "niceties nicety niched niches niching nick nickel nickeled nickeling nickels nicker nickered " +
-  "nickering nickers nicking nickle nickles nicknaming nicks nicotines nifedipine niff niffy niftier " +
-  "nifties niftiest nigh nighed nigher nighest nighing nighs nighted nighties nightlight nightlights " +
-  "nightlong nightly nightshirt nightshirts nihilism nihilisms nihilist nihilistic nihilists nilled " +
-  "nilling nilly nilpotent nils nimbi nimble nimbleness nimblenesses nimbler nimbly nimbus nimby nimrod " +
-  "nimrods nincompoop nincompoops ninefold ninepence ninepin ninepins nineteens nineteenths ninetieth " +
-  "ninetieths ninja ninjas ninnies ninths niobium niobiums nipped nipper nippered nippering nippers " +
-  "nippier nippiest nippiness nippinesses nipping nippingly nipple nippled nipples nippling nippy nips " +
-  "nirvana nirvanas nisei niter niters nitpick nitpicking nitpicks nitrate nitrated nitrates nitrating " +
-  "nitration nitric nitride nitrides nitriding nitrite nitrites nitro nitrous nits nitwits nix nixed " +
-  "nixer nixes nixing nob nobble nobbled nobbles nobbling noble noblemen nobleness noblenesses nobler " +
-  "nobles noblesse noblest noblewomen nobly nobs nocturne nodal nodally noddle noddled noddles noddling " +
-  "noddy nods nodular nodule nodules noel noels noes noeses noggins nohow noised noiseless noiselessly " +
+  "neomycin neonatally neonate neonates neoned neons neophyte neoprene neoprenes nepenthe nepenthes " +
+  "nephews nephrite nepotist nepotists neptunium nerdier nerdiest nerved nerveless nervelessly " +
+  "nervelessness nervelessnesses nervier nerviest nerviness nervinesses nerving nervousnesses nervy " +
+  "nested nester nestle nestled nestler nestles nestling nestlings netball netbook netbooks netiquette " +
+  "netiquettes nett netted netter netters netting nettings nettle nettled nettles nettlesome nettling " +
+  "netts neurally neuritic neuritis neuron neuronal neurone neurones neuroses neurosis neurosurgeons " +
+  "neut neuter neuterer neuterers neutering neuters neutrino neutron neutrons nevermore nevi nevus " +
+  "newbie newbies newborns newcomer newed newel newels newing newish newline newlines newness newnesses " +
+  "newsagent newsagents newsboy newsboys newsed newses newsier newsies newsiest newsing newsletters " +
+  "newsman newsmen newspeak newsreader newsreaders newsreel newsreels newsrooms newsstands newsweeklies " +
+  "newsweekly newswire newswoman newswomen newsy newton newtons nexus nexuses niacin niacins nibbed " +
+  "nibbing nibbled nibbler nibblers nibbles nibs niceness nicenesses niceties nicety niched niches " +
+  "niching nick nickel nickeled nickeling nickels nicker nickered nickering nickers nicking nickle " +
+  "nickles nicknaming nicks nicotines nifedipine niff niffy niftier nifties niftiest nigh nighed nigher " +
+  "nighest nighing nighs nighted nighties nightlight nightlights nightlong nightly nightshirt " +
+  "nightshirts nihilism nihilisms nihilist nihilistic nihilists nilled nilling nilly nilpotent nils " +
+  "nimbi nimble nimbleness nimblenesses nimbler nimbly nimbus nimby nimrod nimrods nincompoop " +
+  "nincompoops ninefold ninepence ninepin ninepins nineteens nineteenths ninetieth ninetieths ninja " +
+  "ninjas ninnies ninths niobium niobiums nipped nipper nippered nippering nippers nippier nippiest " +
+  "nippiness nippinesses nipping nippingly nipple nippled nipples nippling nippy nips nirvana nirvanas " +
+  "nisei niter niters nitpick nitpicking nitpicks nitrate nitrated nitrates nitrating nitration nitric " +
+  "nitride nitrides nitriding nitrite nitrites nitro nitrous nits nitwits nix nixed nixer nixes nixing " +
+  "nob nobble nobbled nobbles nobbling noble noblemen nobleness noblenesses nobler nobles noblesse " +
+  "noblest noblewomen nobly nobs nocturne nodal nodally noddle noddled noddles noddling noddy nods " +
+  "nodular nodule nodules noel noels noes noeses noggins nohow noised noiseless noiselessly " +
   "noiselessness noiselessnesses noisier noisiest noisily noisiness noisinesses noising noisome nomad " +
   "nomads nominally nominals nominate nominating nominator nonacceptance nonacid nonacids nonage " +
   "nonagenarian nonages nonalcoholic nonappearance nonattendance nonbasic nonbinding nonbusiness " +
@@ -2276,11 +2274,11 @@ window.BONUS_WORDS = (
   "optimisms optimist optimists optimize optimum optimums opting optioned optioning optometry opts " +
   "opulence opulent opus opuses oracle oracled oracular orality orally orals orangeade orangeness " +
   "orangery orate orated orates orating oration orator oratorical oratories oratorio oratorios orators " +
-  "oratory orbited orbiter orbiters orbiting orbs orc orchard orchid orcs ordain ordainer ordaining " +
-  "ordains ordeals orderer orderless ordinal ordinarier ordure ordures oreganos ores org organdy " +
-  "organelle organza organzas oriel oriels orient orientate orienteering orienter orienting orients " +
-  "orifice orifices orig origami origamis origination originator orison orisons orly ormolu ormolus " +
-  "ornate ornateness ornatenesses ornerier orneriest orneriness ornerinesses ornery orography orotund " +
+  "oratory orbited orbiter orbiters orbiting orbs orc orchard orcs ordain ordainer ordaining ordains " +
+  "ordeals orderer orderless ordinal ordinarier ordure ordures oreganos ores org organdy organelle " +
+  "organza organzas oriel oriels orient orientate orienteering orienter orienting orients orifice " +
+  "orifices orig origami origamis origination originator orison orisons orly ormolu ormolus ornate " +
+  "ornateness ornatenesses ornerier orneriest orneriness ornerinesses ornery orography orotund " +
   "orphanhood orris orrises ors orthodoxy orzo oscilloscope oscilloscopes osier osiers osmium osmiums " +
   "osmoses osmosis osmotic osseous osseously ossicles ossified ossifies ossify ossifying ostentation " +
   "ostentations osteology osteopath osteopaths osteoporoses osteoporosis ostler ostlers otherness " +
@@ -2327,17 +2325,17 @@ window.BONUS_WORDS = (
   "painkilling painlessness painlessnesses paintball painter pairing pairings pairwise paisley paisleys " +
   "pajamaed paladin paladins palanquin palatability palatable palatal palatalize palatally palatals " +
   "palates palatial palatially palaver palavered palavers palazzi paled paleface palefaces paleness " +
-  "palenesses paleo paler pales palest palette palettes palfrey paling palings palisade palisaded " +
-  "palisades palish pall palladium pallbearer pallbearers palled pallet palleted pallets palliate " +
-  "palliated palliates palliating palliation palliative pallid pallidly palling pallor pallors palls " +
-  "pally palmate palmed palmer palmetto palmier palming palmist palmists palmtop palmtops palmy " +
-  "palomino palpable palpably palpate palpated palpates palpating palpation palpitate palpitated " +
-  "palpitates palpitating palpitation palsied palsies palsy paltrier paltry paludal paly pampas pamper " +
-  "pamperer pampers panacea panaceas panache panaches panama panamas panatella panatellas pancaked " +
-  "pancaking pancreases pander pandered panderer panderers panders pane paned paneled paneling pang " +
-  "panged panging pangolin pangs panhandle panhandled panics panned pannier panniers panning panoply " +
-  "panorama panoramas panpipes pans pansies pansy pant pantaloons panted pantheon pantie panties panto " +
-  "pantos pantsuit pantsuits pap papacies papacy papally paparazzo papas papaw papaws papayas paperbark " +
+  "palenesses paleo pales palest palette palettes palfrey paling palings palisade palisaded palisades " +
+  "palish pall palladium pallbearer pallbearers palled pallet palleted pallets palliate palliated " +
+  "palliates palliating palliation palliative pallid pallidly palling pallor pallors palls pally " +
+  "palmate palmed palmer palmetto palmier palming palmist palmists palmtop palmtops palmy palomino " +
+  "palpable palpably palpate palpated palpates palpating palpation palpitate palpitated palpitates " +
+  "palpitating palpitation palsied palsies palsy paltrier paltry paludal paly pampas pamper pamperer " +
+  "pampers panacea panaceas panache panaches panama panamas panatella panatellas pancaked pancaking " +
+  "pancreases pander pandered panderer panderers panders pane paned paneled paneling pang panged " +
+  "panging pangolin pangs panhandle panhandled panics panned pannier panniers panning panoply panorama " +
+  "panoramas panpipes pans pansies pansy pant pantaloons panted pantheon pantie panties panto pantos " +
+  "pantsuit pantsuits pap papacies papacy papally paparazzo papas papaw papaws papayas paperbark " +
   "paperbarks paperboard paperboy paperclip papered paperer paperers papergirl paperhanger paperiness " +
   "papering paperless papery papilla papillae papillary papist papists papoose papooses papped pappier " +
   "pappies pappiest papping pappy paprikas paps papyri papyrus parable parabled parables parabola " +
@@ -2358,8 +2356,8 @@ window.BONUS_WORDS = (
   "paschal paschals pases pashas passably passaged passageways passaging passband passbook passbooks " +
   "passe passel passels passer passerby passers passersby passim passings passion passioning passions " +
   "passiveness passivenesses passives passivities passivity passivize passivizes passkey passkeys " +
-  "passmark passover passphrase passphrases passport password passwords pastas pasted pastel pastels " +
-  "paster pastern pasterns pastes pasteup pastie pastier pasties pastiest pastille pastilles pastimes " +
+  "passmark passover passphrase passphrases passport password passwords pastas pasted pastels paster " +
+  "pastern pasterns pastes pasteup pastie pastier pasties pastiest pastille pastilles pastimes " +
   "pastiness pastinesses pasting pastness pastorals pastorate pastorates pastors pastramis pasts " +
   "pasture pasturer pastures pasty patcher patches patchy pate pated patella patellae patellas paten " +
   "patentee patentees patenter patenters patenting patently pater pates pathless pathname pathos " +
@@ -2371,7 +2369,7 @@ window.BONUS_WORDS = (
   "payables paybacks payday paydays payed payee payees payer payers payloads payola payolas payout " +
   "payouts payrolls payslip payslips paywall paywalls payware peaceable peaceably peaced peacekeeper " +
   "peacekeepers peacemaker peaces peacetime peached peachier peachy peacing peacocked peafowl peahen " +
-  "peahens peakedness peakiness peaky peal pealed pealing peals pearl pearled pearler pearlier pearlies " +
+  "peahens peakedness peakiness peaky peal pealed pealing peals pearled pearler pearlier pearlies " +
   "pearls pearly peartrees peat peatier peatiest peats peaty pebble pebbled pebbles pebblier pebbliest " +
   "pebbling pebbly peccaries peccary peck pecked pecker peckers pecks pecs pectic pectin pectins " +
   "peculate pedagogue pedagogued pedagogy pedaled pedaler pedalo pedalos pedals pedant pedants peddled " +
@@ -2438,74 +2436,74 @@ window.BONUS_WORDS = (
   "piloted piloting pimento pimiento pimpernel pimpled pimples pimplier pimpliest pimplike pinatas " +
   "pinball pinballs pincer pincered pincering pincers pincher pinches pineapples pined pinewood piney " +
   "ping pinged pinger pinging pings pinhead pinheaded pinhole pinier piniest pinion pinioned pinioning " +
-  "pinions pink pinked pinker pinkest pinkeye pinkeyes pinkie pinkies pinking pinkish pinkishness " +
-  "pinkly pinkness pinknesses pinko pinkos pinks pinnacle pinnacling pinnate pinnies pinnings pinny " +
-  "pinon pinons pinpointed pinpointing pinpoints pinprick pinpricking pinpricks pinsetter pinsetters " +
-  "pinstripe pinstripes pintail pintails pinter pinto pintos pinup pinups pinwheel piny pinyin pinyon " +
-  "pinyons pion pioneer pious piously piousness piousnesses pip piped pipeline pipelined pipelines " +
-  "pipelining piper pipers pipette pipetted pipettes pipetting pipework piping pipingly pipings pipit " +
-  "pipits pipped pippin pipping pippins pips piquant pique piqued piques piquing piracies pirate " +
-  "pirated pirates piratical pirating pirogi pirogies piroshki pirouette pis pismire pismires pissoir " +
-  "pissoirs piste pistes pistil pistillate pistils pistol pistole piston pistons pita pitapat pitapats " +
-  "pitapatted pitapatting pitas piteous pitfall pitfalls pith pithead pithed pithier pithiest pithily " +
-  "pithiness pithinesses pithing piths pitiable pitiably pitied pitier pitiers pities pitifully " +
-  "pitiless pitilessly pitilessness pitilessnesses pitman piton pitons pitta pittance pittas pitted " +
-  "pitting pituitary pitying pityingly pivot pivoted pivoting pivots pix pixed pixels pixes pixie " +
-  "pixies pixiness pixing pixmap pixmaps pizazz pizazzes pizzas pizzazz pizzerias pizzicati pizzicato " +
-  "pkwy placard placarded placards placated placater placates placeable placebo placekick placeless " +
-  "placelessly placental placer placers placid placidly placket plagiary plaguer plaguing plaice " +
-  "plaided plaiding plaids plained plainer plaining plainness plainnesses plainsman plaint plaints " +
-  "plaited plaiter plaiting plaits planar planed planeload planer planers planet plangent plank planked " +
-  "planking planks plankton planner planners plannings plantain plantains plantar planter plaques plash " +
-  "plashed plashes plasm plasma plasmas plasmid plasmids plasmon plasterer plasterers plasters plastic " +
-  "plastics plat plateaued plateaus plateful platelet platelets platen plater platers platier platiest " +
-  "plating platoons plats platted platters platting platy platys plaudit playability playact playacts " +
-  "playbill playbills playbook playboy playboys playful playfully playgirl playlist playlists playmate " +
-  "playpens plazas pleader pleaders pleads pleas pleasantest pleasantness pleasantnesses pleasely " +
-  "pleaser pleat pleated pleater pleats pleb plebby plebe plebeian plebes plebs plectra pledger plenary " +
-  "plenties plenum plenums pleura pleurae pleural pleurisies plexus plexuses pliability pliable pliancy " +
-  "pliant pliantly plied plier plies plighting plights plimsoll plimsolls plink plinked plinker " +
-  "plinking plinks plinth plinths plod plodded plodder plodders plodding plods plonk plonked plonker " +
-  "plonking plonks plop plopped plopping plops plosive plosives plotter plottered plotters plover " +
-  "plovers plow plower plowers plowing plowman plowmen plows ploy ployed ploying ploys plucker pluckily " +
-  "plucks plucky pluggable plugging plughole plugin plugins plumb plumbed plumber plumbs plume plumed " +
-  "plumes plumier pluming plummer plummest plummet plummeted plummets plummy plump plumped plumper " +
-  "plumpest plumping plumply plumpness plumpnesses plumps plumy plunder plundered plunderer plunges " +
-  "plunging plunk plunked plunker plunking plunks plurally plurals pluses plush plusher plushes " +
-  "plushest plushly plushness plushnesses plushy plussed plussing pluvial pluvials plying plywood " +
-  "plywoods poach poacher poaches pock pocked pocketed pocketer pocking pockmark pocks podcasts podded " +
-  "podding podge podger podgers podiums pods poesied poesies poesy poetaster poetasters poetess " +
-  "poetesses poetics poetries pogo pogrom pogromed pogroming pogroms poi poignant poinciana poincianas " +
-  "pointer pointier pointiest pointillist pointillists pois poises poising poison poisoner poisoners " +
-  "poisonings poisonousness pokers pokes pokey pokeys pokier pokies pokiest poky pol polarogram " +
-  "polarograph polars poleaxe poleaxed poleaxes poled polemic poler police policed polices poling polio " +
-  "polios polis polishes politer politesse politesses politest politic politico politicos polities " +
-  "polity polka polkaed polkas pollack pollacks pollard pollards polled pollened pollening poller " +
-  "pollination polliwog polliwogs pollster pollsters pollutant pollute polluter pollutes polonium polos " +
-  "pols poltroon poltroons poly polyamory polyclinic polygamy polyglot polyglots polygon polygonal " +
-  "polygonally polygons polymorph polyp polyphony polypropylene polyps polys polytonal polytonally " +
-  "polytopes polyvinyl pom pomade pomaded pomades pommel pommeled pommels pommies pommy pomp pompadour " +
-  "pompano pompanos pompom pomposities pomposity pompously pompousness pompousnesses pomps poms ponce " +
-  "ponced ponces poncho ponchos poncing poncy pond ponded ponder pondered ponderer ponderers ponders " +
-  "ponding pone pones pong ponged pongee pongees ponging pongs poniard ponied pons pontiff pontiffs " +
-  "pontoon pontooned pontooning pontoons ponying poo pooch pooched pooches pooching pooed poofter " +
-  "poofters pooh poohed poohing poohs pooing pooled pooling poolroom poolrooms poolside poolsides " +
-  "poorboy poorest poorhouses poorness poornesses poos popcorns pope popes popgun popguns popinjay " +
-  "poplar poplars poplin poplins popover popovers poppadom poppadoms poppas popper poppers poppet " +
-  "poppets poppied poppies poppy poppycock poppycocks poppyseed populars populate populism populisms " +
-  "populist populists populously populousness populousnesses popup popups porches porcine pore pored " +
-  "porer porers porgies porgy poring porker porkers porkier porkies porks porky porosities porosity " +
-  "porous porously porousness porousnesses porphyry porpoised porpoising porringer portage ported " +
-  "portend portended portent portents porter porterage portered porters porthole portico portiere " +
-  "portieres porting portioning portlier portly portraitist portraitists portrayer poser posers poseur " +
-  "poseurs posh poshed posher poshes poshest poshing posies posit posited positifs positing positives " +
-  "positivest positivism positivist positivists positivity positron positrons posits poss posses " +
-  "possessedly possessedness possessiveness possessivenesses possessives possessor possessors possibles " +
-  "postages postal postals postbag postbags postbox postboxes postcode postcodes postdate postdated " +
-  "postdates postdoc postdocs posteriori posteriors posterities postfix posthaste posthastes postie " +
-  "posties postilion postilions postings postman postmen postmortems postnasal postnatal postorder " +
-  "postpaid postponements postponer postpones postpositions postscript postscripts postseasons posture " +
-  "posturer postures posy potable potage potash potashes potbelly potboil potency potentate potentates " +
+  "pinions pinked pinkest pinkeye pinkeyes pinkie pinkies pinking pinkishness pinkly pinkness " +
+  "pinknesses pinko pinkos pinnacle pinnacling pinnate pinnies pinnings pinny pinon pinons pinpointed " +
+  "pinpointing pinpoints pinprick pinpricking pinpricks pinsetter pinsetters pinstripe pinstripes " +
+  "pintail pintails pinter pinto pintos pinup pinups pinwheel piny pinyin pinyon pinyons pion pioneer " +
+  "pious piously piousness piousnesses pip piped pipeline pipelined pipelines pipelining piper pipers " +
+  "pipette pipetted pipettes pipetting pipework piping pipingly pipings pipit pipits pipped pippin " +
+  "pipping pippins pips piquant pique piqued piques piquing piracies pirate pirated pirates piratical " +
+  "pirating pirogi pirogies piroshki pirouette pis pismire pismires pissoir pissoirs piste pistes " +
+  "pistil pistillate pistils pistol pistole piston pistons pita pitapat pitapats pitapatted pitapatting " +
+  "pitas piteous pitfall pitfalls pith pithead pithed pithier pithiest pithily pithiness pithinesses " +
+  "pithing piths pitiable pitiably pitied pitier pitiers pities pitifully pitiless pitilessly " +
+  "pitilessness pitilessnesses pitman piton pitons pitta pittance pittas pitted pitting pituitary " +
+  "pitying pityingly pivot pivoted pivoting pivots pix pixed pixels pixes pixie pixies pixiness pixing " +
+  "pixmap pixmaps pizazz pizazzes pizzas pizzazz pizzerias pizzicati pizzicato pkwy placard placarded " +
+  "placards placated placater placates placeable placebo placekick placeless placelessly placental " +
+  "placer placers placid placidly placket plagiary plaguer plaguing plaice plaided plaiding plaids " +
+  "plained plainer plaining plainness plainnesses plainsman plaint plaints plaited plaiter plaiting " +
+  "plaits planar planed planeload planer planers planet plangent plank planked planking planks plankton " +
+  "planner planners plannings plantain plantains plantar planter plaques plash plashed plashes plasm " +
+  "plasma plasmas plasmid plasmids plasmon plasterer plasterers plasters plastic plastics plat " +
+  "plateaued plateaus plateful platelet platelets platen plater platers platier platiest plating " +
+  "platoons plats platted platters platting platy platys plaudit playability playact playacts playbill " +
+  "playbills playbook playboy playboys playful playfully playgirl playlist playlists playmate playpens " +
+  "plazas pleader pleaders pleads pleas pleasantest pleasantness pleasantnesses pleasely pleaser pleat " +
+  "pleated pleater pleats pleb plebby plebe plebeian plebes plebs plectra pledger plenary plenties " +
+  "plenum plenums pleura pleurae pleural pleurisies plexus plexuses pliability pliable pliancy pliant " +
+  "pliantly plied plier plies plighting plights plimsoll plimsolls plink plinked plinker plinking " +
+  "plinks plinth plinths plod plodded plodder plodders plodding plods plonk plonked plonker plonking " +
+  "plonks plop plopped plopping plops plosive plosives plotter plottered plotters plover plovers plow " +
+  "plower plowers plowing plowman plowmen plows ploy ployed ploying ploys plucker pluckily plucks " +
+  "plucky pluggable plugging plughole plugin plugins plumb plumbed plumber plumbs plume plumed plumes " +
+  "plumier pluming plummer plummest plummet plummeted plummets plummy plump plumped plumper plumpest " +
+  "plumping plumply plumpness plumpnesses plumps plumy plunder plundered plunderer plunges plunging " +
+  "plunk plunked plunker plunking plunks plurally plurals pluses plush plusher plushes plushest plushly " +
+  "plushness plushnesses plushy plussed plussing pluvial pluvials plying plywood plywoods poach poacher " +
+  "poaches pock pocked pocketed pocketer pocking pockmark pocks podcasts podded podding podge podger " +
+  "podgers podiums pods poesied poesies poesy poetaster poetasters poetess poetesses poetics poetries " +
+  "pogo pogrom pogromed pogroming pogroms poi poignant poinciana poincianas pointer pointier pointiest " +
+  "pointillist pointillists pois poises poising poison poisoner poisoners poisonings poisonousness " +
+  "pokers pokes pokey pokeys pokier pokies pokiest poky pol polarogram polarograph polars poleaxe " +
+  "poleaxed poleaxes poled polemic poler police policed polices poling polio polios polis polishes " +
+  "politer politesse politesses politest politic politico politicos polities polity polka polkaed " +
+  "polkas pollack pollacks pollard pollards polled pollened pollening poller pollination polliwog " +
+  "polliwogs pollster pollsters pollutant pollute polluter pollutes polonium polos pols poltroon " +
+  "poltroons poly polyamory polyclinic polygamy polyglot polyglots polygon polygonal polygonally " +
+  "polygons polymorph polyp polyphony polypropylene polyps polys polytonal polytonally polytopes " +
+  "polyvinyl pom pomade pomaded pomades pommel pommeled pommels pommies pommy pomp pompadour pompano " +
+  "pompanos pompom pomposities pomposity pompously pompousness pompousnesses pomps poms ponce ponced " +
+  "ponces poncho ponchos poncing poncy pond ponded ponder pondered ponderer ponderers ponders ponding " +
+  "pone pones pong ponged pongee pongees ponging pongs poniard ponied pons pontiff pontiffs pontoon " +
+  "pontooned pontooning pontoons ponying poo pooch pooched pooches pooching pooed poofter poofters pooh " +
+  "poohed poohing poohs pooing pooled pooling poolroom poolrooms poolside poolsides poorboy poorest " +
+  "poorhouses poorness poornesses poos popcorns pope popes popgun popguns popinjay poplar poplars " +
+  "poplin poplins popover popovers poppadom poppadoms poppas popper poppers poppet poppets poppied " +
+  "poppies poppy poppycock poppycocks poppyseed populars populate populism populisms populist populists " +
+  "populously populousness populousnesses popup popups porches porcine pore pored porer porers porgies " +
+  "porgy poring porker porkers porkier porkies porks porky porosities porosity porous porously " +
+  "porousness porousnesses porphyry porpoised porpoising porringer portage ported portend portended " +
+  "portent portents porter porterage portered porters porthole portico portiere portieres porting " +
+  "portioning portlier portly portraitist portraitists portrayer poser posers poseur poseurs posh " +
+  "poshed posher poshes poshest poshing posies posit posited positifs positing positives positivest " +
+  "positivism positivist positivists positivity positron positrons posits poss posses possessedly " +
+  "possessedness possessiveness possessivenesses possessives possessor possessors possibles postages " +
+  "postal postals postbag postbags postbox postboxes postcode postcodes postdate postdated postdates " +
+  "postdoc postdocs posteriori posteriors posterities postfix posthaste posthastes postie posties " +
+  "postilion postilions postings postman postmen postmortems postnasal postnatal postorder postpaid " +
+  "postponements postponer postpones postpositions postscript postscripts postseasons posture posturer " +
+  "postures posy potable potage potash potashes potbelly potboil potency potentate potentates " +
   "potentiate potently potents potful potfuls pothead pother potherb pothered pothers potholed potholer " +
   "potholes pothook pothooks potlatch potluck potpie potpies potpourri potpourris pots potshot potshots " +
   "pottage pottages potter pottered potterer potteries potters pottier potties pottiest pottiness " +
@@ -2586,246 +2584,246 @@ window.BONUS_WORDS = (
   "puppetry puppied pupping puppying puppyish purdah purdahs purebred purebreds pured puree pureed " +
   "pureeing purees pureness purenesses purer purge purged purger purgers purges purging purified " +
   "purifier purifiers purifies purify purine purines puring purism purisms purist puristic purists " +
-  "puritan purities purl purled purlieu purlieus purling purloin purls purple purpled purpler purples " +
-  "purplest purpling purplish purport purported purporter purporters purports purposed purposeless purr " +
-  "purred purring purrs pursed purser pursers pursing pursuant pursuer pursuers pursues purulence " +
-  "purulent purvey purveyed purveyor purveys purview puses pusher pushers pushier pushiest pushily " +
-  "pushiness pushinesses pushpin pushpins puss pusses pussier pussies pussiest pussy pussycat pussycats " +
-  "pussyfoot pussyfoots pustular pustule pustules putative putout putouts putrefy putridity putsch " +
-  "putsches putt putted puttee puttees putter puttered putterer putterers putters puttied putties putts " +
-  "puttying putz putzes puzzler puzzlers puzzling pwning pygmies pygmy pylon pylons pylori pyloric " +
-  "pylorus pyorrhea pyramid pyre pyres pyridine pyrite pyrites pyrolysis pyrolyze pyrolyzer pyrometer " +
-  "pyrometry pyroxene pyx pyxed pyxes pyxing pzazz qty qua quacked quacks quad quadded quadding " +
-  "quadrature quadric quadrivia quadruped quads quadword quaff quaffed quaffer quaffing quaffs quahog " +
-  "quahogs quailed quailing quake quaked quaker quakers quakes quakier quaking quaky qualm qualms " +
-  "quango quangos quanta quantitation quantum quark quarks quarreled quarreler quarrelers quarrels " +
-  "quarried quarrier quarries quarryman quartered quarterer quartets quartic quarto quartos quarts " +
-  "quartz quasar quasars quash quashed quashes quatrain quaver quavered quavers quavery quay quays " +
-  "queasier queasiest queasiness queasinesses queened queening queenlier queenly queens queerest " +
-  "queerness queernesses quell quelled queller quelling quells quench quenched quencher quenches " +
-  "queried querier queries quern querulous query ques quest quested quester questers quests queue " +
-  "queued queuer queuers queues queuing quibbled quibbler quibbles quibbling quiches quicken quickies " +
-  "quicks quid quids quiesce quiesced quiescence quiescences quieted quieten quietened quietening " +
-  "quietens quietest quieting quietism quietness quietnesses quiets quietude quietudes quietus " +
-  "quietuses quiff quiffs quill quilled quilling quills quilted quilter quilting quilts quin quinces " +
-  "quincy quine quines quinidine quinine quinines quinoa quinquennial quins quinsies quinsy quint " +
-  "quintets quintic quintile quintillion quints quip quipped quipper quipping quips quire quired quires " +
-  "quiring quirk quirked quirkier quirking quirt quirted quirting quirts quisling quislings quited " +
-  "quites quiting quitters quiver quivered quivers quivery quixotic quizzed quizzer quizzers quizzical " +
-  "quizzing quo quoin quoined quoining quoins quoit quoited quoiting quoits quondam quonset quorate " +
-  "quorum quorums quot quotas quotation quoter quotient qwerty qwertys rabbet rabbeted rabbets " +
-  "rabbinate rabbinic rabbinical rabbis rabbited rabbiter rabbiting rabbled rabbler rabbles rabbling " +
-  "rabidly rabis racecourses racegoer racegoers racehorse racehorses raceme racemes racers racetrack " +
-  "racetracker racetracks raceways racialism racialisms racialist racialists racially racier raciest " +
-  "racily raciness racinesses racing racings racker racketed racketeer racketeered racketeers rackety " +
-  "racy radars radded radder raddest radding raddled radially radials radian radiance radians radiants " +
-  "radiate radiated radiates radiating radiative radiators radically radicchio radii radiogram radioing " +
-  "radioman radium radiums radix radixes radon radons rads raffia raffias raffish raffled raffles " +
-  "raffling rafted rafter raftered rafts raga ragas ragbag ragbags raged rages ragga raggeder raggedest " +
-  "raggedier raggedly raggedness raggednesses ragingly raglan raglans ragout ragouts rags ragtag " +
-  "ragtags ragtime ragweed ragweeds ragwort rah rahed rahing rahs raider raiders raiding railbird " +
-  "railbirds railcard railcards railed railer railers railhead railings railleries raillery railroader " +
-  "raiment rainbow raindrop rainfalls rainier rainiest rainless rainmaker rainmaking rainproof rains " +
-  "rainwater raisers raj rajah rajahs rake raker rakes rakish rallied rallying rambled rambler ramblers " +
-  "rambles ramekin ramie ramies ramified ramifies ramify ramjet ramjets ramming ramp rampage rampaged " +
-  "rampages rampaging rampancy rampant rampart ramparted ramparts ramped ramping ramps ramrod ramrodded " +
-  "ramrods ramses ranched ranchers ranches ranching ranchos rancid rancor rancorous rancors rand randed " +
-  "randier randies randiness randinesses randing random randoms rands randy ranee ranees rang rangeland " +
-  "ranger rangers rangier ranginess ranginesses rangy ranker rankers rankest rankle rankled rankles " +
-  "rankling rankly rankness ranknesses ransack ransacker ransacks ransom ransomer ransomers ransoms " +
-  "rant ranted ranter ranters rantings rants rapacity raper rapers rapeseed rapider rapidity rapier " +
-  "rapiers rapine rapines rapped rappel rappelled rappels rappers rapping rapporteur rapports raps rapt " +
-  "raptly raptness raptnesses rapture raptured raptures rapturous rarebit rarebits rared rarefied " +
-  "rarefies rarefy rareness rarenesses rarer rares rarest raring rarities rarity rascal rascally " +
-  "rascals rash rasher rashers rashes rashest rashly rashness rashnesses rasp raspberries rasped rasper " +
-  "raspier raspiest rasping raspings rasps raspy raster rasters ratbag ratbags ratchet ratcheted " +
-  "ratchets rateable ratepayer ratepayers rater raters ratified ratifier ratifiers ratifies ratify " +
-  "ratiocination ration rationing rations ratlike ratline rattail rattan rattans ratter ratters rattier " +
-  "rattiest rattler rattlers rattles rattletrap rattletraps rattlier rattliest rattly rattrap rattraps " +
-  "raucous raunchy ravage ravaged ravager ravagers ravages raved ravel raveled ravels ravened ravener " +
-  "ravening raver ravers ravined ravines ravings ravining raviolis ravish ravisher ravishers ravishes " +
-  "rawer rawest rawhide rawhided rawly rawness rawnesses raws raying rayons raze razed razer razes " +
-  "razing razor razorback razored razoring razors razz razzed razzes razzing razzmatazz razzmatazzes " +
-  "reabbreviate reabsorb reabsorbed reabsorbs reaccessed reachable reacher reacquire reacquirer " +
-  "reactance reactant reactants reactivate readable readably readdress readdressed readdresser " +
-  "readdressers readdresses reader readied readier readies readiest readinesses readmit readmitted " +
-  "readopt readopted readopter readout reaffirm reaffirmed reaffirms reafforest reafforests reagent " +
-  "reagents realer realest realign realigning realisms realists realizable realizer realizers reallied " +
-  "reallies reallocate reallocator reallots reallotted realness realnesses reals realties realty ream " +
-  "reamed reamer reamers reaming reams reanalyses reanalyze reanalyzer reanimate reap reaped reaper " +
-  "reapers reaping reappearance reappearances reappeared reappearing reappears reapplied reapplies " +
-  "reapply reappraisal reappraisals reappraise reappraised reappraiser reappraisers reappraises reaps " +
-  "reared rearer rearguard rearguards rearing rearm rearmament rearmaments rearmed rearming rearmost " +
-  "rearms rearrangeable rearrangement rearranger rearrangers rearranges rearrest rearrested rearrests " +
-  "rears rearward rearwards reascend reascended reascends reasoned reasoner reasoners reasonless " +
-  "reassemble reassembler reassembles reassert reasserted reasserts reassess reassessed reassesses " +
-  "reassessing reassessment reassessments reassign reassigning reassigns reassurances reassures " +
-  "reattach reattached reattacher reattachers reattaches reattain reattained reattaining reattains " +
-  "reattempt reattempted reattempts reawaken reawakened reawakens rebate rebated rebater rebates rebel " +
-  "rebelled rebeller rebelling rebells rebels rebid rebidding rebids rebind rebinded rebinder rebinders " +
-  "rebinding rebinds rebirth rebirths reboil reboiled reboils rebonds rebook reboot rebooted rebooter " +
-  "rebooters reboots reborn rebounded rebounder rebuff rebuffed rebuffs rebuilder rebuke rebuked " +
-  "rebuker rebukes reburial reburied reburies rebury rebus rebused rebuses rebut rebuts rebutted rec " +
-  "recalculate recaller recanted recants recappable recapped recaps recast recasted recaster recasters " +
-  "recasts recce recces recd recede receded receder recedes receding receipted recency recension " +
-  "recenter recentered recentering recentest recentness recentnesses receptacle recessed recesses " +
-  "recessing recessions recessive recessiveness recessives recharged recharger rechargers recharges " +
-  "recharter rechartered recharters rechecked rechecker recheckers rechecks recherche recherches " +
-  "recipiency recitative recited reciter reciters recites recked recking reckless recklessly " +
-  "recklessness recklessnesses reckoner reckons reclaimer recline reclined recliner recliners reclines " +
-  "reclining recluses reclusters recode recoded recodes recoil recoiled recoilless recoils recollect " +
-  "recollected recollects recolor recolored recolorer recolorers recolors recommence recommenced " +
-  "recommencement recommences recommender recommit recompose recomposes recon reconciler reconnected " +
-  "reconnecter reconnection reconnects reconnoiter reconquer reconquerer recons recontact reconvened " +
-  "reconvenes reconvert recook recooked recooker recookers recooks recopied recopier recopiers recopies " +
-  "recopy recorders recored recounter recoup recouped recouple recoups recourses recoverer recoveries " +
-  "recreant recreants recreated recreates recriticizes recross recrossed recrosser recrossers recrosses " +
-  "recrossest recrossly recrossness recrudesce recrudesced recrudescence recrudescences recrudesces " +
-  "recruiter recruiters recs rectal rectally rectified rectifier rectifiers rectifies rectitude recto " +
-  "rector rectories rectors rectory rectos rectum rectums recur recurred recurrence recurrences " +
-  "recurrent recurrents recurs recurse recursed recurses recursive recurved recused recuses recyclable " +
-  "recycle recyclers recycles redact redacted redactor redacts redbird redbirds redbreast redbreasts " +
-  "redbrick redbud redcap redcaps redcoat redden reddened reddening reddens redder reddest redding " +
-  "reddishness redeclare redeclared redeclarer redeclarers redeclares redecorated rededicate " +
-  "rededicated redeemable redeemed redeemer redeemers redeems redefine redefined redefiner redefines " +
-  "redefining redeliver redelivered redelivers redelivery redeploy redeployed redesign redesigning " +
-  "redesigns redetermine redetermined redevelop redeveloped redeveloper redhead redheader redheads " +
-  "redialed redialer redialers redials redid redirected redirecter redirectest redirector redirects " +
-  "rediscussed redistrict redistricted redistricts redivide redivided redivider redividers redivides " +
-  "redividing redlining redly redness rednesses redo redoes redolence redolent redone redouble " +
-  "redoubled redoubler redoubt redoubted redoubter redound redounded redounds redraft redrafted " +
-  "redrafts redraw redrawer redrawers redrawn redraws redress redressed redresser redresses redressing " +
-  "redrew reds redskin redskins reducer reducers reduct redwood redwoods redye redyed redyeing redyes " +
-  "redying reecho reechoed reechoes reed reeded reeder reedier reediest reediness reedinesses reeding " +
-  "reedit reedited reediting reedits reeds reeducate reeducated reedy reefed reefer reefers reefing " +
-  "reek reeked reeker reeking reel reelect reelects reeled reeler reembark reembarked reembarks " +
-  "reembodied reembody reemerge reemerged reemergence reemergences reemerges reemerging reemission " +
-  "reemissions reemploy reenact reenacted reenacts reengage reengaged reengages reengaging reenlist " +
-  "reenlists reenter reentered reentering reenters reentrant reentries reentry reenumerate reequip " +
-  "reequipped reequips reestimate reevaluate reeve reever reeves reeving reexamine reexaminer reexport " +
-  "reexported reexporter reexporters reexports reface refaced refaces refactor refasten refastens " +
-  "refavors refectory refelled refelling refereed refereeing referees referencer referencing referent " +
-  "referents referral referrals referrer referrers refest reffed reffing refile refiled refiler " +
-  "refilers refiles refiling refilled refilling refills refinance refine refinement refiner refineries " +
-  "refiners refines refinest refining refinish refinisher refinishers refinishes refit refitly " +
-  "refitness refits refitted refitting reflate reflated reflates reflector reflex reflexed reflexive " +
-  "reflexly refluent reflux refluxed refluxes refocus refocuser refocuses refold refolded refolder " +
-  "refolders refolds reforest reforested reforests reforge reforged reforges reforging reformat " +
-  "reformatter reformer reformers reformism refortified refortifier refortifiers refortifies refortify " +
-  "refract refracted refracts refrained refraining refrains refreeze refreezes refreezing refreshers " +
-  "refreshes refreshest refreshly refreshness refried refries refrigerate refroze refrozen refrozenness " +
-  "refry refrying refs refueled refuels refuged refuges refuging refunded refunder refunders refunds " +
-  "refusals refuser refute refuted refuter refuters refutes reg regaining regal regale regaled regaler " +
-  "regales regalia regaling regally regals regather regathered regathers regatta regattas regencies " +
-  "regeneracy regenerated regenerateness regenerates regenerating regex regexp regexps reggae reggaes " +
-  "regicide regicides regimens regimenting regimes registering registrar registrars registries regnant " +
-  "regrade regraded regrades regrading regreets regress regressed regresses regressing regression " +
-  "regressions regressive regressiveness regressors regretful regrew regrids regrind regrinder " +
-  "regrinders regrinding regrindings regrinds reground regrouped regroups regrow regrower regrowers " +
-  "regrowing regrowly regrown regrows regrowth regs regulars regurgitate rehabbed rehang rehanged " +
-  "rehanging rehangs rehashed rehashes rehear reheard rehearer rehearers rehearest rehearing rehears " +
-  "rehearsals rehearser rehearses reheat reheated reheater reheaters reheats rehi rehire rehired " +
-  "rehires rehiring rehonors rehouse rehoused rehouses rehung rehydrate reified reifies reify reifying " +
-  "reignite reignited reignites reigniting reigns reimburses reimpose reimposes rein reincarnate reined " +
-  "reinfect reinforcer reining reinsert reinserted reinserting reinsertion reinsertions reinserts " +
-  "reinstates reintegrate reintegrating reinterpret reinterpreted reinterpreting reinterprets " +
-  "reinterview reinterviewer reinvented reinventing reinvention reinvents reinvest reinvests reissuer " +
-  "reissuers reissues reissuing reitemizes reiterated reiterates reiterating reiteration reiterative " +
-  "reiteratives rejecter rejector rejectors rejig rejigged rejigger rejiggered rejiggering rejiggers " +
-  "rejigging rejigs rejoiced rejoicer rejoices rejoin rejoinder rejoining rejoins rejudge rejudged " +
-  "rejudges rekindled rekindler reknit reknits rel relabel relabeled relabeler relabelers relabels " +
-  "relaid relapsed relapser relapses relatedly relately relateness relater relaters relatest relaxant " +
-  "relaxedly relaxer relaxers relayed relayer relayers relays relearn relearned relearner relearners " +
-  "relearning relearns releasable releaser releasers relegate relegates relent relented relenting " +
-  "relentlessly relentlessness relentlessnesses relents reliables reliably reliant relic relicense " +
-  "relicenser relicenses relict relied reliefs relier relievedly reliever relievers relieves relieving " +
-  "relight reline relined reliner reliners relines relining relinings relink relinked relinking " +
-  "relished relishes relist relisted relists relived relively reliveness reliver relivers relives " +
-  "relivest reload reloaded reloader reloaders reloads relocked rem remade remades remaindered remakes " +
-  "remand remands remap remapped remaps remarker remarkers remarriage remarriages remarried remarries " +
-  "remaster remasters rematcher remeasure remeasured remeasurer remeasures remediate remediated " +
-  "remedied remedies remelt remelted remelts rememberer remembrancer rememorizes remigrate reminiscence " +
-  "reminiscences reminisces remissions remissly remissness remissnesses remit remits remitted remitting " +
-  "remixer remixers remixing remodeled remodels remold remolded remolds remorseless remorselessly " +
-  "remorselessness remorselessnesses remorses remortgage remoteness remotenesses remoter remotes " +
-  "remotest remount removers rems remunerate renaissances renal rename renames renascence renascences " +
-  "renascent renature renatured renatures rend render renderer renderings renders rending renditioned " +
-  "rends renegade renegaded renegades renegading renege reneged reneger renegers reneges reneging " +
-  "renewals renewer renews rennet rennets rennin rennins reno renos renounced renouncer renounces " +
-  "renovate renovator renown renowning renowns rentaller rentals renter renters renumber renumbered " +
-  "renumberer renumbers reoccupier reoccupy reoccur reoccurred reoccurs reopening reopens reorder " +
-  "reordered reordering reorders reorg reorged reorging reorgs reorient reorientation reoriented " +
-  "reorienting reorients rep repack repackage repackager repacked repacker repackers repacks repaint " +
-  "repainter repairable repairer repairers repairing repairmen repaper reparable repartee reparteed " +
-  "repartees repast repasted repaster repastness repasts repatriate repatriated repatriates repave " +
-  "repaved repaver repaves repays repealer repeals repeatable repeater repeaters repelled repellently " +
-  "repellents repelling repels repentance repentant repentants repented repenter repenting repents " +
-  "repertoires repertories repetition repetitive rephrased rephrases repine repined repiner repines " +
-  "repining replaceable replacer replacers replant replanter replayed replayer replays repleader " +
-  "replete repleted repleteness repletenesses repletes replied replier repliers replotted replug " +
-  "replugged reportage reportered repose reposed reposer reposers reposes repositories repossess " +
-  "repossessed repossesses repossession repossessions repost reposted reposter reposters reposts " +
-  "reprehend reprehended reprehends representer represses repressing repressions repressive " +
-  "repressiveness reprice repriced reprices repricing reprieved reprieves reprieving reprint reprinter " +
-  "reprinters reprinting reprints reprisal reprisals reprise reprises reprising reprized reproacher " +
-  "reprobate reprocess reprocessed reprocesses reproduced reproducer reprogram reprogrammer reproof " +
-  "reproofed reproofs reprove reproved reprover reproves reps reptile repulse repulsed repulses " +
-  "repurposed repute reputes requester requesters requiem requiems requirer requisites requite requited " +
-  "requiter requiters requites reran reread rereading rereads rerecord rerecorded rerecords rerolled " +
-  "rerouted rerouter rerouters reroutes rerunning res resale resales resample resamples resat " +
-  "resaturated resaturates rescale rescaled rescales rescan rescanned rescans rescinded rescinder " +
-  "rescinds rescission rescissions rescue rescuer rescuers rescues reseal resealed resealer resealers " +
-  "reseals researches reseated reseed reseeded reseeding reseeds reselect reselected reselects resell " +
-  "reseller resellers reselling resells resend resending resends resentments reserpine reserpines " +
-  "reservedly reservedness reservednesses reserver reserving reservist reservists reseted reseter " +
-  "reseting resets resettable resetting resettings resettle resettled resettlement resettlements " +
-  "resettles resew resewed resewing resewn resews reshape reshaped reshaper reshapes resharpen " +
-  "resharpens reship reshipped reships reshow reshuffle reshuffler reshufflers reshuffles residencies " +
-  "resider residua residuum resifted resignedness resigner resigns resilience resiliences resiliencies " +
-  "resined resining resinlike resinous resins resiny resistants resister resistered resistering " +
-  "resisterly resisters resistible resistive resistiveness resistivity resistless resistor resistors " +
-  "resists resit resiting resits resitting resize resized resizer resizers resizes resizing resizings " +
-  "resold resole resoled resoles resoluble resolute resoluter resolutes resolutest resolver resolvers " +
-  "resolves resonances resonant resonants resonate resonates resonator resonators resorted resorter " +
-  "resound resounded resounder resounders resoundness resounds resourced resow resowed resown resows " +
-  "resp respecifier respecifiers respecifies respecter respectered respecters respell respelled " +
-  "respells respire respired respires respiring respite respited respites responder responders " +
-  "responser respray resprayed resprayer resprayers resprays restaff restaffed restaffs restart " +
-  "restarted restarter restarts restate restated restately restatement restatements restater restates " +
-  "restaurateur restaurateurs rester resterilizes restfuller restfullest restitch restitches restive " +
-  "restiveness restivenesses restlessly restlessness restlessnesses restock restocks restorer restorers " +
-  "restores restrainer restrainers restrains restrengthen restrengthens restricter restrictest " +
-  "restrictive restrictives restrictness restricts restring restringer restringers restringing " +
-  "restrings restructure restructured restructurer restructures restrung restudied restudies restudy " +
-  "restyle restyled restyler restylers restyles resubscribe resubscribes resubstitute resupplier " +
-  "resuppliers resupplies resupply resurface resurfacer resurfacers resurfaces resurged resurgence " +
-  "resurgences resurgent resurges resurrected resurrects resurvey resurveyed resurveys resuspended " +
-  "retailed retails retainers retake retaken retaker retakers retakes retaliated retaliates retardant " +
-  "retardants retaught retch retched retches reteach reteacher reteachers reteaches retell retelling " +
-  "retells retentions retentive retentiveness retentivenesses retentivity retest retested retester " +
-  "retesters retesting retests rethinker rethought reticence reticences reticent reticle reticles " +
-  "reticule retie retied reties retina retinas retinue retinues retireder retiredest retiredly " +
-  "retiredness retiree retirees retirements retiringness retirings retitled retitling retold retook " +
-  "retool retooled retools retorsion retort retorted retorting retorts retouch retraced retracer " +
-  "retracers retraces retracted retractile retractors retracts retrain retrained retrainer retrainers " +
-  "retraining retrains retread retreaded retreads retreater retreats retrench retrenched retrenches " +
-  "retrenchment retrial retrials retributed retributive retried retrier retriers retries retrievers " +
-  "retrieves retrieving retrod retrodden retrofire retrofired retrofires retrofit retrofits retrofitted " +
-  "retroflex retrograded retrogress retrogressed retrogresses retrorocket retrorockets retros " +
-  "retrospects retry retrying retsina retsinas retuning returnee returnees returner returners retweet " +
-  "retweeted retweeter retweeters retweeting retweets retying retype retyped retyper retypes reunified " +
-  "reunifies reunify reunites reuniting reusable reuse reused reuses reusing rev revalue revalued " +
-  "revalues revamp revamped revamps revealer reveille reveilles reveled reveler revelers reveling " +
-  "revelries revelry revels revenged revenger revenges revenging revenuer revenuers reverb reverberant " +
-  "reverberate reverberated reverberates revered reverence reverenced reverencer reverences reverencing " +
-  "reverends reverent reveres reverie reveries reverified reverifies reverify revering revers reversals " +
-  "reversely reverser reverses reversible reversibles reversing reversion reversioner reversions " +
-  "reverter revertible reverting reverts revet revetment revetments revetting revile reviled revileness " +
-  "reviler revilers reviles revilest reviling revily reviser revisers revises revising revisited " +
-  "revisits revivals reviver revives revivified revivifies revivify reviving revoker revokers revokes " +
-  "revolted revolter revolts revolved revolver revolvers revs revues revving rewarder rewarm rewarmed " +
-  "rewarms rewash rewashed rewasher rewashers rewashes reweave reweaves rewed rewedded rewedding reweds " +
-  "reweigh reweighed reweigher reweighing reweighs rewinder rewinders rewinding rewinds rewired rewires " +
+  "puritan purities purl purled purlieu purlieus purling purloin purls purpled purpler purplest " +
+  "purpling purport purported purporter purporters purports purposed purposeless purr purred purring " +
+  "purrs pursed purser pursers pursing pursuant pursuer pursuers pursues purulence purulent purvey " +
+  "purveyed purveyor purveys purview puses pusher pushers pushier pushiest pushily pushiness " +
+  "pushinesses pushpin pushpins puss pusses pussier pussies pussiest pussy pussycat pussycats pussyfoot " +
+  "pussyfoots pustular pustule pustules putative putout putouts putrefy putridity putsch putsches putt " +
+  "putted puttee puttees putter puttered putterer putterers putters puttied putties putts puttying putz " +
+  "putzes puzzler puzzlers puzzling pwning pygmies pygmy pylon pylons pylori pyloric pylorus pyorrhea " +
+  "pyramid pyre pyres pyridine pyrite pyrites pyrolysis pyrolyze pyrolyzer pyrometer pyrometry pyroxene " +
+  "pyx pyxed pyxes pyxing pzazz qty qua quacked quacks quad quadded quadding quadrature quadric " +
+  "quadrivia quadruped quads quadword quaff quaffed quaffer quaffing quaffs quahog quahogs quailed " +
+  "quailing quake quaked quaker quakers quakes quakier quaking quaky qualm qualms quango quangos quanta " +
+  "quantitation quantum quark quarks quarreled quarreler quarrelers quarrels quarried quarrier quarries " +
+  "quarryman quartered quarterer quartets quartic quarto quartos quarts quartz quasar quasars quash " +
+  "quashed quashes quatrain quaver quavered quavers quavery quay quays queasier queasiest queasiness " +
+  "queasinesses queened queening queenlier queenly queens queerest queerness queernesses quell quelled " +
+  "queller quelling quells quench quenched quencher quenches queried querier queries quern querulous " +
+  "query ques quest quested quester questers quests queue queued queuer queuers queues queuing quibbled " +
+  "quibbler quibbles quibbling quiches quicken quickies quicks quid quids quiesce quiesced quiescence " +
+  "quiescences quieted quieten quietened quietening quietens quietest quieting quietism quietness " +
+  "quietnesses quiets quietude quietudes quietus quietuses quiff quiffs quill quilled quilling quills " +
+  "quilted quilter quilting quilts quin quinces quincy quine quines quinidine quinine quinines quinoa " +
+  "quinquennial quins quinsies quinsy quint quintets quintic quintile quintillion quints quip quipped " +
+  "quipper quipping quips quire quired quires quiring quirk quirked quirkier quirking quirt quirted " +
+  "quirting quirts quisling quislings quited quites quiting quitters quiver quivered quivers quivery " +
+  "quixotic quizzed quizzer quizzers quizzical quizzing quo quoin quoined quoining quoins quoit quoited " +
+  "quoiting quoits quondam quonset quorate quorum quorums quot quotas quotation quoter quotient qwerty " +
+  "qwertys rabbet rabbeted rabbets rabbinate rabbinic rabbinical rabbis rabbited rabbiter rabbiting " +
+  "rabbled rabbler rabbles rabbling rabidly rabis racecourses racegoer racegoers racehorse racehorses " +
+  "raceme racemes racers racetrack racetracker racetracks raceways racialism racialisms racialist " +
+  "racialists racially racier raciest racily raciness racinesses racing racings racker racketed " +
+  "racketeer racketeered racketeers rackety racy radars radded radder raddest radding raddled radially " +
+  "radials radian radiance radians radiants radiate radiated radiates radiating radiative radiators " +
+  "radically radicchio radii radiogram radioing radioman radium radiums radix radixes radon radons rads " +
+  "raffia raffias raffish raffled raffles raffling rafted rafter raftered rafts raga ragas ragbag " +
+  "ragbags raged rages ragga raggeder raggedest raggedier raggedly raggedness raggednesses ragingly " +
+  "raglan raglans ragout ragouts rags ragtag ragtags ragtime ragweed ragweeds ragwort rah rahed rahing " +
+  "rahs raider raiders raiding railbird railbirds railcard railcards railed railer railers railhead " +
+  "railings railleries raillery railroader raiment raindrop rainfalls rainier rainiest rainless " +
+  "rainmaker rainmaking rainproof rains rainwater raisers raj rajah rajahs rake raker rakes rakish " +
+  "rallied rallying rambled rambler ramblers rambles ramekin ramie ramies ramified ramifies ramify " +
+  "ramjet ramjets ramming ramp rampage rampaged rampages rampaging rampancy rampant rampart ramparted " +
+  "ramparts ramped ramping ramps ramrod ramrodded ramrods ramses ranched ranchers ranches ranching " +
+  "ranchos rancid rancor rancorous rancors rand randed randier randies randiness randinesses randing " +
+  "random randoms rands randy ranee ranees rang rangeland ranger rangers rangier ranginess ranginesses " +
+  "rangy ranker rankers rankest rankle rankled rankles rankling rankly rankness ranknesses ransack " +
+  "ransacker ransacks ransom ransomer ransomers ransoms rant ranted ranter ranters rantings rants " +
+  "rapacity raper rapers rapeseed rapider rapidity rapier rapiers rapine rapines rapped rappel " +
+  "rappelled rappels rappers rapping rapporteur rapports raps rapt raptly raptness raptnesses rapture " +
+  "raptured raptures rapturous rarebit rarebits rared rarefied rarefies rarefy rareness rarenesses " +
+  "rarer rares rarest raring rarities rarity rascal rascally rascals rash rasher rashers rashes rashest " +
+  "rashly rashness rashnesses rasp raspberries rasped rasper raspier raspiest rasping raspings rasps " +
+  "raspy raster rasters ratbag ratbags ratchet ratcheted ratchets rateable ratepayer ratepayers rater " +
+  "raters ratified ratifier ratifiers ratifies ratify ratiocination ration rationing rations ratlike " +
+  "ratline rattail rattan rattans ratter ratters rattier rattiest rattler rattlers rattles rattletrap " +
+  "rattletraps rattlier rattliest rattly rattrap rattraps raucous raunchy ravage ravaged ravager " +
+  "ravagers ravages raved ravel raveled ravels ravened ravener ravening raver ravers ravined ravines " +
+  "ravings ravining raviolis ravish ravisher ravishers ravishes rawer rawest rawhide rawhided rawly " +
+  "rawness rawnesses raws raying rayons raze razed razer razes razing razor razorback razored razoring " +
+  "razors razz razzed razzes razzing razzmatazz razzmatazzes reabbreviate reabsorb reabsorbed reabsorbs " +
+  "reaccessed reachable reacher reacquire reacquirer reactance reactant reactants reactivate readable " +
+  "readably readdress readdressed readdresser readdressers readdresses reader readied readier readies " +
+  "readiest readinesses readmit readmitted readopt readopted readopter readout reaffirm reaffirmed " +
+  "reaffirms reafforest reafforests reagent reagents realer realest realign realigning realisms " +
+  "realists realizable realizer realizers reallied reallies reallocate reallocator reallots reallotted " +
+  "realness realnesses reals realties realty ream reamed reamer reamers reaming reams reanalyses " +
+  "reanalyze reanalyzer reanimate reap reaped reaper reapers reaping reappearance reappearances " +
+  "reappeared reappearing reappears reapplied reapplies reapply reappraisal reappraisals reappraise " +
+  "reappraised reappraiser reappraisers reappraises reaps reared rearer rearguard rearguards rearing " +
+  "rearm rearmament rearmaments rearmed rearming rearmost rearms rearrangeable rearrangement rearranger " +
+  "rearrangers rearranges rearrest rearrested rearrests rears rearward rearwards reascend reascended " +
+  "reascends reasoned reasoner reasoners reasonless reassemble reassembler reassembles reassert " +
+  "reasserted reasserts reassess reassessed reassesses reassessing reassessment reassessments reassign " +
+  "reassigning reassigns reassurances reassures reattach reattached reattacher reattachers reattaches " +
+  "reattain reattained reattaining reattains reattempt reattempted reattempts reawaken reawakened " +
+  "reawakens rebate rebated rebater rebates rebel rebelled rebeller rebelling rebells rebels rebid " +
+  "rebidding rebids rebind rebinded rebinder rebinders rebinding rebinds rebirth rebirths reboil " +
+  "reboiled reboils rebonds rebook reboot rebooted rebooter rebooters reboots reborn rebounded " +
+  "rebounder rebuff rebuffed rebuffs rebuilder rebuke rebuked rebuker rebukes reburial reburied " +
+  "reburies rebury rebus rebused rebuses rebut rebuts rebutted rec recalculate recaller recanted " +
+  "recants recappable recapped recaps recast recasted recaster recasters recasts recce recces recd " +
+  "recede receded receder recedes receding receipted recency recension recenter recentered recentering " +
+  "recentest recentness recentnesses receptacle recessed recesses recessing recessions recessive " +
+  "recessiveness recessives recharged recharger rechargers recharges recharter rechartered recharters " +
+  "rechecked rechecker recheckers rechecks recherche recherches recipiency recitative recited reciter " +
+  "reciters recites recked recking reckless recklessly recklessness recklessnesses reckoner reckons " +
+  "reclaimer recline reclined recliner recliners reclines reclining recluses reclusters recode recoded " +
+  "recodes recoil recoiled recoilless recoils recollect recollected recollects recolor recolored " +
+  "recolorer recolorers recolors recommence recommenced recommencement recommences recommender recommit " +
+  "recompose recomposes recon reconciler reconnected reconnecter reconnection reconnects reconnoiter " +
+  "reconquer reconquerer recons recontact reconvened reconvenes reconvert recook recooked recooker " +
+  "recookers recooks recopied recopier recopiers recopies recopy recorders recored recounter recoup " +
+  "recouped recouple recoups recourses recoverer recoveries recreant recreants recreated recreates " +
+  "recriticizes recross recrossed recrosser recrossers recrosses recrossest recrossly recrossness " +
+  "recrudesce recrudesced recrudescence recrudescences recrudesces recruiter recruiters recs rectal " +
+  "rectally rectified rectifier rectifiers rectifies rectitude recto rector rectories rectors rectory " +
+  "rectos rectum rectums recur recurred recurrence recurrences recurrent recurrents recurs recurse " +
+  "recursed recurses recursive recurved recused recuses recyclable recycle recyclers recycles redact " +
+  "redacted redactor redacts redbird redbirds redbreast redbreasts redbrick redbud redcap redcaps " +
+  "redcoat redden reddened reddening reddens reddest redding reddishness redeclare redeclared " +
+  "redeclarer redeclarers redeclares redecorated rededicate rededicated redeemable redeemed redeemer " +
+  "redeemers redeems redefine redefined redefiner redefines redefining redeliver redelivered redelivers " +
+  "redelivery redeploy redeployed redesign redesigning redesigns redetermine redetermined redevelop " +
+  "redeveloped redeveloper redhead redheader redheads redialed redialer redialers redials redid " +
+  "redirected redirecter redirectest redirector redirects rediscussed redistrict redistricted " +
+  "redistricts redivide redivided redivider redividers redivides redividing redlining redly redness " +
+  "rednesses redo redoes redolence redolent redone redouble redoubled redoubler redoubt redoubted " +
+  "redoubter redound redounded redounds redraft redrafted redrafts redraw redrawer redrawers redrawn " +
+  "redraws redress redressed redresser redresses redressing redrew redskin redskins reducer reducers " +
+  "reduct redwood redwoods redye redyed redyeing redyes redying reecho reechoed reechoes reed reeded " +
+  "reeder reedier reediest reediness reedinesses reeding reedit reedited reediting reedits reeds " +
+  "reeducate reeducated reedy reefed reefer reefers reefing reek reeked reeker reeking reel reelect " +
+  "reelects reeled reeler reembark reembarked reembarks reembodied reembody reemerge reemerged " +
+  "reemergence reemergences reemerges reemerging reemission reemissions reemploy reenact reenacted " +
+  "reenacts reengage reengaged reengages reengaging reenlist reenlists reenter reentered reentering " +
+  "reenters reentrant reentries reentry reenumerate reequip reequipped reequips reestimate reevaluate " +
+  "reeve reever reeves reeving reexamine reexaminer reexport reexported reexporter reexporters " +
+  "reexports reface refaced refaces refactor refasten refastens refavors refectory refelled refelling " +
+  "refereed refereeing referees referencer referencing referent referents referral referrals referrer " +
+  "referrers refest reffed reffing refile refiled refiler refilers refiles refiling refilled refilling " +
+  "refills refinance refine refinement refiner refineries refiners refines refinest refining refinish " +
+  "refinisher refinishers refinishes refit refitly refitness refits refitted refitting reflate reflated " +
+  "reflates reflector reflex reflexed reflexive reflexly refluent reflux refluxed refluxes refocus " +
+  "refocuser refocuses refold refolded refolder refolders refolds reforest reforested reforests reforge " +
+  "reforged reforges reforging reformat reformatter reformer reformers reformism refortified " +
+  "refortifier refortifiers refortifies refortify refract refracted refracts refrained refraining " +
+  "refrains refreeze refreezes refreezing refreshers refreshes refreshest refreshly refreshness refried " +
+  "refries refrigerate refroze refrozen refrozenness refry refrying refs refueled refuels refuged " +
+  "refuges refuging refunded refunder refunders refunds refusals refuser refute refuted refuter " +
+  "refuters refutes reg regaining regal regale regaled regaler regales regalia regaling regally regals " +
+  "regather regathered regathers regatta regattas regencies regeneracy regenerated regenerateness " +
+  "regenerates regenerating regex regexp regexps reggae reggaes regicide regicides regimens regimenting " +
+  "regimes registering registrar registrars registries regnant regrade regraded regrades regrading " +
+  "regreets regress regressed regresses regressing regression regressions regressive regressiveness " +
+  "regressors regretful regrew regrids regrind regrinder regrinders regrinding regrindings regrinds " +
+  "reground regrouped regroups regrow regrower regrowers regrowing regrowly regrown regrows regrowth " +
+  "regs regulars regurgitate rehabbed rehang rehanged rehanging rehangs rehashed rehashes rehear " +
+  "reheard rehearer rehearers rehearest rehearing rehears rehearsals rehearser rehearses reheat " +
+  "reheated reheater reheaters reheats rehi rehire rehired rehires rehiring rehonors rehouse rehoused " +
+  "rehouses rehung rehydrate reified reifies reify reifying reignite reignited reignites reigniting " +
+  "reigns reimburses reimpose reimposes rein reincarnate reined reinfect reinforcer reining reinsert " +
+  "reinserted reinserting reinsertion reinsertions reinserts reinstates reintegrate reintegrating " +
+  "reinterpret reinterpreted reinterpreting reinterprets reinterview reinterviewer reinvented " +
+  "reinventing reinvention reinvents reinvest reinvests reissuer reissuers reissues reissuing " +
+  "reitemizes reiterated reiterates reiterating reiteration reiterative reiteratives rejecter rejector " +
+  "rejectors rejig rejigged rejigger rejiggered rejiggering rejiggers rejigging rejigs rejoiced " +
+  "rejoicer rejoices rejoin rejoinder rejoining rejoins rejudge rejudged rejudges rekindled rekindler " +
+  "reknit reknits rel relabel relabeled relabeler relabelers relabels relaid relapsed relapser relapses " +
+  "relatedly relately relateness relater relaters relatest relaxant relaxedly relaxer relaxers relayed " +
+  "relayer relayers relays relearn relearned relearner relearners relearning relearns releasable " +
+  "releaser releasers relegate relegates relent relented relenting relentlessly relentlessness " +
+  "relentlessnesses relents reliables reliably reliant relic relicense relicenser relicenses relict " +
+  "relied reliefs relier relievedly reliever relievers relieves relieving relight reline relined " +
+  "reliner reliners relines relining relinings relink relinked relinking relished relishes relist " +
+  "relisted relists relived relively reliveness reliver relivers relives relivest reload reloaded " +
+  "reloader reloaders reloads relocked rem remade remades remaindered remakes remand remands remap " +
+  "remapped remaps remarker remarkers remarriage remarriages remarried remarries remaster remasters " +
+  "rematcher remeasure remeasured remeasurer remeasures remediate remediated remedied remedies remelt " +
+  "remelted remelts rememberer remembrancer rememorizes remigrate reminiscence reminiscences reminisces " +
+  "remissions remissly remissness remissnesses remit remits remitted remitting remixer remixers " +
+  "remixing remodeled remodels remold remolded remolds remorseless remorselessly remorselessness " +
+  "remorselessnesses remorses remortgage remoteness remotenesses remoter remotes remotest remount " +
+  "removers rems remunerate renaissances renal rename renames renascence renascences renascent renature " +
+  "renatured renatures rend render renderer renderings renders rending renditioned rends renegade " +
+  "renegaded renegades renegading renege reneged reneger renegers reneges reneging renewals renewer " +
+  "renews rennet rennets rennin rennins reno renos renounced renouncer renounces renovate renovator " +
+  "renown renowning renowns rentaller rentals renter renters renumber renumbered renumberer renumbers " +
+  "reoccupier reoccupy reoccur reoccurred reoccurs reopening reopens reorder reordered reordering " +
+  "reorders reorg reorged reorging reorgs reorient reorientation reoriented reorienting reorients rep " +
+  "repack repackage repackager repacked repacker repackers repacks repaint repainter repairable " +
+  "repairer repairers repairing repairmen repaper reparable repartee reparteed repartees repast " +
+  "repasted repaster repastness repasts repatriate repatriated repatriates repave repaved repaver " +
+  "repaves repays repealer repeals repeatable repeater repeaters repelled repellently repellents " +
+  "repelling repels repentance repentant repentants repented repenter repenting repents repertoires " +
+  "repertories repetition repetitive rephrased rephrases repine repined repiner repines repining " +
+  "replaceable replacer replacers replant replanter replayed replayer replays repleader replete " +
+  "repleted repleteness repletenesses repletes replied replier repliers replotted replug replugged " +
+  "reportage reportered repose reposed reposer reposers reposes repositories repossess repossessed " +
+  "repossesses repossession repossessions repost reposted reposter reposters reposts reprehend " +
+  "reprehended reprehends representer represses repressing repressions repressive repressiveness " +
+  "reprice repriced reprices repricing reprieved reprieves reprieving reprint reprinter reprinters " +
+  "reprinting reprints reprisal reprisals reprise reprises reprising reprized reproacher reprobate " +
+  "reprocess reprocessed reprocesses reproduced reproducer reprogram reprogrammer reproof reproofed " +
+  "reproofs reprove reproved reprover reproves reps reptile repulse repulsed repulses repurposed repute " +
+  "reputes requester requesters requiem requiems requirer requisites requite requited requiter " +
+  "requiters requites reran reread rereading rereads rerecord rerecorded rerecords rerolled rerouted " +
+  "rerouter rerouters reroutes rerunning res resale resales resample resamples resat resaturated " +
+  "resaturates rescale rescaled rescales rescan rescanned rescans rescinded rescinder rescinds " +
+  "rescission rescissions rescue rescuer rescuers rescues reseal resealed resealer resealers reseals " +
+  "researches reseated reseed reseeded reseeding reseeds reselect reselected reselects resell reseller " +
+  "resellers reselling resells resend resending resends resentments reserpine reserpines reservedly " +
+  "reservedness reservednesses reserver reserving reservist reservists reseted reseter reseting resets " +
+  "resettable resetting resettings resettle resettled resettlement resettlements resettles resew " +
+  "resewed resewing resewn resews reshape reshaped reshaper reshapes resharpen resharpens reship " +
+  "reshipped reships reshow reshuffle reshuffler reshufflers reshuffles residencies resider residua " +
+  "residuum resifted resignedness resigner resigns resilience resiliences resiliencies resined resining " +
+  "resinlike resinous resins resiny resistants resister resistered resistering resisterly resisters " +
+  "resistible resistive resistiveness resistivity resistless resistor resistors resists resit resiting " +
+  "resits resitting resize resized resizer resizers resizes resizing resizings resold resole resoled " +
+  "resoles resoluble resolute resoluter resolutes resolutest resolver resolvers resolves resonances " +
+  "resonant resonants resonate resonates resonator resonators resorted resorter resound resounded " +
+  "resounder resounders resoundness resounds resourced resow resowed resown resows resp respecifier " +
+  "respecifiers respecifies respecter respectered respecters respell respelled respells respire " +
+  "respired respires respiring respite respited respites responder responders responser respray " +
+  "resprayed resprayer resprayers resprays restaff restaffed restaffs restart restarted restarter " +
+  "restarts restate restated restately restatement restatements restater restates restaurateur " +
+  "restaurateurs rester resterilizes restfuller restfullest restitch restitches restive restiveness " +
+  "restivenesses restlessly restlessness restlessnesses restock restocks restorer restorers restores " +
+  "restrainer restrainers restrains restrengthen restrengthens restricter restrictest restrictive " +
+  "restrictives restrictness restricts restring restringer restringers restringing restrings " +
+  "restructure restructured restructurer restructures restrung restudied restudies restudy restyle " +
+  "restyled restyler restylers restyles resubscribe resubscribes resubstitute resupplier resuppliers " +
+  "resupplies resupply resurface resurfacer resurfacers resurfaces resurged resurgence resurgences " +
+  "resurgent resurges resurrected resurrects resurvey resurveyed resurveys resuspended retailed retails " +
+  "retainers retake retaken retaker retakers retakes retaliated retaliates retardant retardants " +
+  "retaught retch retched retches reteach reteacher reteachers reteaches retell retelling retells " +
+  "retentions retentive retentiveness retentivenesses retentivity retest retested retester retesters " +
+  "retesting retests rethinker rethought reticence reticences reticent reticle reticles reticule retie " +
+  "retied reties retina retinas retinue retinues retireder retiredest retiredly retiredness retiree " +
+  "retirees retirements retiringness retirings retitled retitling retold retook retool retooled retools " +
+  "retorsion retort retorted retorting retorts retouch retraced retracer retracers retraces retracted " +
+  "retractile retractors retracts retrain retrained retrainer retrainers retraining retrains retread " +
+  "retreaded retreads retreater retreats retrench retrenched retrenches retrenchment retrial retrials " +
+  "retributed retributive retried retrier retriers retries retrievers retrieves retrieving retrod " +
+  "retrodden retrofire retrofired retrofires retrofit retrofits retrofitted retroflex retrograded " +
+  "retrogress retrogressed retrogresses retrorocket retrorockets retros retrospects retry retrying " +
+  "retsina retsinas retuning returnee returnees returner returners retweet retweeted retweeter " +
+  "retweeters retweeting retweets retying retype retyped retyper retypes reunified reunifies reunify " +
+  "reunites reuniting reusable reuse reused reuses reusing rev revalue revalued revalues revamp " +
+  "revamped revamps revealer reveille reveilles reveled reveler revelers reveling revelries revelry " +
+  "revels revenged revenger revenges revenging revenuer revenuers reverb reverberant reverberate " +
+  "reverberated reverberates revered reverence reverenced reverencer reverences reverencing reverends " +
+  "reverent reveres reverie reveries reverified reverifies reverify revering revers reversals reversely " +
+  "reverser reverses reversible reversibles reversing reversion reversioner reversions reverter " +
+  "revertible reverting reverts revet revetment revetments revetting revile reviled revileness reviler " +
+  "revilers reviles revilest reviling revily reviser revisers revises revising revisited revisits " +
+  "revivals reviver revives revivified revivifies revivify reviving revoker revokers revokes revolted " +
+  "revolter revolts revolved revolver revolvers revs revues revving rewarder rewarm rewarmed rewarms " +
+  "rewash rewashed rewasher rewashers rewashes reweave reweaves rewed rewedded rewedding reweds reweigh " +
+  "reweighed reweigher reweighing reweighs rewinder rewinders rewinding rewinds rewired rewires " +
   "rewiring reword reworded rewords rework reworked reworker reworkers reworks rewound rewounded " +
   "rewounder rewove rewoven rewriter rewrites rewritten rewrote rezone rezoned rezonely rezoner rezones " +
   "rezoning rhea rheas rhenium rheology rheostat rheostats rhesus rhesuses rheum rheumier rheums rheumy " +
@@ -2862,7 +2860,7 @@ window.BONUS_WORDS = (
   "rookeries rookery rookie rookier rookies rookiest rooking rooks roomed roomer roomers roomette " +
   "roomettes roomfuls roomier roomiest roominess roominesses roomy roost roosted roosting roosts root " +
   "rootedness rooter rooters rootkit rootkits rootless rootlessness rootlet rootlets rootstock roper " +
-  "ropers ropier ropiest roping ropy rosaries rose roseate rosebud rosebuds rosebush rosebushes rosed " +
+  "ropers ropier ropiest roping ropy rosaries roseate rosebud rosebuds rosebush rosebushes rosed " +
   "rosemaries rosemary rosette rosetted rosettes rosewater rosewood rosewoods rosier rosiest rosily " +
   "rosin rosined rosiness rosinesses rosing rosining rosins rostered rosters rostrum rostrums rosy rota " +
   "rotaries rotary rotas rotate rotated rotates rotational rotative rotator rotators rotatory rote " +
@@ -2876,7 +2874,7 @@ window.BONUS_WORDS = (
   "rowings rowlock rowlocks royals rte rubato rubatos rubber rubbered rubberier rubberiest rubbering " +
   "rubberize rubberized rubberizes rubberneck rubbernecker rubbers rubbery rubbings rubbishes rubbishy " +
   "rubble rubbled rubbles rubbling rubdown rube rubella rubellas rubes rubicund rubidium rubidiums " +
-  "rubied rubier rubies rubiest ruble rubles rubout rubric rubrics rubs ruby rubying ruched ruck rucked " +
+  "rubied rubier rubies rubiest ruble rubles rubout rubric rubrics rubs rubying ruched ruck rucked " +
   "rucking rucks rucksack rucksacks ruckuses ruction rudder rudderless rudders ruddied ruddier ruddies " +
   "ruddiest ruddiness ruddinesses ruddy ruddying rudely rudenesses ruder rudest rue rued rueful " +
   "ruefully ruefulness ruefulnesses rues ruff ruffed ruffian ruffianing ruffians ruffing ruffled " +
@@ -2888,7 +2886,7 @@ window.BONUS_WORDS = (
   "runarounds runaway rundowns rune runes rung rungs runic runlet runlets runnable runnel runnels " +
   "runnier runniest runnings runoffs runt runtier runtiest runtime runtiness runts runty rupee rupees " +
   "rupiah rupiahs rupture ruptures rupturing rurality rurally ruse ruses rush rusher rushers rushes " +
-  "rushier rushiest rushing rushy rusk rusks russet russeted russets rust rustic rusticities rusticity " +
+  "rushier rushiest rushing rushy rusk rusks russet russeted russets rustic rusticities rusticity " +
   "rustics rustier rustiest rustiness rustinesses rusting rustled rustler rustlers rustles rustproof " +
   "rustproofs rusts rusty rutabaga rutabagas ruts rutted ruttier ruttiest rutting rutty ryes sabbath " +
   "sabbaths sabbaticals saber sabered sabers sable sabled sables sabling sabot sabotages sabots sabra " +
@@ -2917,537 +2915,536 @@ window.BONUS_WORDS = (
   "sandpapered sandpapers sandpit sandpits sands sandstones sandy saned sanely saneness sanenesses " +
   "saner sanes sanest sang sangrias sangs sanguine sanguineness sanguines sanguining saning sanitarian " +
   "sanitarians sanitaries sanitary sanitate sanities sanitize sanitizes sanitizing sanity sans sanserif " +
-  "sapience sapiences sapient sapless sapling saplings sapped sapper sappers sapphire sapphires sappier " +
-  "sappiest sappiness sappinesses sapping saps sapwood sapwoods saran sarans sarcasms sarcoma sarcomas " +
-  "sardined sardining sarges sari saris sarky sarnie sarnies sarong sarongs sarsaparilla sarsaparillas " +
-  "sartorial sartorius sash sashay sashayed sashaying sashays sashed sashes sashing sass sassafras " +
-  "sassafrases sassed sasses sassier sassies sassiest sassing sassy satanic satanical satanism " +
-  "satanisms satanist satanists satay satchel satchels sate sated sateen sateens satellited sates " +
-  "satiable satiate satiated satiates satiating satiation satieties satiety satined sating satining " +
-  "satins satiny satires satiric satirist satirists satirize satirizes satisfier satisfiers satisfies " +
-  "satori satoris satrap satraps satsuma satsumas saturate saturated saturater saturates satyriases " +
-  "satyriasis satyric satyrs sauced saucepan saucepans saucier sauciest saucily sauciness saucinesses " +
-  "saucing sauerkrauts saunaed saunaing saunas saunter saunterer saunters saurian saurians sauropod " +
-  "sauropods saute sauteed sautes savaged savagely savageness savagenesses savager savageries savagers " +
-  "savagery savagest savanna savannas savant savants saveloy savers savior saviors savored savorer " +
-  "savorers savorier savories savors savory savoy savoys savvied savvier savvies savviest savvying " +
-  "sawbones sawbuck sawbucks sawdust sawdusted sawdusts sawed sawer sawflies sawfly sawhorse sawhorses " +
-  "sawmill sawmills saws sawtooth sawyer sawyers sax saxes sayer sayers sayest sayings scab scabbard " +
-  "scabbarded scabbards scabbed scabbier scabbiest scabbiness scabbinesses scabbing scabby scabies " +
-  "scabrous scad scads scaffold scaffolds scag scagged scags scalar scalars scalawag scalawags scald " +
-  "scalded scalder scalds scaleless scalene scaler scalers scales scalier scaliest scaliness " +
-  "scalinesses scaling scalings scallion scallions scallop scallops scalped scalpels scalper scalpers " +
-  "scalps scaly scammer scammers scamp scamped scamper scampers scampi scamps scandaled scandals " +
-  "scanner scansion scansions scant scanted scanter scantest scanties scantiest scantiness scantinesses " +
-  "scanting scantly scantness scantnesses scants scanty scape scapegrace scapegraces scapula scapulae " +
-  "scapular scapulars scarab scarabs scarceness scarcenesses scarcer scarcest scarcities scarcity " +
-  "scarecrows scarer scarface scarfed scarfs scarifier scarifies scarify scarily scariness scarinesses " +
-  "scarlet scarlets scarp scarped scarper scarpered scarpers scarps scat scathe scathed scats scatted " +
-  "scatterer scatterers scatters scatting scatty scavenge scavenges scened sceneries scenics scening " +
-  "scenting scentless scents sceptered scepters schema schemata schemed schemers schemta scherzo " +
-  "scherzos schilling schillings schism schismatic schismatics schisms schist schists schizo schizoid " +
-  "schizoids schizos schlemiel schlemiels schlep schlepped schleps schlock schlocks schlocky schmo " +
-  "schmoes schmooze schmoozes schnook schnooks schnoz schnozes schoolbook schoolbooks schoolboys " +
-  "schoolchild schooler schoolers schoolhouse schoolhouses schoolroom schoolrooms schooners schuss " +
-  "schussed schusses schussing schwa schwas sci sciatic sciatica sciaticas sciatics scimitar scimitars " +
-  "scintilla scintillas scion scions scissor scissored scissoring scleroses sclerosis scoffed scoffer " +
-  "scoffers scoffing scofflaw scofflaws scoffs scolded scolder scolds scolioses sconce sconced sconces " +
-  "sconcing scooper scoopful scoopfuls scooping scooted scooter scooters scooting scoots scoped scopes " +
-  "scoping scops scorch scorcher scorchers scorches scorecard scorecards scorekeeper scorekeepers " +
-  "scoreless scorers scorings scorner scorners scorning scorns scotch scotched scotches scotchs scoured " +
-  "scourer scourers scourger scourges scours scout scouted scouter scouters scow scowed scowing scowled " +
-  "scowler scowls scows scrabble scrabbler scrabblers scrabbles scrag scragged scraggier scragging " +
-  "scraggly scraggy scrags scrammed scrams scraper scrapers scrapheap scrapheaps scrapie scrapper " +
-  "scrappers scrappier scrappy scrapyard scrapyards scratchcard scratchcards scratcher scratchers " +
-  "scrawl scrawler scrawls scrawly scream screamer screamers scree screeched screecher screeches " +
-  "screechier screechiest screechy screed screeds screener screenings screensaver screensavers screes " +
-  "screwer screwier screwiest screwiness screwinesses screwworm screwworms screwy scribal scribble " +
-  "scribbler scribblers scribbles scribe scribed scriber scribes scribing scrim scrimp scrimps scrims " +
-  "scrip scrips scriven scrivener scriveners scrod scrofulous scrog scrogs scrollbar scrollbars " +
-  "scrolled scrolls scrooge scrooged scrooges scrooging scrota scrotal scrotum scrubber scrubbers " +
-  "scrubbier scrubby scruff scruffier scruffs scruffy scrum scrummed scrump scrumps scrumpy scrums " +
-  "scrunches scrunchy scruple scrupulous scuba scubaed scubas scud scudded scudding scuds scuff scuffed " +
-  "scuffing scuffled scuffles scuffs scull sculled sculler sculleries scullers scullery sculling " +
-  "scullion scullions sculls sculpt sculpts scummed scummier scummiest scumming scummy scums scupper " +
-  "scuppered scuppers scurf scurfier scurfs scurfy scurried scurries scurrilous scurry scurvier " +
-  "scurvies scuttle scuttlebutt scuttlebutts scuttled scuttles scuzzier scuzziest scuzzy scythe scythed " +
-  "scythes seabed seabeds seabird seabirds seaboards seaborne seacoast seacoasts seafare seafarer " +
-  "seafarers seafloor seafloors seafoods seagoing sealant sealants sealer sealers sealing sealskin " +
-  "sealskins sealy seam seamail seaman seamanly seamed seamer seamier seamiest seaminess seaming " +
-  "seamless seamlessly seamlessness seamstresses seamy seances seaplane seaplanes seaport seaports " +
-  "seaquake sear searcher searchers seared searer searest searing searings sears seascape seascapes " +
-  "seashell seashells seashore seashores seasickness seasicknesses seaside seasides seasonable " +
-  "seasonableness seasonally seasoner seasoners seasoning seasonings seasonly seater seatings seatmate " +
-  "seatmates seawall seawalls seaward seawards seawater seawaters seaway seaways seaweeds sebaceous " +
-  "seborrhea seborrheas sebum sec secant secants secateurs secede seceded seceder secedes seceding " +
-  "secessionist secessionists secessions seclude secludedly secludedness secludes seclusive seconded " +
-  "seconder seconders secrecies secret secretariats secrete secreted secreter secretes secretest " +
-  "secretory secs sect sectaries sectary sectored sects seculars secureness securer secures securest " +
-  "secy sedans sedately sedateness sedatenesses sedater sedates sedatest sedge sedges sedgier sedgiest " +
-  "sedgy sedimented sedition seditions seditious seducer seducers seductress seductresses sedulous " +
-  "sedulously seedbed seedbeds seedcase seedcases seeder seeders seedier seediest seediness seedinesses " +
-  "seeding seedings seedless seedling seedlings seedpod seedpods seeings seeker seekers seemings " +
-  "seemlier seemliest seemliness seemlinesses seemly seep seepage seepages seeped seeps seer seers " +
-  "seersucker seersuckers seesaw seesawed seesawing seesaws seethe seethed seethes seething seethings " +
-  "segmented segmenting segregant segregate segregated segregates segued segueing segues seguing " +
-  "seigneur seigneurs seignior seigniors seined seiner seiners seines seining seismologies seismometer " +
-  "seismometers seizer seizers seizes seizin seizings seizins seizor seizors select selectivities " +
-  "selectmen selectness selectnesses selector selectors selects selenate selenite selenium seleniums " +
-  "selfed selfing selfishnesses selflessly selflessness selflessnesses selfness selfs selfsame " +
-  "selfsameness sellers selloff selloffs sellotape sellotapes sellout sellouts sells seltzer seltzers " +
-  "selvage selvaged selvages semens semesters semiarid semibreve semibreves semicircle semicircles " +
-  "semigloss semiglosses seminarian seminarians seminaries semiotic semiotics semipro semipros " +
-  "semiretired semis semisecret semiskilled semisolid semisolids semisweet semitone semitones " +
-  "semiweeklies sempstress sempstresses sen senates senators sender senders sendoffs senescence " +
-  "senescences senescent seniles senilities senility senily seniorities senna sennas senoras senors " +
-  "sens sensate sensately senselessly senselessness senselessnesses sensibilities sensibleness " +
-  "sensiblenesses sensibler sensibles sensiblest sensibly sensitiveness sensitivenesses sensitives " +
-  "sensitivities sensitize sensitized sensitizers sensitizes sensitizing sensually sensuous sensuously " +
-  "sensuousness sensuousnesses sentential sententious sentience sentiences sentient sentiently " +
-  "sentients sentinel sentineled sentineling sentries sentry sepal sepals separable separateness " +
-  "separatenesses separatist separatists separator separators sepia sepias sepses sepsis sept septa " +
-  "septal septate septet septets septicemic septics septum seq sequenced sequencer sequencers sequent " +
-  "sequester sequesters sequestrate sequestrates sequin sequined sequining sequinned sequins sequitur " +
-  "sequoia sequoias serape serapes seraph seraphs sere sered serenaded serenader serenades serened " +
-  "serenely sereneness serenenesses serener serenes serenest serening serenities serenity serer seres " +
-  "serest serf serfdom serfdoms serfs serge sergeants serged serges serging serialize serializes " +
-  "serially serials serif serifed serifs serine sering seriousnesses sermoned serologies serology " +
-  "serons serotonin serous serpent serpented serpentine serpentines serpents serrate serrated serrates " +
-  "serried serums server serveries servery servicer serviette serviettes servile servilely servileness " +
-  "serviles servilities servings servitor servitors servo servomotor servomotors servos sesame sesames " +
-  "sessile setscrew setscrews setsquare setsquares sett settable settee settees setter setters settles " +
-  "settlings setts setups sevenpence sevens seventeens seventeenths sevenths seventieth seventieths " +
-  "severally severals severance severances severeness severenesses severer severest severing severities " +
-  "severs sewages sewerage sewerages sewered sewering sewings sewn sews shabbier shabbiest shabbily " +
-  "shabbiness shabbinesses shackle shacks shad shade shaded shadeless shader shadier shadiest shadily " +
-  "shadiness shadinesses shading shadings shadow shadowed shads shady shafted shag shagged shaggier " +
-  "shaggiest shagginess shagginesses shaggy shags shah shahs shakable shakably shakeable shaker shakeup " +
-  "shakeups shakier shakiest shakily shakiness shakinesses shales shallot shallots shallowly shallows " +
-  "shalom shaman shamanic shamanism shamans shamble shamelessness shamelessnesses shames shaming " +
-  "shammed shammer shamming shampoo shampoos shams shandies shandy shanghaiing shanghais shank shanked " +
-  "shanking shanks shanties shantis shantung shantungs shanty shapeless shapelessly shapelessness " +
-  "shapelessnesses shapely shaper shapers sharable shard shareable sharer sharers shareware sharewares " +
-  "sharia shariah sharias sharked sharkskin sharkskins sharp sharped sharpener sharpeners sharpens " +
-  "sharpers sharpie sharpies sharpish sharpness sharpnesses sharps sharpshoot shat shatters shaved " +
-  "shaven shaver shavers shaves shavings shaw shawled shawls shay shays sheaf sheafed sheafs sheared " +
-  "shearer shearers shears sheath sheathe sheathed sheather sheathes sheaths sheave sheaved sheaves " +
-  "shebangs shebeen shebeens shedding sheds sheen sheened sheenier sheenies sheeniest sheening sheens " +
-  "sheeny sheepdog sheepdogs sheepherder sheepherders sheepish sheepishly sheepishness sheepishnesses " +
-  "sheepskin sheepskins sheered sheerer sheerest sheering sheerly sheerness sheernesses sheers sheeted " +
-  "sheeter sheeting sheetings sheetlike sheets sheik sheikhs sheiks sheila sheilas shekel shekels " +
-  "shelfed shelfs shell shellac shellacs sheller shellfire shellfires shellfishes shelling shelterer " +
-  "shelve shelved shelver shenanigan shepherd shepherded shepherdess shepherdesses sher sherbets " +
-  "sheriffs sherries sherry shes shew shewed shewing shewn shews shiatsu shiatsus shied shielded " +
-  "shielder shields shier shiers shies shiest shifter shifters shiftier shiftiest shiftily shiftiness " +
-  "shiftinesses shiftless shifty shiitake shiitakes shill shilled shillelagh shillelaghs shilling " +
-  "shillings shills shily shim shimmed shimmer shimmered shimmers shimmery shimmied shimmies shimming " +
-  "shimmy shimmying shims shin shinbone shinbones shindigs shiner shiners shingle shingles shingling " +
-  "shinier shiniest shininess shininesses shiningly shinned shinnied shinnies shinning shinny shinnying " +
-  "shins shinsplints shipman shipmen shipper shippers shippings shipshape shires shirk shirked shirker " +
-  "shirkers shirking shirks shirr shirred shirring shirrings shirrs shirted shirting shirtings " +
-  "shirtless shirttail shirttails shirtwaist shirtwaists shirty shiv shiver shivered shiverer shivers " +
-  "shivery shivs shivved shivving shoal shoaled shoaler shoalest shoals shoat shoats shocker shockers " +
-  "shod shoddier shoddies shoddiest shoddily shoddiness shoddinesses shoehorn shoehorned shoehorns " +
-  "shoeing shoemake shoeshine shoeshines shoetree shoetrees shogun shoguns shone shooed shoofly shooing " +
-  "shook shooks shoos shootouts shopkeep shopkeeper shopkeepers shoppe shopper shoppes shoppings " +
-  "shopworn shored shorer shores shoring shorings shortcrust shorten shortener shorter shorthorn " +
-  "shorthorns shorties shortish shortlist shortlists shortnesses shortstop shortstops shorty shotgun " +
-  "shotted shotting shouter shouters shoveled shoveler shovelers shover shoves showboat showboats " +
-  "showcases showdown showdowns showerier showers showery showier showiest showily showiness " +
-  "showinesses showings showman showmen showoff showoffs showrooms showy shrank shredder shredders " +
-  "shrewder shrewdest shrewdness shrewdnesses shrewed shrewish shrewishness shriek shrieked shrieker " +
-  "shriekers shrieks shrift shrifts shrike shrikes shrilled shriller shrillest shrilling shrillness " +
-  "shrillnesses shrills shrilly shrimper shrimpers shrimps shrined shrining shrinker shrive shrived " +
-  "shrivels shriven shriver shrives shriving shrouded shrouds shrubbed shrubberies shrubbier shrubby " +
-  "shrugged shrugging shtick shticks shuck shucked shucker shuckses shuddered shudders shuddery " +
-  "shuffled shuffler shufflers shuffles shun shunning shuns shunt shunted shunter shunting shunts " +
-  "shushed shushes shushing shuteye shuteyes shutoff shutoffs shutout shutouts shutter shuttered " +
-  "shuttled shuttles shyer shyest shying shyness shynesses shyster shysters sibilant sibilants sibyl " +
-  "sibylline sibyls sic sicced siccing sickbay sickbays sickbed sickbeds sicked sicken sickened " +
-  "sickener sickenings sickie sickies sicking sickish sickishly sickishness sickle sickled sickles " +
-  "sicklied sicklier sicklies sickliest sickliness sickling sicknesses sickout sickouts sickroom " +
-  "sickrooms sicks sics sidearm sidearms sideband sidebands sidebar sidebars sidecar sidecars sidedness " +
-  "sidekick sidekicks sideline sidelined sideliner sidelining sideman sidemen sidepiece sidepieces " +
-  "sider sidereal sidesaddle sidesaddles sideshow sideshows sidestep sidestepped sidesteps sideswipe " +
-  "sideswiped sideswipes sidewall sidewalls sidewards sideway sidewinder sidewinders sidings sidled " +
-  "sidles sidling sieged sieges sieging sienna siennas sierra sierras siesta siestas sieve sieved " +
-  "sievers sieves sieving sift sifted sifter sifters siftings sifts sighed sigher sighing sighter " +
-  "sightless sightliest sightly sightsee sightseeings sightseer sightseers sigma sigmas sigmoid signage " +
-  "signalizing signally signalman signer signers signet signeted signeting signets signified signifier " +
-  "signifies signify signifying signings signoras signori signories signorina signorinas signorine " +
-  "signors signpost signposting signposts silage silaged silages silaging siled silencer silencers " +
-  "silences silencing silenter silentest silentness silents silica silicas silicate silicates siliceous " +
-  "silicide silicone silicones silicons silicoses silicosis silked silken silkened silkening silkier " +
-  "silkies silkiest silkily silkiness silkinesses silking silks sill sillier sillies silliness " +
-  "sillinesses sills silo siloing silos silt siltation silted siltier siltiest silting silts siltstone " +
-  "silty silver silvered silverer silverier silveriest silveriness silverly silvers silvery sim simians " +
-  "simile similes simmered simmering simmers simonies simonize simonizes simonizing simony simper " +
-  "simpered simpers simple simpled simpleness simplenesses simples simplex simplexes simplifies " +
-  "simplify simpling sims sin sincereness sincerer sincerest sincerities sine sinecure sinecures sines " +
-  "sinew sinewed sinewing sinews sinewy sinful sinfully sinfulness sinfulnesses singalong singalongs " +
-  "singe singed singeing singes singingly singings singled singleness singlenesses singlet singlets " +
-  "singling singly singsong singsonged singsonging singsongs sining sinister sinisterness sinistral " +
-  "sinked sinkers sinless sinlessly sinlessness sinned sinner sinning sinology sinter sintered " +
-  "sinuosities sinuosity sinuous sinuousities sinuously sinuousness sinusitis sinusitises sinusoid " +
-  "sinusoids siphon siphoning siphons sipped sipper sippers sips sired sires siring sirloin sirloins " +
-  "sirocco siroccos sirrah sirred sirring sirs sisal sisals sises sissier sissies sissiest sissified " +
-  "sissy sistered sistering sisterliness sisterlinesses sitar sitarist sitarists sitars sitcoms sited " +
-  "sitemap sitemaps siting sitings sittings situ situate situates situating situationist situs sixer " +
-  "sixfold sixgun sixpence sixpences sixpenny sixteener sixteens sixteenths sixthly sixths sixtieth " +
-  "sixtieths sizer sizers sizing sizings sizzle sizzled sizzler sizzlers sizzles ska skas skat skated " +
-  "skatings skedaddled skedaddles skeet skeeter skeets skein skeined skeining skeins skeletal " +
-  "skeletally skeptic skeptics sketched sketcher sketchers sketchiest skew skewed skewer skewered " +
-  "skewers skewing skewness skews skibob skibobs skid skidded skidding skidpan skidpans skied skiers " +
-  "skiff skiffed skiffing skiffle skiffs skiings skilfully skillet skillets skillful skillfully " +
-  "skilling skim skimmer skimmers skimmings skimp skimped skimpier skimpiest skimpily skimpiness " +
-  "skimpinesses skimping skimps skims skindive skindiving skinflint skinflints skinful skinless skinner " +
-  "skinners skinnier skinnies skinniest skinniness skinninesses skinning skinny skint skintight skipper " +
-  "skippered skippers skirmish skirmisher skirmishers skirmishes skirted skirter skirting skit skited " +
-  "skiting skits skitter skittered skitters skittishly skittishness skittishnesses skittle skittles " +
-  "skive skived skiver skivers skives skiving skivvied skivvies skivvy skivvying skoal skoaled skoals " +
-  "skua skuas skulk skulked skulker skulkers skulks skullcap skullcaps skulled skulls skunked skunking " +
-  "skycap skycaps skydive skydived skydives skyhook skying skyjack skyjacks skylark skylarker skylarks " +
-  "skyline skylines skyward skywards skywave skyway slab slabbed slabbing slabs slack slacked slacken " +
-  "slacker slackers slackest slackly slackness slacknesses slag slagged slagging slagheap slagheaps " +
-  "slags slake slaked slakes slaking slalomed slaloms slammer slammers slandered slanderer slanderers " +
-  "slanders slanged slanging slangs slangy slanted slanting slants slapdash slapdashes slaphappy " +
-  "slapper slappers slasher slashers slashes slat slate slater slaters slates slather slathers slating " +
-  "slats slatted slattern slatterns slatting slaver slavered slaveries slavers slavish slavishly slaw " +
-  "slaws slayer slayings slays sleazebag sleazebags sleazeball sleazeballs sleazier sleaziest sleazily " +
-  "sleaziness sleazinesses sledded sledder sledders sledge sledged sledges sledging sleds sleek sleeked " +
-  "sleeker sleekest sleeking sleekly sleekness sleeknesses sleeks sleeper sleepers sleepier sleepiest " +
-  "sleepily sleepiness sleepinesses sleeplessly sleeplessness sleeplessnesses sleepovers sleepwalk " +
-  "sleepwalks sleepwear sleepy sleet sleeted sleetier sleetiest sleeting sleets sleety sleeved " +
-  "sleeveless sleeving sleighed sleighing sleighs sleight sleights sleken slekened slekening slenderer " +
-  "slenderest slenderly slenderness slendernesses sleuth sleuthed sleuths slew slewed slewing slews " +
-  "slicer slicers slick slicked slicker slickers slickest slicking slickly slickness slicknesses slicks " +
-  "slid slided slider sliders slier sliest slighting slights slily slim slimed slimes slimier slimiest " +
-  "sliminess sliminesses sliming slimline slimly slimmed slimmer slimmers slimmest slimming slimmings " +
-  "slimness slimnesses slims slinger slings slinkier slinkiest slinking slinks slinky slipcase " +
-  "slipcases slippage slippages slipper slippered slipperier slipperiest slipperiness slipperinesses " +
-  "slippery slippy slipshod slipway slipways slithers slits slitted slitter slitters slitting sliver " +
-  "slivered slivers slivery slob slobbed slobber slobbered slobbers slobbery slobbing slobs sloe sloes " +
-  "slog slogans slogged slogging slogs sloop sloops slop sloped sloper slopers sloping slopped sloppier " +
-  "sloppiest sloppily sloppiness sloppinesses slopping slops slosh sloshed sloshes sloshing slothed " +
-  "slothful slotted slotting slouches slouchy slough sloughs sloven slovenliness slovenlinesses " +
-  "slovenly slovens slowcoach slowdown slowdowns slowest slowish slowness slownesses slowpoke slowpokes " +
-  "sludge sludged sludges sludging sludgy slue slued slues sluggard sluggards slugger sluggers slugging " +
-  "sluggishly sluice sluiced sluices sluicing sluing slum slumberer slumbers slumdog slumdogs slumlord " +
-  "slumlords slummed slummer slummier slummiest slummy slumped slumps slums slung slunk slur slurp " +
-  "slurped slurps slurred slurried slurries slurring slurry slurs slushed slushes slushier slushiest " +
-  "slushiness slushinesses slushing slushy slyness slynesses smacker smackers smalled smalling smallish " +
-  "smallness smallnesses smallpox smalls smalltalk smalltime smarmier smarmiest smarted smarten " +
-  "smarties smartly smartness smartnesses smarty smasher smashers smashes smashing smashup smashups " +
-  "smearer smearier smeariest smears smeary smeller smellier smelliest smelliness smellinesses smelly " +
-  "smelted smelter smelters smelts smidgen smidgens smilax smilaxes smiler smiles smiley smileys " +
-  "smilies smilingly smirch smirches smirked smirking smirks smiter smites smith smithed smithies " +
-  "smithing smiths smithy smiting smock smocked smocks smog smoggier smoggiest smoggy smogs smokehouse " +
-  "smokehouses smokeless smoker smokier smokies smokiest smokiness smokinesses smoky smolder smoldered " +
-  "smolders smooch smooched smooches smooth smoothed smoothen smoothers smoothest smoothies smoothness " +
-  "smoothnesses smooths smote smother smothers smudge smudged smudges smudging smudgy smugged smugger " +
-  "smuggest smugging smugglers smuggles smugglings smugly smugness smugnesses smugs smurf smurfs smut " +
-  "smuts smutted smuttier smuttiest smuttiness smuttinesses smutting smutty snacked snacking snaffle " +
-  "snaffled snaffles snaffling snafu snafued snafuing snafus snagging snags snailed snailing snaked " +
-  "snakelike snakeskin snakier snakiest snaking snaky snapback snapper snappers snappier snappiest " +
-  "snappily snappiness snappinesses snappish snappishness snappishnesses snappy snapshot snared snarer " +
-  "snares snarf snarfed snarfing snarfings snarfs snaring snark snarkier snarks snarky snarl snarled " +
-  "snarler snarlier snarling snarls snarly snatch snatches snazzier snazziest snazzily sneaker " +
-  "sneakered sneakers sneakier sneakiest sneakiness sneakinesses sneaky sneer sneered sneerer sneering " +
-  "sneerings sneers sneezer sneezes snick snicked snicker snickerer snickers snicking snicks snidely " +
-  "snideness snider snides snidest sniffed sniffer sniffers sniffier sniffiest sniffle sniffled " +
-  "sniffler sniffling sniffs sniffy snifter snifters snip sniped sniper snipes sniping snipped snipper " +
-  "snippers snippet snippets snippier snippiest snipping snips snit snitches snitching snits snivel " +
-  "sniveled sniveler snivelers snivelings snivels snob snobberies snobbery snobbier snobbiest snobbish " +
+  "sapience sapiences sapient sapless sapling saplings sapped sapper sappers sapphires sappier sappiest " +
+  "sappiness sappinesses sapping saps sapwood sapwoods saran sarans sarcasms sarcoma sarcomas sardined " +
+  "sardining sarges sari saris sarky sarnie sarnies sarong sarongs sarsaparilla sarsaparillas sartorial " +
+  "sartorius sash sashay sashayed sashaying sashays sashed sashes sashing sass sassafras sassafrases " +
+  "sassed sasses sassier sassies sassiest sassing sassy satanic satanical satanism satanisms satanist " +
+  "satanists satay satchel satchels sate sated sateen sateens satellited sates satiable satiate " +
+  "satiated satiates satiating satiation satieties satiety satined sating satining satins satiny " +
+  "satires satiric satirist satirists satirize satirizes satisfier satisfiers satisfies satori satoris " +
+  "satrap satraps satsuma satsumas saturate saturated saturater saturates satyriases satyriasis satyric " +
+  "satyrs sauced saucepan saucepans saucier sauciest saucily sauciness saucinesses saucing sauerkrauts " +
+  "saunaed saunaing saunas saunter saunterer saunters saurian saurians sauropod sauropods saute sauteed " +
+  "sautes savaged savagely savageness savagenesses savager savageries savagers savagery savagest " +
+  "savanna savannas savant savants saveloy savers savior saviors savored savorer savorers savorier " +
+  "savories savors savory savoy savoys savvied savvier savvies savviest savvying sawbones sawbuck " +
+  "sawbucks sawdust sawdusted sawdusts sawed sawer sawflies sawfly sawhorse sawhorses sawmill sawmills " +
+  "saws sawtooth sawyer sawyers sax saxes sayer sayers sayest sayings scab scabbard scabbarded " +
+  "scabbards scabbed scabbier scabbiest scabbiness scabbinesses scabbing scabby scabies scabrous scad " +
+  "scads scaffold scaffolds scag scagged scags scalar scalars scalawag scalawags scald scalded scalder " +
+  "scalds scaleless scalene scaler scalers scales scalier scaliest scaliness scalinesses scaling " +
+  "scalings scallion scallions scallop scallops scalped scalpels scalper scalpers scalps scaly scammer " +
+  "scammers scamp scamped scamper scampers scampi scamps scandaled scandals scanner scansion scansions " +
+  "scant scanted scanter scantest scanties scantiest scantiness scantinesses scanting scantly scantness " +
+  "scantnesses scants scanty scape scapegrace scapegraces scapula scapulae scapular scapulars scarab " +
+  "scarabs scarceness scarcenesses scarcer scarcest scarcities scarcity scarecrows scarer scarface " +
+  "scarfed scarfs scarifier scarifies scarify scarily scariness scarinesses scarlets scarp scarped " +
+  "scarper scarpered scarpers scarps scat scathe scathed scats scatted scatterer scatterers scatters " +
+  "scatting scatty scavenge scavenges scened sceneries scenics scening scenting scentless scents " +
+  "sceptered scepters schema schemata schemed schemers schemta scherzo scherzos schilling schillings " +
+  "schism schismatic schismatics schisms schist schists schizo schizoid schizoids schizos schlemiel " +
+  "schlemiels schlep schlepped schleps schlock schlocks schlocky schmo schmoes schmooze schmoozes " +
+  "schnook schnooks schnoz schnozes schoolbook schoolbooks schoolboys schoolchild schooler schoolers " +
+  "schoolhouse schoolhouses schoolroom schoolrooms schooners schuss schussed schusses schussing schwa " +
+  "schwas sci sciatic sciatica sciaticas sciatics scimitar scimitars scintilla scintillas scion scions " +
+  "scissor scissored scissoring scleroses sclerosis scoffed scoffer scoffers scoffing scofflaw " +
+  "scofflaws scoffs scolded scolder scolds scolioses sconce sconced sconces sconcing scooper scoopful " +
+  "scoopfuls scooping scooted scooter scooters scooting scoots scoped scopes scoping scops scorch " +
+  "scorcher scorchers scorches scorecard scorecards scorekeeper scorekeepers scoreless scorers scorings " +
+  "scorner scorners scorning scorns scotch scotched scotches scotchs scoured scourer scourers scourger " +
+  "scourges scours scout scouted scouter scouters scow scowed scowing scowled scowler scowls scows " +
+  "scrabble scrabbler scrabblers scrabbles scrag scragged scraggier scragging scraggly scraggy scrags " +
+  "scrammed scrams scraper scrapers scrapheap scrapheaps scrapie scrapper scrappers scrappier scrappy " +
+  "scrapyard scrapyards scratchcard scratchcards scratcher scratchers scrawl scrawler scrawls scrawly " +
+  "scream screamer screamers scree screeched screecher screeches screechier screechiest screechy screed " +
+  "screeds screener screenings screensaver screensavers screes screwer screwier screwiest screwiness " +
+  "screwinesses screwworm screwworms screwy scribal scribble scribbler scribblers scribbles scribe " +
+  "scribed scriber scribes scribing scrim scrimp scrimps scrims scrip scrips scriven scrivener " +
+  "scriveners scrod scrofulous scrog scrogs scrollbar scrollbars scrolled scrolls scrooge scrooged " +
+  "scrooges scrooging scrota scrotal scrotum scrubber scrubbers scrubbier scrubby scruff scruffier " +
+  "scruffs scruffy scrum scrummed scrump scrumps scrumpy scrums scrunches scrunchy scruple scrupulous " +
+  "scuba scubaed scubas scud scudded scudding scuds scuff scuffed scuffing scuffled scuffles scuffs " +
+  "scull sculled sculler sculleries scullers scullery sculling scullion scullions sculls sculpt sculpts " +
+  "scummed scummier scummiest scumming scummy scums scupper scuppered scuppers scurf scurfier scurfs " +
+  "scurfy scurried scurries scurrilous scurry scurvier scurvies scuttle scuttlebutt scuttlebutts " +
+  "scuttled scuttles scuzzier scuzziest scuzzy scythe scythed scythes seabed seabeds seabird seabirds " +
+  "seaboards seaborne seacoast seacoasts seafare seafarer seafarers seafloor seafloors seafoods " +
+  "seagoing sealant sealants sealer sealers sealing sealskin sealskins sealy seam seamail seaman " +
+  "seamanly seamed seamer seamier seamiest seaminess seaming seamless seamlessly seamlessness " +
+  "seamstresses seamy seances seaplane seaplanes seaport seaports seaquake sear searcher searchers " +
+  "seared searer searest searing searings sears seascape seascapes seashell seashells seashore " +
+  "seashores seasickness seasicknesses seaside seasides seasonable seasonableness seasonally seasoner " +
+  "seasoners seasoning seasonings seasonly seater seatings seatmate seatmates seawall seawalls seaward " +
+  "seawards seawater seawaters seaway seaways seaweeds sebaceous seborrhea seborrheas sebum sec secant " +
+  "secants secateurs secede seceded seceder secedes seceding secessionist secessionists secessions " +
+  "seclude secludedly secludedness secludes seclusive seconded seconder seconders secrecies secret " +
+  "secretariats secrete secreted secreter secretes secretest secretory secs sect sectaries sectary " +
+  "sectored sects seculars secureness securer secures securest secy sedans sedately sedateness " +
+  "sedatenesses sedater sedates sedatest sedge sedges sedgier sedgiest sedgy sedimented sedition " +
+  "seditions seditious seducer seducers seductress seductresses sedulous sedulously seedbed seedbeds " +
+  "seedcase seedcases seeder seeders seedier seediest seediness seedinesses seeding seedings seedless " +
+  "seedling seedlings seedpod seedpods seeings seeker seekers seemings seemlier seemliest seemliness " +
+  "seemlinesses seemly seep seepage seepages seeped seeps seer seers seersucker seersuckers seesaw " +
+  "seesawed seesawing seesaws seethe seethed seethes seething seethings segmented segmenting segregant " +
+  "segregate segregated segregates segued segueing segues seguing seigneur seigneurs seignior seigniors " +
+  "seined seiner seiners seines seining seismologies seismometer seismometers seizer seizers seizes " +
+  "seizin seizings seizins seizor seizors select selectivities selectmen selectness selectnesses " +
+  "selector selectors selects selenate selenite selenium seleniums selfed selfing selfishnesses " +
+  "selflessly selflessness selflessnesses selfness selfs selfsame selfsameness sellers selloff selloffs " +
+  "sellotape sellotapes sellout sellouts sells seltzer seltzers selvage selvaged selvages semens " +
+  "semesters semiarid semibreve semibreves semicircle semicircles semigloss semiglosses seminarian " +
+  "seminarians seminaries semiotic semiotics semipro semipros semiretired semis semisecret semiskilled " +
+  "semisolid semisolids semisweet semitone semitones semiweeklies sempstress sempstresses sen senates " +
+  "senators sender senders sendoffs senescence senescences senescent seniles senilities senility senily " +
+  "seniorities senna sennas senoras senors sens sensate sensately senselessly senselessness " +
+  "senselessnesses sensibilities sensibleness sensiblenesses sensibler sensibles sensiblest sensibly " +
+  "sensitiveness sensitivenesses sensitives sensitivities sensitize sensitized sensitizers sensitizes " +
+  "sensitizing sensually sensuous sensuously sensuousness sensuousnesses sentential sententious " +
+  "sentience sentiences sentient sentiently sentients sentinel sentineled sentineling sentries sentry " +
+  "sepal sepals separable separateness separatenesses separatist separatists separator separators " +
+  "sepias sepses sepsis sept septa septal septate septet septets septicemic septics septum seq " +
+  "sequenced sequencer sequencers sequent sequester sequesters sequestrate sequestrates sequin sequined " +
+  "sequining sequinned sequins sequitur sequoia sequoias serape serapes seraph seraphs sere sered " +
+  "serenaded serenader serenades serened serenely sereneness serenenesses serener serenes serenest " +
+  "serening serenities serenity serer seres serest serf serfdom serfdoms serfs serge sergeants serged " +
+  "serges serging serialize serializes serially serials serif serifed serifs serine sering " +
+  "seriousnesses sermoned serologies serology serons serotonin serous serpent serpented serpentine " +
+  "serpentines serpents serrate serrated serrates serried serums server serveries servery servicer " +
+  "serviette serviettes servile servilely servileness serviles servilities servings servitor servitors " +
+  "servo servomotor servomotors servos sesame sesames sessile setscrew setscrews setsquare setsquares " +
+  "sett settable settee settees setter setters settles settlings setts setups sevenpence sevens " +
+  "seventeens seventeenths sevenths seventieth seventieths severally severals severance severances " +
+  "severeness severenesses severer severest severing severities severs sewages sewerage sewerages " +
+  "sewered sewering sewings sewn sews shabbier shabbiest shabbily shabbiness shabbinesses shackle " +
+  "shacks shad shaded shadeless shader shadier shadiest shadily shadiness shadinesses shading shadings " +
+  "shadow shadowed shads shady shafted shag shagged shaggier shaggiest shagginess shagginesses shaggy " +
+  "shags shah shahs shakable shakably shakeable shaker shakeup shakeups shakier shakiest shakily " +
+  "shakiness shakinesses shales shallot shallots shallowly shallows shalom shaman shamanic shamanism " +
+  "shamans shamble shamelessness shamelessnesses shames shaming shammed shammer shamming shampoo " +
+  "shampoos shams shandies shandy shanghaiing shanghais shank shanked shanking shanks shanties shantis " +
+  "shantung shantungs shanty shapeless shapelessly shapelessness shapelessnesses shapely shaper shapers " +
+  "sharable shard shareable sharer sharers shareware sharewares sharia shariah sharias sharked " +
+  "sharkskin sharkskins sharp sharped sharpener sharpeners sharpens sharpers sharpie sharpies sharpish " +
+  "sharpness sharpnesses sharps sharpshoot shat shatters shaved shaven shaver shavers shaves shavings " +
+  "shaw shawled shawls shay shays sheaf sheafed sheafs sheared shearer shearers shears sheath sheathe " +
+  "sheathed sheather sheathes sheaths sheave sheaved sheaves shebangs shebeen shebeens shedding sheds " +
+  "sheen sheened sheenier sheenies sheeniest sheening sheens sheeny sheepdog sheepdogs sheepherder " +
+  "sheepherders sheepish sheepishly sheepishness sheepishnesses sheepskin sheepskins sheered sheerer " +
+  "sheerest sheering sheerly sheerness sheernesses sheers sheeted sheeter sheeting sheetings sheetlike " +
+  "sheets sheik sheikhs sheiks sheila sheilas shekel shekels shelfed shelfs shell shellac shellacs " +
+  "sheller shellfire shellfires shellfishes shelling shelterer shelve shelved shelver shenanigan " +
+  "shepherd shepherded shepherdess shepherdesses sher sherbets sheriffs sherries sherry shes shew " +
+  "shewed shewing shewn shews shiatsu shiatsus shied shielded shielder shields shier shiers shies " +
+  "shiest shifter shifters shiftier shiftiest shiftily shiftiness shiftinesses shiftless shifty " +
+  "shiitake shiitakes shill shilled shillelagh shillelaghs shilling shillings shills shily shim shimmed " +
+  "shimmer shimmered shimmers shimmery shimmied shimmies shimming shimmy shimmying shims shin shinbone " +
+  "shinbones shindigs shiner shiners shingle shingles shingling shinier shiniest shininess shininesses " +
+  "shiningly shinned shinnied shinnies shinning shinny shinnying shins shinsplints shipman shipmen " +
+  "shipper shippers shippings shipshape shires shirk shirked shirker shirkers shirking shirks shirr " +
+  "shirred shirring shirrings shirrs shirted shirting shirtings shirtless shirttail shirttails " +
+  "shirtwaist shirtwaists shirty shiv shiver shivered shiverer shivers shivery shivs shivved shivving " +
+  "shoal shoaled shoaler shoalest shoals shoat shoats shocker shockers shod shoddier shoddies shoddiest " +
+  "shoddily shoddiness shoddinesses shoehorn shoehorned shoehorns shoeing shoemake shoeshine shoeshines " +
+  "shoetree shoetrees shogun shoguns shone shooed shoofly shooing shook shooks shoos shootouts shopkeep " +
+  "shopkeeper shopkeepers shoppe shopper shoppes shoppings shopworn shored shorer shores shoring " +
+  "shorings shortcrust shorten shortener shorter shorthorn shorthorns shorties shortish shortlist " +
+  "shortlists shortnesses shortstop shortstops shorty shotgun shotted shotting shouter shouters " +
+  "shoveled shoveler shovelers shover shoves showboat showboats showcases showdown showdowns showerier " +
+  "showers showery showier showiest showily showiness showinesses showings showman showmen showoff " +
+  "showoffs showrooms showy shrank shredder shredders shrewder shrewdest shrewdness shrewdnesses " +
+  "shrewed shrewish shrewishness shriek shrieked shrieker shriekers shrieks shrift shrifts shrike " +
+  "shrikes shrilled shriller shrillest shrilling shrillness shrillnesses shrills shrilly shrimper " +
+  "shrimpers shrimps shrined shrining shrinker shrive shrived shrivels shriven shriver shrives shriving " +
+  "shrouded shrouds shrubbed shrubberies shrubbier shrubby shrugged shrugging shtick shticks shuck " +
+  "shucked shucker shuckses shuddered shudders shuddery shuffled shuffler shufflers shuffles shun " +
+  "shunning shuns shunt shunted shunter shunting shunts shushed shushes shushing shuteye shuteyes " +
+  "shutoff shutoffs shutout shutouts shutter shuttered shuttled shuttles shyer shyest shying shyness " +
+  "shynesses shyster shysters sibilant sibilants sibyl sibylline sibyls sic sicced siccing sickbay " +
+  "sickbays sickbed sickbeds sicked sicken sickened sickener sickenings sickie sickies sicking sickish " +
+  "sickishly sickishness sickle sickled sickles sicklied sicklier sicklies sickliest sickliness " +
+  "sickling sicknesses sickout sickouts sickroom sickrooms sicks sics sidearm sidearms sideband " +
+  "sidebands sidebar sidebars sidecar sidecars sidedness sidekick sidekicks sideline sidelined " +
+  "sideliner sidelining sideman sidemen sidepiece sidepieces sider sidereal sidesaddle sidesaddles " +
+  "sideshow sideshows sidestep sidestepped sidesteps sideswipe sideswiped sideswipes sidewall sidewalls " +
+  "sidewards sideway sidewinder sidewinders sidings sidled sidles sidling sieged sieges sieging sienna " +
+  "siennas sierra sierras siesta siestas sieve sieved sievers sieves sieving sift sifted sifter sifters " +
+  "siftings sifts sighed sigher sighing sighter sightless sightliest sightly sightsee sightseeings " +
+  "sightseer sightseers sigma sigmas sigmoid signage signalizing signally signalman signer signers " +
+  "signet signeted signeting signets signified signifier signifies signify signifying signings signoras " +
+  "signori signories signorina signorinas signorine signors signpost signposting signposts silage " +
+  "silaged silages silaging siled silencer silencers silences silencing silenter silentest silentness " +
+  "silents silica silicas silicate silicates siliceous silicide silicone silicones silicons silicoses " +
+  "silicosis silked silken silkened silkening silkier silkies silkiest silkily silkiness silkinesses " +
+  "silking silks sill sillier sillies silliness sillinesses sills silo siloing silos silt siltation " +
+  "silted siltier siltiest silting silts siltstone silty silvered silverer silverier silveriest " +
+  "silveriness silverly silvers silvery sim simians simile similes simmered simmering simmers simonies " +
+  "simonize simonizes simonizing simony simper simpered simpers simple simpled simpleness simplenesses " +
+  "simples simplex simplexes simplifies simplify simpling sims sin sincereness sincerer sincerest " +
+  "sincerities sine sinecure sinecures sines sinew sinewed sinewing sinews sinewy sinful sinfully " +
+  "sinfulness sinfulnesses singalong singalongs singe singed singeing singes singingly singings singled " +
+  "singleness singlenesses singlet singlets singling singly singsong singsonged singsonging singsongs " +
+  "sining sinister sinisterness sinistral sinked sinkers sinless sinlessly sinlessness sinned sinner " +
+  "sinning sinology sinter sintered sinuosities sinuosity sinuous sinuousities sinuously sinuousness " +
+  "sinusitis sinusitises sinusoid sinusoids siphon siphoning siphons sipped sipper sippers sips sired " +
+  "sires siring sirloin sirloins sirocco siroccos sirrah sirred sirring sirs sisal sisals sises sissier " +
+  "sissies sissiest sissified sissy sistered sistering sisterliness sisterlinesses sitar sitarist " +
+  "sitarists sitars sitcoms sited sitemap sitemaps siting sitings sittings situ situate situates " +
+  "situating situationist situs sixer sixfold sixgun sixpence sixpences sixpenny sixteener sixteens " +
+  "sixteenths sixthly sixths sixtieth sixtieths sizer sizers sizing sizings sizzle sizzled sizzler " +
+  "sizzlers sizzles ska skas skat skated skatings skedaddled skedaddles skeet skeeter skeets skein " +
+  "skeined skeining skeins skeletal skeletally skeptic skeptics sketched sketcher sketchers sketchiest " +
+  "skew skewed skewer skewered skewers skewing skewness skews skibob skibobs skid skidded skidding " +
+  "skidpan skidpans skied skiers skiff skiffed skiffing skiffle skiffs skiings skilfully skillet " +
+  "skillets skillful skillfully skilling skim skimmer skimmers skimmings skimp skimped skimpier " +
+  "skimpiest skimpily skimpiness skimpinesses skimping skimps skims skindive skindiving skinflint " +
+  "skinflints skinful skinless skinner skinners skinnier skinnies skinniest skinniness skinninesses " +
+  "skinning skinny skint skintight skipper skippered skippers skirmish skirmisher skirmishers " +
+  "skirmishes skirted skirter skirting skit skited skiting skits skitter skittered skitters skittishly " +
+  "skittishness skittishnesses skittle skittles skive skived skiver skivers skives skiving skivvied " +
+  "skivvies skivvy skivvying skoal skoaled skoals skua skuas skulk skulked skulker skulkers skulks " +
+  "skullcap skullcaps skulled skulls skunked skunking skycap skycaps skydive skydived skydives skyhook " +
+  "skying skyjack skyjacks skylark skylarker skylarks skyline skylines skyward skywards skywave skyway " +
+  "slab slabbed slabbing slabs slack slacked slacken slacker slackers slackest slackly slackness " +
+  "slacknesses slag slagged slagging slagheap slagheaps slags slake slaked slakes slaking slalomed " +
+  "slaloms slammer slammers slandered slanderer slanderers slanders slanged slanging slangs slangy " +
+  "slanted slanting slants slapdash slapdashes slaphappy slapper slappers slasher slashers slashes slat " +
+  "slater slaters slates slather slathers slating slats slatted slattern slatterns slatting slaver " +
+  "slavered slaveries slavers slavish slavishly slaw slaws slayer slayings slays sleazebag sleazebags " +
+  "sleazeball sleazeballs sleazier sleaziest sleazily sleaziness sleazinesses sledded sledder sledders " +
+  "sledge sledged sledges sledging sleds sleek sleeked sleeker sleekest sleeking sleekly sleekness " +
+  "sleeknesses sleeks sleeper sleepers sleepier sleepiest sleepily sleepiness sleepinesses sleeplessly " +
+  "sleeplessness sleeplessnesses sleepovers sleepwalk sleepwalks sleepwear sleepy sleet sleeted " +
+  "sleetier sleetiest sleeting sleets sleety sleeved sleeveless sleeving sleighed sleighing sleighs " +
+  "sleight sleights sleken slekened slekening slenderer slenderest slenderly slenderness slendernesses " +
+  "sleuth sleuthed sleuths slew slewed slewing slews slicer slicers slick slicked slicker slickers " +
+  "slickest slicking slickly slickness slicknesses slicks slid slided slider sliders slier sliest " +
+  "slighting slights slily slim slimed slimes slimier slimiest sliminess sliminesses sliming slimline " +
+  "slimly slimmed slimmer slimmers slimmest slimming slimmings slimness slimnesses slims slinger slings " +
+  "slinkier slinkiest slinking slinks slinky slipcase slipcases slippage slippages slipper slippered " +
+  "slipperier slipperiest slipperiness slipperinesses slippery slippy slipshod slipway slipways " +
+  "slithers slits slitted slitter slitters slitting sliver slivered slivers slivery slob slobbed " +
+  "slobber slobbered slobbers slobbery slobbing slobs sloe sloes slog slogans slogged slogging slogs " +
+  "sloop sloops slop sloped sloper slopers sloping slopped sloppier sloppiest sloppily sloppiness " +
+  "sloppinesses slopping slops slosh sloshed sloshes sloshing slothed slothful slotted slotting " +
+  "slouches slouchy slough sloughs sloven slovenliness slovenlinesses slovenly slovens slowcoach " +
+  "slowdown slowdowns slowest slowish slowness slownesses slowpoke slowpokes sludge sludged sludges " +
+  "sludging sludgy slue slued slues sluggard sluggards slugger sluggers slugging sluggishly sluice " +
+  "sluiced sluices sluicing sluing slum slumberer slumbers slumdog slumdogs slumlord slumlords slummed " +
+  "slummer slummier slummiest slummy slumped slumps slums slung slunk slur slurp slurped slurps slurred " +
+  "slurried slurries slurring slurry slurs slushed slushes slushier slushiest slushiness slushinesses " +
+  "slushing slushy slyness slynesses smacker smackers smalled smalling smallish smallness smallnesses " +
+  "smallpox smalls smalltalk smalltime smarmier smarmiest smarted smarten smarties smartly smartness " +
+  "smartnesses smarty smasher smashers smashes smashing smashup smashups smearer smearier smeariest " +
+  "smears smeary smeller smellier smelliest smelliness smellinesses smelly smelted smelter smelters " +
+  "smelts smidgen smidgens smilax smilaxes smiler smiles smiley smileys smilies smilingly smirch " +
+  "smirches smirked smirking smirks smiter smites smith smithed smithies smithing smiths smithy smiting " +
+  "smock smocked smocks smog smoggier smoggiest smoggy smogs smokehouse smokehouses smokeless smoker " +
+  "smokier smokies smokiest smokiness smokinesses smoky smolder smoldered smolders smooch smooched " +
+  "smooches smooth smoothed smoothen smoothers smoothest smoothies smoothness smoothnesses smooths " +
+  "smote smother smothers smudge smudged smudges smudging smudgy smugged smugger smuggest smugging " +
+  "smugglers smuggles smugglings smugly smugness smugnesses smugs smurf smurfs smut smuts smutted " +
+  "smuttier smuttiest smuttiness smuttinesses smutting smutty snacked snacking snaffle snaffled " +
+  "snaffles snaffling snafu snafued snafuing snafus snagging snags snailed snailing snaked snakelike " +
+  "snakeskin snakier snakiest snaking snaky snapback snapper snappers snappier snappiest snappily " +
+  "snappiness snappinesses snappish snappishness snappishnesses snappy snapshot snared snarer snares " +
+  "snarf snarfed snarfing snarfings snarfs snaring snark snarkier snarks snarky snarl snarled snarler " +
+  "snarlier snarling snarls snarly snatch snatches snazzier snazziest snazzily sneaker sneakered " +
+  "sneakers sneakier sneakiest sneakiness sneakinesses sneaky sneer sneered sneerer sneering sneerings " +
+  "sneers sneezer sneezes snick snicked snicker snickerer snickers snicking snicks snidely snideness " +
+  "snider snides snidest sniffed sniffer sniffers sniffier sniffiest sniffle sniffled sniffler " +
+  "sniffling sniffs sniffy snifter snifters snip sniped sniper snipes sniping snipped snipper snippers " +
+  "snippet snippets snippier snippiest snipping snips snit snitches snitching snits snivel sniveled " +
+  "sniveler snivelers snivelings snivels snob snobberies snobbery snobbier snobbiest snobbish " +
   "snobbishness snobbishnesses snog snogged snogging snogs snood snooded snooding snoods snook snooker " +
   "snookered snookers snooks snoop snooped snooper snoopers snoopier snoopiest snoops snoopy snoot " +
   "snooted snootier snootiest snootily snootiness snootinesses snooting snoots snoozed snoozes snoozing " +
   "snored snorer snorers snores snorkel snorkeler snorkelers snorkels snorted snorter snorters snorts " +
   "snot snots snotted snottier snottiest snottily snottiness snottinesses snotting snouted snouting " +
-  "snouts snow snowball snowballs snowbank snowbanks snowbound snowdrop snowdrops snowfall snowfalls " +
-  "snowier snowiest snowily snowiness snowinesses snowline snowman snowmen snowplow snowplows snows " +
-  "snowshed snowshoe snowshoer snowshoes snowstorms snowsuit snowsuits snowy snub snubber snubbing " +
-  "snubness snubs snuffbox snuffed snuffer snuffers snuffing snuffle snuffled snuffler snuffles " +
-  "snuffling snuffly snuffs snug snugged snugger snuggest snugging snuggle snuggled snuggles snuggling " +
-  "snuggly snugly snugness snugnesses snugs soaker soakings soaks soapboxes soaped soaper soapier " +
-  "soapiest soapiness soapinesses soaping soapstone soapstones soapsud soapsuds soapy soar soared " +
-  "soarer soarings soars sobbed sobered soberer soberest soberly soberness sobernesses sobers " +
-  "sobrieties sobs soc soccers socialisms socialistic socials socioeconomic socioeconomics sociological " +
-  "sociologies sociologist sociologists socketed sockeye sockeyes socking socs sodded sodden soddened " +
-  "soddening soddenly soddenness soddens sodiums sodomies sodomite sodomites sodomize sodomized " +
-  "sodomizes sodomy sods soever sofas softballs softeners softest softies softness softnesses softs " +
-  "softwood softwoods softy soggier soggiest soggily sogginess sogginesses soigne soignee soiling " +
-  "soiree soirees sojourn sojourner sojourners sojourns sol solace solaced solacer solaces solaria " +
-  "solars solder soldered solderer solderers solders soldier soldiered soldieries solecism solecisms " +
-  "soled solemner solemness solemnest solemnness solemnnesses soleness solenoid solenoids soler soles " +
-  "solicit solicitors solicitous solicits solider solidest solidi solidified solidifies solidify " +
-  "solidities solidity solidly solidness solidnesses solids solidus soliloquies soliloquy soling " +
-  "solipsism solipsisms solipsist solipsistic solipsists soloed soloing soloists solos sols solstice " +
-  "solstices solubles solute solutes solvable solvents solver solvers soly soma somatic somber " +
-  "somberness sombernesses sombre sombreros somebodies someones somers somersets somersetted someways " +
-  "somewheres sommelier sommeliers somnolence somnolences somnolent sonars sonata sonatas sonatina " +
-  "sonatinas songbag songbook songbooks songfest songfests songful songster songsters songstress " +
-  "songstresses sonic sonics sonly sonnet sonneted sonneting sonnies sonograms sonorities sonority " +
-  "sonorous sonorously sonorousness sonorousnesses soonest soonish soot sooted sooth soothed soother " +
-  "soothers soothest soothings soothly sooths soothsay sootier sootiest sooting soots sooty sop soph " +
-  "sophism sophisms sophist sophistic sophistics sophists sophomores soporific soporifics sopped " +
-  "soppier soppiest sopping soppings soppy soprano sopranos sops sorbets sorcerer sorcerers sorceress " +
-  "sorceresses sorceries sorcery sordidly sordidness sordidnesses sored sorehead soreheads soreness " +
-  "sorenesses sorer sorest sorghum sorghums soring sororities sorrels sorries sorriest sorrily " +
-  "sorriness sorrinesses sorrowed sorrower sorrowful sorrowing sorter sorters sortie sortied sorties " +
-  "sos sot sots sottish sou souffles sough soughed soughing soughs souk souks souled soulful soulfully " +
-  "soulfulness soulfulnesses soullessly soullessness sounders soundest soundings soundless soundly " +
-  "soundness soundnesses soupcon soupcons souped soupier soupiest souping soupy sourced sourceless " +
-  "sourdough sourdoughs soured sourer sourest souring sourish sourly sourness sournesses sourpuss " +
-  "sourpusses sours sous souse soused souses sousing southeasts southed souther souths southwests " +
-  "sowbelly sowed sowens sower sowered sowers sowing sown sows soybean soybeans soys sozzled spaceman " +
-  "spacemen spacer spacers spaceships spacey spacial spacier spaciest spaciness spacing spacings " +
-  "spacious spaded spader spadices spading spadix spake spam spammed spammer spammers spamming spams " +
-  "spandexes spangle spangles spangling spangly spaniel spaniels spank spanked spanker spanking " +
-  "spankings spanks spanner spanners spar sparely spareness sparenesses sparer spareribs spares sparest " +
-  "sparker sparkier sparkle sparkler sparklers sparkles sparks sparky sparred sparrer spars sparsely " +
-  "sparseness sparsenesses sparser sparsest sparsities sparsity spartan spas spasmed spasming spastic " +
-  "spastics spat spate spates spathe spathes spatiality spatially spats spatted spatter spattered " +
-  "spatters spatting spatulas spavin spavins spawn spawner spawning spawns spay spayed spaying spays " +
-  "speakable speakeasies speaker spear speared spearer spearhead spearheaded spearheads spears spec " +
-  "specie specif specificities specificness specifier specifiers specifies specious speck specked " +
-  "speckle speckled speckles specks spectacles spectate spectated spectates specter spectered specters " +
-  "spectroscope spectroscopes sped speeched speechifies speechlessly speechlessness speechlessnesses " +
-  "speeder speeders speedier speediest speedily speediness speedinesses speedings speedster speedsters " +
-  "speedup speedups speedways speedwell speedwells speedy speer speleologies speleology spellcheck " +
-  "spellchecks speller spellers spellings spenders spendings sperms spew spewed spewer spewers spewings " +
-  "spews sphered spheric spherics spherule spherules sphinx sphinxes spice spicier spiciest spicily " +
-  "spiciness spicinesses spicule spicules spiderier spideriest spidery spieled spieling spiels spier " +
-  "spies spiff spiffed spiffied spiffier spiffies spiffiest spiffing spiffs spiffy spiffying spigot " +
-  "spigots spiker spikes spikier spikiest spikiness spikinesses spiky spillage spillages spiller " +
-  "spillway spillways spinally spinals spindle spindled spindles spindling spindlings spindly " +
-  "spinelessly spinelessness spinet spinets spinier spiniest spininess spinless spinner spinneret " +
-  "spinnerets spinners spinney spinneys spinnings spinsters spiny spiral spirally spirals spirea " +
-  "spireas spired spires spirier spiriest spiring spirit spiriting spiritless spirituous spiry spitball " +
-  "spitballs spited spites spitfire spitfires spiting spitted spittle spittles spittoon spittoons spiv " +
-  "spivs splash splasher splashers splashes splashily splashy splats splatted splatter splatters splay " +
-  "splayed splays spleen spleens splendidness splicer splicers splices splicings spliff spliffs spline " +
-  "splined splines splint splinting splints splitter splitters splittings splodge splodges splosh " +
-  "sploshed sploshes splotch splurge splurges splutter splutterer splutters spoiler spoilers " +
-  "spoilsports spoked spokes spokesmen spokespeople spokespersons spoking sponge sponged sponger " +
-  "spongers sponginess sponginesses sponging spongy sponsorships spoof spoofed spoofing spoofs spook " +
-  "spookier spookiest spookiness spookinesses spooking spooks spooky spool spooled spooler spoolers " +
-  "spooling spools spoonbill spoonbills spooned spoonful spoonfuls spooning spoons spoor spoored " +
-  "spooring spoors spore spored spores sporing sporran sporrans sported sporter sportier sportiest " +
-  "sportscast sportscasts sportspeople sportsperson sporty spotlessly spotlessness spotlessnesses " +
-  "spotlit spotter spotters spottier spottiest spottily spottiness spottinesses spotty spousal spousals " +
-  "spoused spousing spouted spouter spouts spraining sprains sprang sprangs sprat sprats sprawl sprawls " +
-  "sprayer sprayers sprays spreader spreaders spreads spreed spreeing sprees sprier spriest sprig " +
-  "sprigged sprigging sprigs sprily spring springeing springer springers springier springiness " +
-  "springinesses springy sprinters sprinting sprints sprite sprites spritz spritzer spritzers spritzes " +
-  "sprog sprogs sprout spruced spruceness sprucenesses sprucer spruces sprucest sprue spry spryness " +
-  "sprynesses spud spudded spudding spuds spume spumed spumes spumier spumiest spuming spumoni spumonis " +
-  "spumy spun spunk spunked spunkies spunking spunks spunky spurge spurges spurious spurn spurned " +
-  "spurner spurning spurns spurred spurring spurs spurt spurted spurts sputa sputnik sputniks sputter " +
-  "sputtered sputterer sputters sputum spyglass spyglasses spyware squab squabbed squabber squabbest " +
-  "squabble squabbles squabs squadded squalid squall squalled squaller squalls squally squalor squalors " +
-  "squamous squareness squarenesses squarer squarest squarish squasher squashes squashy squatly " +
-  "squatness squatnesses squats squatted squatter squattest squaw squawk squawks squaws squeak squeaked " +
-  "squeaker squeakers squealed squealer squealers squeals squeegeed squeegeeing squeegees squeezer " +
-  "squeezers squeezes squelch squelches squib squibbed squibbing squibs squidded squidding squidgy " +
-  "squids squiffy squiggle squiggles squiggling squiggly squintest squinting squints squire squired " +
-  "squires squiring squirmier squirms squirmy squirt squirter squirts squish squishes squishier " +
-  "squishiest squishiness squishing squishy sriracha stabber stabbers stabbings stabilities stabled " +
-  "stablemate stablemates stableness stabler stablest staccato staccatos stack stacker stadias staffing " +
-  "staffroom staffs stager stagers stagged stagger staggered staggerer staggers stagging stagier " +
-  "stagiest staginess stagings stagnancy stagnant stagnantly stagnate stagnated stagnates stagnating " +
-  "stagnation stagy staid staider staidest staidly staidness staidnesses stainer staining stainlesses " +
-  "stair staircases stairway stairways stakeouts stalactite stalactites stalag staled stalemate " +
-  "stalemated stalemates staleness stalenesses staler stales stalest staling stalker stallings stallion " +
-  "stallions stalls stalwart stalwartly stalwarts staly stamen stamens staminas staminate stammer " +
-  "stammered stammerer stammerers stammers stampede stampeded stampedes stamper stampers stamps stances " +
-  "stanch stanches stanchest standby standbys standee standees stander standers standoffs standout " +
-  "standouts standstill standstills stank stanks stannic stannous stanza stanzas staph staphs stapler " +
-  "staplers staples star starboards starburst starbursts starch starches starchy stardom stardoms " +
-  "stardust stardusts starer starers starfruit stargaze stargazer stargazers stargazes stark starked " +
-  "starker starkers starkest starkly starkness starknesses starks starless starlet starlets starlit " +
-  "starrier starriest starship starstruck starter startles startup startups starver starves stashes " +
-  "stashing stasis statecraft statecrafts statehood statehoods statehouse statehouses stateless " +
-  "statelessness statelessnesses statelier stateliest stateliness statelinesses stately statemented " +
-  "stater stateroom staterooms statesmen static statical statically statics stationing statistic " +
-  "statistically statistician statisticians stator stators statuaries statuary statued statuesque " +
-  "statuesqueness statuette statuettes stature statures statuses staunch stave staved staves staving " +
-  "stayer stayers stdio stead steaded steadfast steadfastness steadfastnesses steadied steadier " +
-  "steadies steadiest steadiness steadinesses steads stealer stealth stealthiest stealths steamboat " +
-  "steamboats steamered steamers steamier steamies steamiest steaminess steaminesses steams steed " +
-  "steeds steeled steelers steelier steelies steeliest steeliness steelinesses steeling steels steely " +
-  "steeped steepen steepened steepening steeper steepest steeping steeple steeples steeply steepness " +
-  "steepnesses steeps steerage steerages steerer steerings steers steersman steersmen steeves stein " +
-  "steined steiner steiners steining steins stellar stellated stemless stemmed stemming stemware " +
-  "stemwares stenched stenches stencil stencils steno stenos stenosis stenotype stent stents stepdads " +
-  "stepmoms stepparent stepparents steppe stepper steppers steppes stepsister stepsisters stepsons " +
-  "stepwise stereo stereoed stereos stereoscope stereoscopes stereotyper stereotypers stereotypes " +
-  "sterilities sterility sterilize sterilizer sterilizers sterilizes stern sternal sterned sterner " +
-  "sternest sterning sternly sternness sternnesses sterns sternum sternums stertorous stet stethoscopes " +
-  "stets stetsons stetted stetting stevedore stevedored stevedores steward stewarded stewardesses " +
-  "stewards stewing stews sticked stickied stickier stickies stickiest stickily stickiness stickinesses " +
-  "stickle stickpin stickpins sticks stickup stickups sticky stied sties stiffed stiffen stiffened " +
-  "stiffener stiffeners stiffening stiffenings stiffer stiffest stiffing stiffly stiffness stiffnesses " +
-  "stifle stifled stifler stifles stifling stiflings stigma stigmas stigmata stigmatic stigmatics stile " +
-  "stiled stiles stiletto stilettoed stilettos stiling stillbirth stillbirths stilled stiller stillest " +
-  "stilling stillness stillnesses stills stilt stilted stiltedly stiltedness stilting stimuluses sting " +
-  "stinger stingers stingier stingiest stingily stinginess stinginesses stinging stingingly stinker " +
-  "stinkers stinkier stinkiest stinkings stinkpot stinky stinted stinter stinting stintings stints " +
-  "stipend stipends stipple stippled stippler stipples stippling stipplings stirrer stirrers stirrings " +
-  "stirrup stirrups stitch stitcher stitcheries stitchings stoat stoats stochastic stocker stockers " +
-  "stockiest stockist stockists stockpot stockpots stockroom stockrooms stocks stocky stodge stodgiest " +
-  "stodgy stogies stogy stoical stoicism stoicisms stoics stoker stokers stokes stoking stoled stoles " +
-  "stolid stolidest stolidities stolidity stolidly stolon stolons stomps stone stoned stoneless " +
-  "stonemason stonemasons stoner stoners stones stonewort stonier stoniest stonily stoniness " +
-  "stoninesses stoning stonking stooge stooged stooges stooging stooled stooling stoops stopcock " +
-  "stopcocks stopgap stopgaps stopover stopovers stoppage stoppages stopper stoppered stoppers stopple " +
-  "stoppled stopples storages storefront storefronts storehouse storehouses storekeep storekeeper " +
-  "storekeepers storer storerooms storied storing storm stormer stormers stormier stormiest storms " +
-  "stormtroopers stormy storybooks storyteller storytellers stoup stoups stout stouten stoutened " +
-  "stouter stoutest stoutly stoutness stoutnesses stouts stoved stovepipe stovepipes stover stoves " +
-  "stoving stow stowage stowages stowaways stowing stows straddle straddled straddler straddlers " +
-  "straddles strafe strafed strafer strafes straggle straggler stragglers straggles straggly straights " +
-  "strain strainer strainers straining strait straited straiten straiter straitest straiting straitly " +
-  "straitness strand strandedness strander strands strangeness strangenesses stranger strap straplesses " +
-  "strata stratagem stratagems stratas strategist strategists strati stratifies stratify stratum " +
-  "stratus strawed strayed strayer streaked streaker streakers streakier streakiest streaks streaky " +
-  "streamed streamer streetcars streeters streetwise strengthener strengtheners strengthens strenuous " +
-  "strenuousness strenuousnesses streps stressors stretchered stretchers stretchier stretchiest " +
-  "stretchy strew strewed strews stria striae striate striated striates striating striation striations " +
-  "stricter strictness strictnesses stricture strictures stridden strident strider striding strife " +
-  "strifes striker strikers strikings stringent stringer stringers stringier stringiest stringiness " +
-  "stringinesses stringy stripe stripey stripier stripiest striptease stripteaser stripteasers " +
-  "stripteases striven striver strives striving strivings strobe strobed strobes strode stroked stroker " +
-  "strokers strolled stroller strollers strolls strong strongroom strongrooms strop strophe strophes " +
-  "stropped stroppier stroppiest stroppy strops strove structureless structurer strudels struggler " +
-  "strum strummed strums struts strutted strutter stub stubbed stubbier stubbies stubbiest stubbing " +
-  "stubble stubbles stubbliest stubbly stubborns stubby stucco stuccoed stuccoes stud studbook " +
-  "studbooks studded studding studdings studiedness studier studiers studious studliest studly stuffer " +
-  "stuffier stuffiest stuffily stuffiness stuffinesses stuffings stuffs stultifies stultify stumbles " +
-  "stump stumpiest stumps stumpy stun stunner stunners stuns stunted stuntedness stunting stuntman " +
-  "stuntmen stupefies stupefy stupid stupidities stupids stupors sturdier sturdies sturdiest stuttered " +
-  "stutterer stutterers stutters stying styler stylers styli stylishly stylistic stylistically " +
-  "stylistics stylists stylites stylize stylizes stylos stylus styluses stymie stymied stymies styptic " +
-  "styptics styrene styrenes suable suasion suasions suavely suaveness suavenesses suaver suavest " +
-  "suavities suavity subaqua subarea subareas subbed subbing subcaste subclass subclasses subclauses " +
-  "subdivide subdivides subdue subdued subduedly subduer subdues subduing subfile subfiles subgoal " +
-  "subgoals subgroups subhead subheads subhuman subhumans subj subjoin subjoins sublease subleased " +
-  "subleases sublets sublime sublimes sublist sublists submerge submerges submerse submersed submerses " +
-  "submissions submissive submit submits submode submodes subnet subnets suborder suborders suborn " +
-  "suborns subpage subpar subpart subparts subplot subplots subproof subproofs subs subscriber " +
-  "subscribes subsentence subsequence subsequences subsequentness subsequents subsets subside subsided " +
-  "subsides subsiding subsidize subsidized subsidizes subsidy subsist subsisted subsistent subsisting " +
-  "subsists subsoil subsoils subsonic subspace subspaces substituent substituter substitutes " +
-  "substituting substitutive substrata substratum substructure substructures subsume subsumed subsumes " +
-  "subsuming subsystem subsystems subtable subtables subtask subtasks subteen subteens subtenant " +
-  "subtenants subtend subtended subtends subtest subtexts subtitle subtleness subtler subtlest " +
-  "subtleties subtotal subtotals subtract subtracts subtree subtrees subtype subtypes subunit subunits " +
-  "suburbans suburbia suburbias subversive subversives subvert subverter subverts subway subways " +
-  "subzero succeeder succeeds success successfulness successions successiveness succinct succinctest " +
-  "succinctness succinctnesses succor succored succorer succorers succors succotash succubi succulence " +
-  "succulences succulencies succulency succulents succumb succumbed succumbs suckle suckled suckles " +
-  "sucrose sucroses suctions sud suddenness suddennesses suddens suds sudsed sudser sudses sudsier " +
-  "sudsiest sudsing sudsy sue suede sueded suedes sueding suer suers sues suet suets suety sufferer " +
-  "sufferers sufficed sufficer suffices sufficiencies sufficing suffixed suffixer suffixes suffixing " +
-  "suffragan suffragans suffrages suffuse suffused suffuses suffusing suffusion sugared sugarier " +
-  "sugaring sugarings sugarless sugars sugary suggester suggesters suggestive suiters suiting suitings " +
-  "suitors sukiyaki sukiyakis sulfa sulfas sulfate sulfates sulfide sulfides sulfite sulfured sulfuric " +
-  "sulfurous sulfurously sulfurs sulk sulked sulkier sulkies sulkiest sulkily sulkiness sulkinesses " +
-  "sulks sulky sullen sullener sullenest sullenly sullenness sullennesses sullied sullies sully " +
-  "sullying sultan sultana sultanas sultanates sultans sultrier sultriest sultrily sultry sumac sumacs " +
-  "sumer summable summand summands summaries summat summed summer summered summerhouse summerhouses " +
-  "summerier summeriest summers summertime summertimes summery summing summit summited summiting " +
-  "summitries summitry summits summoner summoners summonings summonsed summonses summonsing sumo sumos " +
-  "sump sumps sumptuous sums sunbath sunbaths sunbeam sunbeams sunbed sunbeds sunbelt sunbelts " +
-  "sunbonnet sunbonnets sunburned sunburning sunburns sunburst sunbursts sundeck sundecks sunder " +
-  "sundered sunders sundial sundials sundown sundowned sundowns sundress sundresses sundries sundris " +
-  "sundry sunfish sunfishes sung sunglass sunhat sunhats sunks sunlamp sunlamps sunless sunlit sunned " +
-  "sunnier sunnies sunniest sunniness sunninesses sunning sunny sunrise sunrises sunrising sunroof " +
-  "sunroofs suns sunscreens sunset sunsetting sunshade sunshades sunshine sunshines sunshiny sunspot " +
-  "sunspots suntan suntanned suntanning suntans suntrap suntraps sunup sunups super superb superber " +
-  "superbest superbness superdense supered superego superegos superglue supergrass supergrasses " +
-  "superheros supermen supermom supermoms superpose superposed superposes superpower supers " +
-  "supersaturate supersaturates supersede superseder supersedes superset supersets supersize supersizes " +
-  "superspreader superspreaders superstar superstars superstate superstates superstore superstores " +
-  "superstructure superstructures superuser superusers supervene supervenes supervises supine " +
-  "supineness supines supp supped suppered suppers supping suppl supplant supplants suppled suppleness " +
-  "supplenesses suppler supples supplest supplied suppling supposer supposes supposings supposition " +
-  "suppositions suppresses suppressive suppressor suppressors suppurate suppurates supra supremeness " +
-  "supremer supremes supremest supremo supremos sups supt surcease surceased surceases surd sured " +
-  "surefire sureness surenesses surer surest sureties surety surfacer surfacers surfed surfeit " +
-  "surfeiter surfeits surfers surfings surfs surged surgely surgeries surges surging surlier surliest " +
-  "surliness surlinesses surmise surmised surmiser surmises surmising surmount surmounts surpass " +
-  "surpasses surpluses surplussed surpriser surprisings surreals surrenderer surrenders surreys surtax " +
-  "surtaxes surtitle surtitles surveyor surveyors survivals surviver survivor sushis suspecter " +
-  "suspender suspends suspenseful suspenses suspensive suspensor suss sussed susses sussing sustaining " +
-  "sustains sustenances sutler sutlers suttee sutured suturing svelte sveltely svelteness svelter " +
-  "sveltest swab swabbed swabbies swabbing swabby swaddle swaddled swaddles swagged swagger swaggered " +
-  "swaggerer swaggers swagging swaging swags swain swains swallower swallowtail swallowtails swam " +
-  "swamis swamper swampy swank swanked swanker swankest swankies swankiness swankinesses swanking " +
-  "swanks swanky swanned swanning swansong swansongs swap swappable swapped swapper swappers swaps " +
-  "sward swarded swards swarmed swarmer swarms swart swarthy swartness swash swashed swasher swashes " +
-  "swashing swastika swastikas swatch swatches swath swathe swathed swather swaths swats swatted " +
-  "swatter swattered swatters swatting sway swayback swaybacks swayer swaying sways swearer swearers " +
-  "swearword swearwords sweated sweatier sweatiest sweatiness sweatpants sweatsuit sweatsuits swede " +
-  "swedes sweeper sweepers sweepingness sweepings sweeps sweetbrier sweetbriers sweeten sweetened " +
-  "sweetener sweeteners sweetening sweetenings sweeties sweeting sweetish sweetly sweetmeat sweetmeats " +
-  "sweetness sweetnesses sweets sweetshop sweller swellest swellhead swellheaded swellheads swellings " +
-  "swells swelter sweltered swelters swerves swift swifted swifter swiftest swifting swiftly swiftness " +
-  "swiftnesses swifts swig swigged swigging swigs swilled swilling swills swimmings swims swimsuits " +
-  "swimwear swindle swindled swindles swindling swines swingeing swinger swingers swingier swinging " +
-  "swingingly swingings swingy swinish swinishly swinishness swipes swiping swirled swirler swirlier " +
-  "swirliest swirls swirly swished swisher swishes swishest swishier swishing swishy swivel swiveled " +
-  "swivels swiz swizz swizzle swizzled swizzler swizzles swizzling swooned swooner swooning swoons " +
-  "swooped swooper swooping swoosh swooshed swooshes swooshing sword sworded swords swot swots swotted " +
-  "swotting swum syllabic syllabics syllabify syllabled syllabub syllabubs syllabuses syllabusss " +
-  "syllogism syllogisms sylph sylphic sylphs sylvan sylvans symbioses symbiosis symbolisms symbology " +
-  "symmetries symposiums syn synagogal synapse synapsed synapses synapsing sync synced synchrony " +
-  "syncing syncope syncopes syncs syndic syndics synergies synergy synfuel synfuels synods synonymic " +
-  "synonymies synonymously synonyms synonymy synopses syntactic syntactics syntaxes syntheses synths " +
-  "syringes syringing syruped syrups syrupy sys sysadmin sysadmins sysop sysops systemics systole " +
-  "systoles tabbed tabbied tabbies tabbing tabbying tabla tablas tableau tableaux tabled tableland " +
-  "tableted tabletop tableware tabling taboo tabooed tabooing taboos tabor tabored tabors tabula " +
-  "tabular tabularly tabulate tabulated tabulates tabulator tachyon tacit tacitly tacitness tacitnesses " +
-  "taciturn tacker tackers tackier tackies tackiest tacking tackler tacks tact tactful tactfully " +
-  "tactically tactician tacticians tactile tactilities tactility tactily tactless tactlessly " +
-  "tactlessness tactlessnesses tacts tactual tactually tads taffetas taffies taffrail taffrails taffy " +
-  "tagger taggers tagliatelle tagline tags taiga taigas tailback tailcoat tailcoats tailer tailgate " +
-  "tailgated tailgater tailgates tailgating tailings tailless taillessness taillight taillights tailors " +
-  "tailpiece tailpipe tailpipes tailspin tailspins tailwind tainting taints takeaway takeaways takeoffs " +
-  "takeouts takings talc talcked talcs talcum talcums talebearer talebearers talentless taler tali " +
-  "talion talisman talismans talkers talkier talkiest tallboy tallboys tallied tallier talliers tallies " +
-  "tallish tallness tallnesses tallow tallowed tallows tallowy tally tallyho tallyhos tallying talon " +
-  "taloned talons talus taluses tam tamable tamales tamarack tamaracks tamarind tame tamed tamely " +
-  "tameness tamenesses tamer tamers tames tamest taming tamp tamped tamperer tamperers tampers tamping " +
-  "tamps tams tanager tanagers tanbark tanbarks tandems tandoori tang tanged tangelo tangency tangent " +
-  "tangential tangents tangier tangies tangiest tanging tangles tangling tangly tango tangoed tangoing " +
-  "tangos tangs tangy tankard tankards tanker tankers tankful tanned tanner tanneries tanners tannery " +
-  "tannest tannin tannings tannins tans tansies tansy tantalization tantalize tantalizing tantalum " +
-  "tantalums tantamount tantra tantras tao taoism taoist taoists taos tapas tapeline taper tapered " +
-  "taperer tapers tapestries tapestry tapings tapioca tapiocas tapper tappers tappet tappets taproom " +
-  "taprooms taproot taproots taps taramasalata tarantella tarantellas tarball tarballs tardier tardies " +
-  "tardiest tardily tardy tare tared tares target tariffed tariffing tariffs taring tarmacadam tarmacs " +
-  "tarn tarns taro taros tarots tarp tarpapered tarpon tarpons tarps tarragon tarragons tarred tarried " +
-  "tarrier tarries tarriest tarring tarry tarrying tars tarsal tarsals tarsi tarsus tart tartan tartans " +
-  "tartaric tartars tarted tarter tartest tartiest tarting tartly tartness tartnesses tarty taser " +
-  "tasered tasers taskbar tasking taskmaster taskmasters tasseled tastelessly tastelessness " +
-  "tastelessnesses taster tasters tastier tastiest tastily tastiness tastinesses tastings tasty tat " +
-  "tatami tatamis tater taters tats tatted tatter tattered tattering tatters tattie tattier tatties " +
-  "tattiest tatting tattings tattle tattled tattler tattlers tattles tattletale tattletales tattling " +
-  "tattoo tattooer tattooers tattooing tattooist tattooists tatty tau taunted taunter taunters taunts " +
-  "taupe taupes taus taut tauted tauten tautened tautening tauter tautest tauting tautly tautness " +
-  "tautnesses tautologous tautology tauts taverner taverns tawdrier tawnier tawnies tawniest tawniness " +
-  "tawny taxa taxable taxables taxably taxations taxed taxer taxers taxicab taxicabs taxied taxiing " +
-  "taximeter taxings taxis taxiway taxiways taxman taxmen taxon taxpayer teabag teabags teacake " +
-  "teacakes teacart teachable teacher teacloth teacup teacups teaed teahouse teahouses teaing teak " +
-  "teakettle teakettles teaks teakwood teal tealeaves tealight teals teamer teaming teamster teamsters " +
-  "teapot teapots tearaway tearaways teardrop teared tearer teargas teargases teargassed tearier " +
-  "teariest tearjerker tearjerkers tearoom tearooms teas teasel teaseled teasels teaser teasers teases " +
-  "teashop teashops teaspoon teaspoons teat teated teatime teatimes teats teched techie techies techno " +
-  "tectonic tectonics ted teddies teddy tedium tediums teds teed teeing teem teemed teeming teemingness " +
-  "teems teen teener teenier teeniest teens teer tees teeshirt teeshirts teeter teetered teetering " +
-  "teeters teethe teethed teether teethes teethings teeths teetotal teetotaled teetotaler teetotalers " +
-  "teetotals tektite tektites tel telecast telecaster telecasters telecasts telecommute telecoms " +
-  "telegenic telekineses telekinesis telekinetic telemarketer telemeter telemetered telemeters " +
+  "snouts snowball snowballs snowbank snowbanks snowbound snowdrop snowdrops snowfall snowfalls snowier " +
+  "snowiest snowily snowiness snowinesses snowline snowman snowmen snowplow snowplows snows snowshed " +
+  "snowshoe snowshoer snowshoes snowstorms snowsuit snowsuits snowy snub snubber snubbing snubness " +
+  "snubs snuffbox snuffed snuffer snuffers snuffing snuffle snuffled snuffler snuffles snuffling " +
+  "snuffly snuffs snug snugged snugger snuggest snugging snuggle snuggled snuggles snuggling snuggly " +
+  "snugly snugness snugnesses snugs soaker soakings soaks soapboxes soaped soaper soapier soapiest " +
+  "soapiness soapinesses soaping soapstone soapstones soapsud soapsuds soapy soar soared soarer " +
+  "soarings soars sobbed sobered soberer soberest soberly soberness sobernesses sobers sobrieties sobs " +
+  "soc soccers socialisms socialistic socials socioeconomic socioeconomics sociological sociologies " +
+  "sociologist sociologists socketed sockeye sockeyes socking socs sodded sodden soddened soddening " +
+  "soddenly soddenness soddens sodiums sodomies sodomite sodomites sodomize sodomized sodomizes sodomy " +
+  "sods soever sofas softballs softeners softest softies softness softnesses softs softwood softwoods " +
+  "softy soggier soggiest soggily sogginess sogginesses soigne soignee soiling soiree soirees sojourn " +
+  "sojourner sojourners sojourns sol solace solaced solacer solaces solaria solars solder soldered " +
+  "solderer solderers solders soldier soldiered soldieries solecism solecisms soled solemner solemness " +
+  "solemnest solemnness solemnnesses soleness solenoid solenoids soler soles solicit solicitors " +
+  "solicitous solicits solider solidest solidi solidified solidifies solidify solidities solidity " +
+  "solidly solidness solidnesses solids solidus soliloquies soliloquy soling solipsism solipsisms " +
+  "solipsist solipsistic solipsists soloed soloing soloists solos sols solstice solstices solubles " +
+  "solute solutes solvable solvents solver solvers soly soma somatic somber somberness sombernesses " +
+  "sombre sombreros somebodies someones somers somersets somersetted someways somewheres sommelier " +
+  "sommeliers somnolence somnolences somnolent sonars sonata sonatas sonatina sonatinas songbag " +
+  "songbook songbooks songfest songfests songful songster songsters songstress songstresses sonic " +
+  "sonics sonly sonnet sonneted sonneting sonnies sonograms sonorities sonority sonorous sonorously " +
+  "sonorousness sonorousnesses soonest soonish soot sooted sooth soothed soother soothers soothest " +
+  "soothings soothly sooths soothsay sootier sootiest sooting soots sooty sop soph sophism sophisms " +
+  "sophist sophistic sophistics sophists sophomores soporific soporifics sopped soppier soppiest " +
+  "sopping soppings soppy soprano sopranos sops sorbets sorcerer sorcerers sorceress sorceresses " +
+  "sorceries sorcery sordidly sordidness sordidnesses sored sorehead soreheads soreness sorenesses " +
+  "sorer sorest sorghum sorghums soring sororities sorrels sorries sorriest sorrily sorriness " +
+  "sorrinesses sorrowed sorrower sorrowful sorrowing sorter sorters sortie sortied sorties sos sot sots " +
+  "sottish sou souffles sough soughed soughing soughs souk souks souled soulful soulfully soulfulness " +
+  "soulfulnesses soullessly soullessness sounders soundest soundings soundless soundly soundness " +
+  "soundnesses soupcon soupcons souped soupier soupiest souping soupy sourced sourceless sourdough " +
+  "sourdoughs soured sourer sourest souring sourish sourly sourness sournesses sourpuss sourpusses " +
+  "sours sous souse soused souses sousing southeasts southed souther souths southwests sowbelly sowed " +
+  "sowens sower sowered sowers sowing sown sows soybean soybeans soys sozzled spaceman spacemen spacer " +
+  "spacers spaceships spacey spacial spacier spaciest spaciness spacing spacings spacious spaded spader " +
+  "spadices spading spadix spake spam spammed spammer spammers spamming spams spandexes spangle " +
+  "spangles spangling spangly spaniel spaniels spank spanked spanker spanking spankings spanks spanner " +
+  "spanners spar sparely spareness sparenesses sparer spareribs spares sparest sparker sparkier sparkle " +
+  "sparkler sparklers sparkles sparks sparky sparred sparrer spars sparsely sparseness sparsenesses " +
+  "sparser sparsest sparsities sparsity spartan spas spasmed spasming spastic spastics spat spate " +
+  "spates spathe spathes spatiality spatially spats spatted spatter spattered spatters spatting " +
+  "spatulas spavin spavins spawn spawner spawning spawns spay spayed spaying spays speakable " +
+  "speakeasies speaker spear speared spearer spearhead spearheaded spearheads spears spec specie specif " +
+  "specificities specificness specifier specifiers specifies specious speck specked speckle speckled " +
+  "speckles specks spectacles spectate spectated spectates specter spectered specters spectroscope " +
+  "spectroscopes sped speeched speechifies speechlessly speechlessness speechlessnesses speeder " +
+  "speeders speedier speediest speedily speediness speedinesses speedings speedster speedsters speedup " +
+  "speedups speedways speedwell speedwells speedy speer speleologies speleology spellcheck spellchecks " +
+  "speller spellers spellings spenders spendings sperms spew spewed spewer spewers spewings spews " +
+  "sphered spheric spherics spherule spherules sphinx sphinxes spice spicier spiciest spicily spiciness " +
+  "spicinesses spicule spicules spiderier spideriest spidery spieled spieling spiels spier spies spiff " +
+  "spiffed spiffied spiffier spiffies spiffiest spiffing spiffs spiffy spiffying spigot spigots spiker " +
+  "spikes spikier spikiest spikiness spikinesses spiky spillage spillages spiller spillway spillways " +
+  "spinally spinals spindle spindled spindles spindling spindlings spindly spinelessly spinelessness " +
+  "spinet spinets spinier spiniest spininess spinless spinner spinneret spinnerets spinners spinney " +
+  "spinneys spinnings spinsters spiny spiral spirally spirals spirea spireas spired spires spirier " +
+  "spiriest spiring spirit spiriting spiritless spirituous spiry spitball spitballs spited spites " +
+  "spitfire spitfires spiting spitted spittle spittles spittoon spittoons spiv spivs splash splasher " +
+  "splashers splashes splashily splashy splats splatted splatter splatters splay splayed splays spleen " +
+  "spleens splendidness splicer splicers splices splicings spliff spliffs spline splined splines splint " +
+  "splinting splints splitter splitters splittings splodge splodges splosh sploshed sploshes splotch " +
+  "splurge splurges splutter splutterer splutters spoiler spoilers spoilsports spoked spokes spokesmen " +
+  "spokespeople spokespersons spoking sponge sponged sponger spongers sponginess sponginesses sponging " +
+  "spongy sponsorships spoof spoofed spoofing spoofs spook spookier spookiest spookiness spookinesses " +
+  "spooking spooks spooky spool spooled spooler spoolers spooling spools spoonbill spoonbills spooned " +
+  "spoonful spoonfuls spooning spoons spoor spoored spooring spoors spore spored spores sporing sporran " +
+  "sporrans sported sporter sportier sportiest sportscast sportscasts sportspeople sportsperson sporty " +
+  "spotlessly spotlessness spotlessnesses spotlit spotter spotters spottier spottiest spottily " +
+  "spottiness spottinesses spotty spousal spousals spoused spousing spouted spouter spouts spraining " +
+  "sprains sprang sprangs sprat sprats sprawl sprawls sprayer sprayers sprays spreader spreaders " +
+  "spreads spreed spreeing sprees sprier spriest sprig sprigged sprigging sprigs sprily spring " +
+  "springeing springer springers springier springiness springinesses springy sprinters sprinting " +
+  "sprints sprite sprites spritz spritzer spritzers spritzes sprog sprogs sprout spruced spruceness " +
+  "sprucenesses sprucer spruces sprucest sprue spry spryness sprynesses spud spudded spudding spuds " +
+  "spume spumed spumes spumier spumiest spuming spumoni spumonis spumy spun spunk spunked spunkies " +
+  "spunking spunks spunky spurge spurges spurious spurn spurned spurner spurning spurns spurred " +
+  "spurring spurs spurt spurted spurts sputa sputnik sputniks sputter sputtered sputterer sputters " +
+  "sputum spyglass spyglasses spyware squab squabbed squabber squabbest squabble squabbles squabs " +
+  "squadded squalid squall squalled squaller squalls squally squalor squalors squamous squareness " +
+  "squarenesses squarer squarest squarish squasher squashes squashy squatly squatness squatnesses " +
+  "squats squatted squatter squattest squaw squawk squawks squaws squeak squeaked squeaker squeakers " +
+  "squealed squealer squealers squeals squeegeed squeegeeing squeegees squeezer squeezers squeezes " +
+  "squelch squelches squib squibbed squibbing squibs squidded squidding squidgy squids squiffy squiggle " +
+  "squiggles squiggling squiggly squintest squinting squints squire squired squires squiring squirmier " +
+  "squirms squirmy squirt squirter squirts squish squishes squishier squishiest squishiness squishing " +
+  "squishy sriracha stabber stabbers stabbings stabilities stabled stablemate stablemates stableness " +
+  "stabler stablest staccato staccatos stack stacker stadias staffing staffroom staffs stager stagers " +
+  "stagged stagger staggered staggerer staggers stagging stagier stagiest staginess stagings stagnancy " +
+  "stagnant stagnantly stagnate stagnated stagnates stagnating stagnation stagy staid staider staidest " +
+  "staidly staidness staidnesses stainer staining stainlesses stair staircases stairway stairways " +
+  "stakeouts stalactite stalactites stalag staled stalemate stalemated stalemates staleness stalenesses " +
+  "staler stales stalest staling stalker stallings stallion stallions stalls stalwart stalwartly " +
+  "stalwarts staly stamen stamens staminas staminate stammer stammered stammerer stammerers stammers " +
+  "stampede stampeded stampedes stamper stampers stamps stances stanch stanches stanchest standby " +
+  "standbys standee standees stander standers standoffs standout standouts standstill standstills stank " +
+  "stanks stannic stannous stanza stanzas staph staphs stapler staplers staples star starboards " +
+  "starburst starbursts starch starches starchy stardom stardoms stardust stardusts starer starers " +
+  "starfruit stargaze stargazer stargazers stargazes stark starked starker starkers starkest starkly " +
+  "starkness starknesses starks starless starlet starlets starlit starrier starriest starship " +
+  "starstruck starter startles startup startups starver starves stashes stashing stasis statecraft " +
+  "statecrafts statehood statehoods statehouse statehouses stateless statelessness statelessnesses " +
+  "statelier stateliest stateliness statelinesses stately statemented stater stateroom staterooms " +
+  "statesmen static statical statically statics stationing statistic statistically statistician " +
+  "statisticians stator stators statuaries statuary statued statuesque statuesqueness statuette " +
+  "statuettes stature statures statuses staunch stave staved staves staving stayer stayers stdio stead " +
+  "steaded steadfast steadfastness steadfastnesses steadied steadier steadies steadiest steadiness " +
+  "steadinesses steads stealer stealth stealthiest stealths steamboat steamboats steamered steamers " +
+  "steamier steamies steamiest steaminess steaminesses steams steed steeds steeled steelers steelier " +
+  "steelies steeliest steeliness steelinesses steeling steels steely steeped steepen steepened " +
+  "steepening steeper steepest steeping steeple steeples steeply steepness steepnesses steeps steerage " +
+  "steerages steerer steerings steers steersman steersmen steeves stein steined steiner steiners " +
+  "steining steins stellar stellated stemless stemmed stemming stemware stemwares stenched stenches " +
+  "stencil stencils steno stenos stenosis stenotype stent stents stepdads stepmoms stepparent " +
+  "stepparents steppe stepper steppers steppes stepsister stepsisters stepsons stepwise stereo stereoed " +
+  "stereos stereoscope stereoscopes stereotyper stereotypers stereotypes sterilities sterility " +
+  "sterilize sterilizer sterilizers sterilizes stern sternal sterned sterner sternest sterning sternly " +
+  "sternness sternnesses sterns sternum sternums stertorous stet stethoscopes stets stetsons stetted " +
+  "stetting stevedore stevedored stevedores steward stewarded stewardesses stewards stewing stews " +
+  "sticked stickied stickier stickies stickiest stickily stickiness stickinesses stickle stickpin " +
+  "stickpins sticks stickup stickups sticky stied sties stiffed stiffen stiffened stiffener stiffeners " +
+  "stiffening stiffenings stiffer stiffest stiffing stiffly stiffness stiffnesses stifle stifled " +
+  "stifler stifles stifling stiflings stigma stigmas stigmata stigmatic stigmatics stile stiled stiles " +
+  "stiletto stilettoed stilettos stiling stillbirth stillbirths stilled stiller stillest stilling " +
+  "stillness stillnesses stills stilt stilted stiltedly stiltedness stilting stimuluses sting stinger " +
+  "stingers stingier stingiest stingily stinginess stinginesses stinging stingingly stinker stinkers " +
+  "stinkier stinkiest stinkings stinkpot stinky stinted stinter stinting stintings stints stipend " +
+  "stipends stipple stippled stippler stipples stippling stipplings stirrer stirrers stirrings stirrup " +
+  "stirrups stitch stitcher stitcheries stitchings stoat stoats stochastic stocker stockers stockiest " +
+  "stockist stockists stockpot stockpots stockroom stockrooms stocks stocky stodge stodgiest stodgy " +
+  "stogies stogy stoical stoicism stoicisms stoics stoker stokers stokes stoking stoled stoles stolid " +
+  "stolidest stolidities stolidity stolidly stolon stolons stomps stone stoned stoneless stonemason " +
+  "stonemasons stoner stoners stones stonewort stonier stoniest stonily stoniness stoninesses stoning " +
+  "stonking stooge stooged stooges stooging stooled stooling stoops stopcock stopcocks stopgap stopgaps " +
+  "stopover stopovers stoppage stoppages stopper stoppered stoppers stopple stoppled stopples storages " +
+  "storefront storefronts storehouse storehouses storekeep storekeeper storekeepers storer storerooms " +
+  "storied storing storm stormer stormers stormier stormiest storms stormtroopers stormy storybooks " +
+  "storyteller storytellers stoup stoups stout stouten stoutened stouter stoutest stoutly stoutness " +
+  "stoutnesses stouts stoved stovepipe stovepipes stover stoves stoving stow stowage stowages stowaways " +
+  "stowing stows straddle straddled straddler straddlers straddles strafe strafed strafer strafes " +
+  "straggle straggler stragglers straggles straggly straights strain strainer strainers straining " +
+  "strait straited straiten straiter straitest straiting straitly straitness strand strandedness " +
+  "strander strands strangeness strangenesses stranger strap straplesses strata stratagem stratagems " +
+  "stratas strategist strategists strati stratifies stratify stratum stratus strawed strayed strayer " +
+  "streaked streaker streakers streakier streakiest streaks streaky streamed streamer streetcars " +
+  "streeters streetwise strengthener strengtheners strengthens strenuous strenuousness strenuousnesses " +
+  "streps stressors stretchered stretchers stretchier stretchiest stretchy strew strewed strews stria " +
+  "striae striate striated striates striating striation striations stricter strictness strictnesses " +
+  "stricture strictures stridden strident strider striding strife strifes striker strikers strikings " +
+  "stringent stringer stringers stringier stringiest stringiness stringinesses stringy stripe stripey " +
+  "stripier stripiest striptease stripteaser stripteasers stripteases striven striver strives striving " +
+  "strivings strobe strobed strobes strode stroked stroker strokers strolled stroller strollers strolls " +
+  "strong strongroom strongrooms strop strophe strophes stropped stroppier stroppiest stroppy strops " +
+  "strove structureless structurer strudels struggler strum strummed strums struts strutted strutter " +
+  "stub stubbed stubbier stubbies stubbiest stubbing stubble stubbles stubbliest stubbly stubborns " +
+  "stubby stucco stuccoed stuccoes stud studbook studbooks studded studding studdings studiedness " +
+  "studier studiers studious studliest studly stuffer stuffier stuffiest stuffily stuffiness " +
+  "stuffinesses stuffings stuffs stultifies stultify stumbles stump stumpiest stumps stumpy stun " +
+  "stunner stunners stuns stunted stuntedness stunting stuntman stuntmen stupefies stupefy stupid " +
+  "stupidities stupids stupors sturdier sturdies sturdiest stuttered stutterer stutterers stutters " +
+  "stying styler stylers styli stylishly stylistic stylistically stylistics stylists stylites stylize " +
+  "stylizes stylos stylus styluses stymie stymied stymies styptic styptics styrene styrenes suable " +
+  "suasion suasions suavely suaveness suavenesses suaver suavest suavities suavity subaqua subarea " +
+  "subareas subbed subbing subcaste subclass subclasses subclauses subdivide subdivides subdue subdued " +
+  "subduedly subduer subdues subduing subfile subfiles subgoal subgoals subgroups subhead subheads " +
+  "subhuman subhumans subj subjoin subjoins sublease subleased subleases sublets sublime sublimes " +
+  "sublist sublists submerge submerges submerse submersed submerses submissions submissive submit " +
+  "submits submode submodes subnet subnets suborder suborders suborn suborns subpage subpar subpart " +
+  "subparts subplot subplots subproof subproofs subs subscriber subscribes subsentence subsequence " +
+  "subsequences subsequentness subsequents subsets subside subsided subsides subsiding subsidize " +
+  "subsidized subsidizes subsidy subsist subsisted subsistent subsisting subsists subsoil subsoils " +
+  "subsonic subspace subspaces substituent substituter substitutes substituting substitutive substrata " +
+  "substratum substructure substructures subsume subsumed subsumes subsuming subsystem subsystems " +
+  "subtable subtables subtask subtasks subteen subteens subtenant subtenants subtend subtended subtends " +
+  "subtest subtexts subtitle subtleness subtler subtlest subtleties subtotal subtotals subtract " +
+  "subtracts subtree subtrees subtype subtypes subunit subunits suburbans suburbia suburbias subversive " +
+  "subversives subvert subverter subverts subway subways subzero succeeder succeeds success " +
+  "successfulness successions successiveness succinct succinctest succinctness succinctnesses succor " +
+  "succored succorer succorers succors succotash succubi succulence succulences succulencies succulency " +
+  "succulents succumb succumbed succumbs suckle suckled suckles sucrose sucroses suctions sud " +
+  "suddenness suddennesses suddens suds sudsed sudser sudses sudsier sudsiest sudsing sudsy sue suede " +
+  "sueded suedes sueding suer suers sues suet suets suety sufferer sufferers sufficed sufficer suffices " +
+  "sufficiencies sufficing suffixed suffixer suffixes suffixing suffragan suffragans suffrages suffuse " +
+  "suffused suffuses suffusing suffusion sugared sugarier sugaring sugarings sugarless sugars sugary " +
+  "suggester suggesters suggestive suiters suiting suitings suitors sukiyaki sukiyakis sulfa sulfas " +
+  "sulfate sulfates sulfide sulfides sulfite sulfured sulfuric sulfurous sulfurously sulfurs sulk " +
+  "sulked sulkier sulkies sulkiest sulkily sulkiness sulkinesses sulks sulky sullen sullener sullenest " +
+  "sullenly sullenness sullennesses sullied sullies sully sullying sultan sultana sultanas sultanates " +
+  "sultans sultrier sultriest sultrily sultry sumac sumacs sumer summable summand summands summaries " +
+  "summat summed summer summered summerhouse summerhouses summerier summeriest summers summertime " +
+  "summertimes summery summing summit summited summiting summitries summitry summits summoner summoners " +
+  "summonings summonsed summonses summonsing sumo sumos sump sumps sumptuous sums sunbath sunbaths " +
+  "sunbeam sunbeams sunbed sunbeds sunbelt sunbelts sunbonnet sunbonnets sunburned sunburning sunburns " +
+  "sunburst sunbursts sundeck sundecks sunder sundered sunders sundial sundials sundown sundowned " +
+  "sundowns sundress sundresses sundries sundris sundry sunfish sunfishes sung sunglass sunhat sunhats " +
+  "sunks sunlamp sunlamps sunless sunlit sunned sunnier sunnies sunniest sunniness sunninesses sunning " +
+  "sunny sunrise sunrises sunrising sunroof sunroofs suns sunscreens sunset sunsetting sunshade " +
+  "sunshades sunshine sunshines sunshiny sunspot sunspots suntan suntanned suntanning suntans suntrap " +
+  "suntraps sunup sunups super superb superber superbest superbness superdense supered superego " +
+  "superegos superglue supergrass supergrasses superheros supermen supermom supermoms superpose " +
+  "superposed superposes superpower supers supersaturate supersaturates supersede superseder supersedes " +
+  "superset supersets supersize supersizes superspreader superspreaders superstar superstars superstate " +
+  "superstates superstore superstores superstructure superstructures superuser superusers supervene " +
+  "supervenes supervises supine supineness supines supp supped suppered suppers supping suppl supplant " +
+  "supplants suppled suppleness supplenesses suppler supples supplest supplied suppling supposer " +
+  "supposes supposings supposition suppositions suppresses suppressive suppressor suppressors suppurate " +
+  "suppurates supra supremeness supremer supremes supremest supremo supremos sups supt surcease " +
+  "surceased surceases surd sured surefire sureness surenesses surer surest sureties surety surfacer " +
+  "surfacers surfed surfeit surfeiter surfeits surfers surfings surfs surged surgely surgeries surges " +
+  "surging surlier surliest surliness surlinesses surmise surmised surmiser surmises surmising surmount " +
+  "surmounts surpass surpasses surpluses surplussed surpriser surprisings surreals surrenderer " +
+  "surrenders surreys surtax surtaxes surtitle surtitles surveyor surveyors survivals surviver survivor " +
+  "sushis suspecter suspender suspends suspenseful suspenses suspensive suspensor suss sussed susses " +
+  "sussing sustaining sustains sustenances sutler sutlers suttee sutured suturing svelte sveltely " +
+  "svelteness svelter sveltest swab swabbed swabbies swabbing swabby swaddle swaddled swaddles swagged " +
+  "swagger swaggered swaggerer swaggers swagging swaging swags swain swains swallower swallowtail " +
+  "swallowtails swam swamis swamper swampy swank swanked swanker swankest swankies swankiness " +
+  "swankinesses swanking swanks swanky swanned swanning swansong swansongs swap swappable swapped " +
+  "swapper swappers swaps sward swarded swards swarmed swarmer swarms swart swarthy swartness swash " +
+  "swashed swasher swashes swashing swastika swastikas swatch swatches swath swathe swathed swather " +
+  "swaths swats swatted swatter swattered swatters swatting sway swayback swaybacks swayer swaying " +
+  "sways swearer swearers swearword swearwords sweated sweatier sweatiest sweatiness sweatpants " +
+  "sweatsuit sweatsuits swede swedes sweeper sweepers sweepingness sweepings sweeps sweetbrier " +
+  "sweetbriers sweeten sweetened sweetener sweeteners sweetening sweetenings sweeties sweeting sweetish " +
+  "sweetly sweetmeat sweetmeats sweetness sweetnesses sweets sweetshop sweller swellest swellhead " +
+  "swellheaded swellheads swellings swells swelter sweltered swelters swerves swift swifted swifter " +
+  "swiftest swifting swiftly swiftness swiftnesses swifts swig swigged swigging swigs swilled swilling " +
+  "swills swimmings swims swimsuits swimwear swindle swindled swindles swindling swines swingeing " +
+  "swinger swingers swingier swinging swingingly swingings swingy swinish swinishly swinishness swipes " +
+  "swiping swirled swirler swirlier swirliest swirls swirly swished swisher swishes swishest swishier " +
+  "swishing swishy swivel swiveled swivels swiz swizz swizzle swizzled swizzler swizzles swizzling " +
+  "swooned swooner swooning swoons swooped swooper swooping swoosh swooshed swooshes swooshing sword " +
+  "sworded swords swot swots swotted swotting swum syllabic syllabics syllabify syllabled syllabub " +
+  "syllabubs syllabuses syllabusss syllogism syllogisms sylph sylphic sylphs sylvan sylvans symbioses " +
+  "symbiosis symbolisms symbology symmetries symposiums syn synagogal synapse synapsed synapses " +
+  "synapsing sync synced synchrony syncing syncope syncopes syncs syndic syndics synergies synergy " +
+  "synfuel synfuels synods synonymic synonymies synonymously synonyms synonymy synopses syntactic " +
+  "syntactics syntaxes syntheses synths syringes syringing syruped syrups syrupy sys sysadmin sysadmins " +
+  "sysop sysops systemics systole systoles tabbed tabbied tabbies tabbing tabbying tabla tablas tableau " +
+  "tableaux tabled tableland tableted tabletop tableware tabling taboo tabooed tabooing taboos tabor " +
+  "tabored tabors tabula tabular tabularly tabulate tabulated tabulates tabulator tachyon tacit tacitly " +
+  "tacitness tacitnesses taciturn tacker tackers tackier tackies tackiest tacking tackler tacks tact " +
+  "tactful tactfully tactically tactician tacticians tactile tactilities tactility tactily tactless " +
+  "tactlessly tactlessness tactlessnesses tacts tactual tactually tads taffetas taffies taffrail " +
+  "taffrails taffy tagger taggers tagliatelle tagline tags taiga taigas tailback tailcoat tailcoats " +
+  "tailer tailgate tailgated tailgater tailgates tailgating tailings tailless taillessness taillight " +
+  "taillights tailors tailpiece tailpipe tailpipes tailspin tailspins tailwind tainting taints takeaway " +
+  "takeaways takeoffs takeouts takings talc talcked talcs talcum talcums talebearer talebearers " +
+  "talentless taler tali talion talisman talismans talkers talkier talkiest tallboy tallboys tallied " +
+  "tallier talliers tallies tallish tallness tallnesses tallow tallowed tallows tallowy tally tallyho " +
+  "tallyhos tallying talon taloned talons talus taluses tam tamable tamales tamarack tamaracks tamarind " +
+  "tame tamed tamely tameness tamenesses tamer tamers tames tamest taming tamp tamped tamperer " +
+  "tamperers tampers tamping tamps tams tanager tanagers tanbark tanbarks tandems tandoori tang tanged " +
+  "tangelo tangency tangent tangential tangents tangier tangies tangiest tanging tangles tangling " +
+  "tangly tango tangoed tangoing tangos tangs tangy tankard tankards tanker tankers tankful tanned " +
+  "tanner tanneries tanners tannery tannest tannin tannings tannins tans tansies tansy tantalization " +
+  "tantalize tantalizing tantalum tantalums tantamount tantra tantras tao taoism taoist taoists taos " +
+  "tapas tapeline taper tapered taperer tapers tapestries tapestry tapings tapioca tapiocas tapper " +
+  "tappers tappet tappets taproom taprooms taproot taproots taps taramasalata tarantella tarantellas " +
+  "tarball tarballs tardier tardies tardiest tardily tardy tare tared tares target tariffed tariffing " +
+  "tariffs taring tarmacadam tarmacs tarn tarns taro taros tarots tarp tarpapered tarpon tarpons tarps " +
+  "tarragon tarragons tarred tarried tarrier tarries tarriest tarring tarry tarrying tars tarsal " +
+  "tarsals tarsi tarsus tart tartan tartans tartaric tartars tarted tarter tartest tartiest tarting " +
+  "tartly tartness tartnesses tarty taser tasered tasers taskbar tasking taskmaster taskmasters " +
+  "tasseled tastelessly tastelessness tastelessnesses taster tasters tastier tastiest tastily tastiness " +
+  "tastinesses tastings tasty tat tatami tatamis tater taters tats tatted tatter tattered tattering " +
+  "tatters tattie tattier tatties tattiest tatting tattings tattle tattled tattler tattlers tattles " +
+  "tattletale tattletales tattling tattoo tattooer tattooers tattooing tattooist tattooists tatty tau " +
+  "taunted taunter taunters taunts taupes taus taut tauted tauten tautened tautening tauter tautest " +
+  "tauting tautly tautness tautnesses tautologous tautology tauts taverner taverns tawdrier tawnier " +
+  "tawnies tawniest tawniness tawny taxa taxable taxables taxably taxations taxed taxer taxers taxicab " +
+  "taxicabs taxied taxiing taximeter taxings taxis taxiway taxiways taxman taxmen taxon taxpayer teabag " +
+  "teabags teacake teacakes teacart teachable teacher teacloth teacup teacups teaed teahouse teahouses " +
+  "teaing teak teakettle teakettles teaks teakwood tealeaves tealight teals teamer teaming teamster " +
+  "teamsters teapot teapots tearaway tearaways teardrop teared tearer teargas teargases teargassed " +
+  "tearier teariest tearjerker tearjerkers tearoom tearooms teas teasel teaseled teasels teaser teasers " +
+  "teases teashop teashops teaspoon teaspoons teat teated teatime teatimes teats teched techie techies " +
+  "techno tectonic tectonics ted teddies teddy tedium tediums teds teed teeing teem teemed teeming " +
+  "teemingness teems teen teener teenier teeniest teens teer tees teeshirt teeshirts teeter teetered " +
+  "teetering teeters teethe teethed teether teethes teethings teeths teetotal teetotaled teetotaler " +
+  "teetotalers teetotals tektite tektites tel telecast telecaster telecasters telecasts telecommute " +
+  "telecoms telegenic telekineses telekinesis telekinetic telemarketer telemeter telemetered telemeters " +
   "telemetric telemetries telemetry teleology telepathy telephoto telephotos teleplay teleplays " +
   "teleport teleprinter teleprompter telesales telescopes teletext teletexts telethon telethons " +
   "teletype teletypes televise televises teleworker telex telexed telexes telexing tellered tellering " +
@@ -3510,25 +3507,25 @@ window.BONUS_WORDS = (
   "tingled tingles tinglier tingliest tinglingly tinglings tings tinier tinily tininess tininesses " +
   "tining tinker tinkered tinkerer tinkerers tinkers tinkle tinkled tinkles tinkling tinkly tinned " +
   "tinner tinnier tinnies tinniest tinnily tinniness tinninesses tinning tinnitus tinnituses tinny " +
-  "tinplate tinpot tins tinseled tinseling tinselly tinsels tinsmith tinsmiths tint tinted tinter " +
-  "tinting tints tintype tintypes tinware tipoff tipper tippers tippet tippets tippex tippexed tippexes " +
-  "tippexing tippier tipple tippled tippler tipplers tipples tippling tippy tipsier tipsiest tipsily " +
-  "tipsiness tipsinesses tipster tipsters tiptoed tiptoeing tiptoes tiptop tiptops tirades tiramisu " +
-  "tiramisus tireder tiredest tiredly tiredness tirednesses tireless tirelessly tirelessness " +
-  "tirelessnesses tirings tis tissued tissuing titan titanate titanic titanically titanium titaniums " +
-  "titans titch titches titchy tithe tithed tither tithers tithes tithing titian titians titillate " +
-  "titillated titillates titillating titillatingly titillation titivate titivated titivates titivating " +
-  "titivation titler titling titlist titlists titmice titmouse titrate titrated titrates titrating " +
-  "titration titted titter tittered tittering titters titties titting tittle tittled tittles tittling " +
-  "titty titularly titulars tizz tizzies tizzy toadied toadies toadstool toadstools toady toaster " +
-  "toasters toastier toasties toastiest toastmaster toastmasters toasty tobaccos tobaggon tobaggons " +
-  "toboggan tobogganing toboggans toccata toccatas tocsin tocsins todays toddies toddle toddled " +
-  "toddlers toddles toddling toecap toecaps toeclip toed toehold toeholds toeing toenail toerag toerags " +
-  "toff toffees toffs tofus tog toga togaed togas toge togged togging toggle toggled toggles toggling " +
-  "toging togs toil toiled toiler toilers toileted toileting toiletries toiletry toilette toilettes " +
-  "toiling toils toilsome tokamak toke toked tokened tokening tokens tokes toking tole toled tolerable " +
-  "tolerant tolerates toles toling tollbooth tollbooths tolled tollgate tollgates tollhouse tolling " +
-  "tolls tollway tollways toluene toluenes tom tomahawk tombed tombing tombola tombolas tomboy tomboys " +
+  "tinplate tinpot tins tinseled tinseling tinselly tinsels tinsmith tinsmiths tinted tinter tinting " +
+  "tintype tintypes tinware tipoff tipper tippers tippet tippets tippex tippexed tippexes tippexing " +
+  "tippier tipple tippled tippler tipplers tipples tippling tippy tipsier tipsiest tipsily tipsiness " +
+  "tipsinesses tipster tipsters tiptoed tiptoeing tiptoes tiptop tiptops tirades tiramisu tiramisus " +
+  "tireder tiredest tiredly tiredness tirednesses tireless tirelessly tirelessness tirelessnesses " +
+  "tirings tis tissued tissuing titan titanate titanic titanically titanium titaniums titans titch " +
+  "titches titchy tithe tithed tither tithers tithes tithing titian titians titillate titillated " +
+  "titillates titillating titillatingly titillation titivate titivated titivates titivating titivation " +
+  "titler titling titlist titlists titmice titmouse titrate titrated titrates titrating titration " +
+  "titted titter tittered tittering titters titties titting tittle tittled tittles tittling titty " +
+  "titularly titulars tizz tizzies tizzy toadied toadies toadstool toadstools toady toaster toasters " +
+  "toastier toasties toastiest toastmaster toastmasters toasty tobaccos tobaggon tobaggons toboggan " +
+  "tobogganing toboggans toccata toccatas tocsin tocsins todays toddies toddle toddled toddlers toddles " +
+  "toddling toecap toecaps toeclip toed toehold toeholds toeing toenail toerag toerags toff toffees " +
+  "toffs tofus tog toga togaed togas toge togged togging toggle toggled toggles toggling toging togs " +
+  "toil toiled toiler toilers toileted toileting toiletries toiletry toilette toilettes toiling toils " +
+  "toilsome tokamak toke toked tokened tokening tokens tokes toking tole toled tolerable tolerant " +
+  "tolerates toles toling tollbooth tollbooths tolled tollgate tollgates tollhouse tolling tolls " +
+  "tollway tollways toluene toluenes tom tomahawk tombed tombing tombola tombolas tomboy tomboys " +
   "tombstones tomcat tomcats tomcatted tome tomes tomfool tommed tomming tommy tomorrows toms tomtit " +
   "tomtits tonal tonality tonally tonearm toned toneless tonelessly tonelessness toner toners tong " +
   "tonged tonger tonging tongs tongued tonguing tonics tonier toniest tonights toning tonk tonks " +
@@ -3624,23 +3621,23 @@ window.BONUS_WORDS = (
   "typists typo typology typos tyrannic tyrant tyrants tyreo tyro tyros tzatziki ubiquities ubiquitous " +
   "ubiquity udder udders ufology ughs uglied uglies uglinesses uglis uglying uhf ukase ukases ukulele " +
   "ukuleles ulcerate ulcered ulcerous ulna ulnae ulnar ulsters ult ultimas ultimate ultimo ultra " +
-  "ultrafast ultras ululate ululated ululates ululating ululation umbel umbels umber umbered umbers " +
-  "umbilici umbilicus umbra umbrage umbras umbrella umiak umiaks umlaut umlauted umlauts ump umped " +
-  "umping umpired umpires umpiring umps umpteen unabated unaccented unadapted unaddressed unadorned " +
-  "unafraid unaided unalienable unalike unamended unamused unanimity unannotated unapparent unappeased " +
-  "unapt unaptest unaptly unaptness unary unasked unassigns unassuaged unassuming unattained " +
-  "unattenuated unattested unaudited unavailing unavenged unawakened unawareness unawarenesses unawarer " +
-  "unawares unbaked unbalance unbanned unbanning unbans unbar unbarbered unbared unbarer unbaring " +
-  "unbarred unbarring unbars unbated unbeknown unbelief unbelted unbend unbender unbenders unbending " +
-  "unbends unbent unbents unbid unbidden unbind unbinded unbinder unbinding unbindings unbinds " +
-  "unblessed unblinded unblinking unblock unblown unbodied unbolt unbolts unboned unbonneted unbooked " +
-  "unborne unbosom unbosoms unbound unbounded unboundedness unbounding unbounds unbowed unbox unboxed " +
-  "unboxes unboxing unbranded unbred unbroken unbuckle unbudging unbuffered unbuilt unbundled " +
-  "unburdened unburdens unburied unburned unburnt unbuttered unbutton unbuttoned unbuttoning unbuttons " +
-  "uncaged uncanceled uncannier uncannily uncanniness uncap uncapped uncapping uncaps uncared uncaring " +
-  "uncased uncaught uncaused unchain unchaining unchains unchanging unchecked unchosen uncial uncials " +
-  "uncivil uncivilly unclad unclasp unclasps uncleaned uncleaner uncleanly uncleanness uncleannesses " +
-  "uncleans unclearer uncled unclench unclenched unclenches uncling unclinging unclings uncloak unclog " +
+  "ultrafast ultras ululate ululated ululates ululating ululation umbel umbels umbered umbers umbilici " +
+  "umbilicus umbra umbrage umbras umbrella umiak umiaks umlaut umlauted umlauts ump umped umping " +
+  "umpired umpires umpiring umps umpteen unabated unaccented unadapted unaddressed unadorned unafraid " +
+  "unaided unalienable unalike unamended unamused unanimity unannotated unapparent unappeased unapt " +
+  "unaptest unaptly unaptness unary unasked unassigns unassuaged unassuming unattained unattenuated " +
+  "unattested unaudited unavailing unavenged unawakened unawareness unawarenesses unawarer unawares " +
+  "unbaked unbalance unbanned unbanning unbans unbar unbarbered unbared unbarer unbaring unbarred " +
+  "unbarring unbars unbated unbeknown unbelief unbelted unbend unbender unbenders unbending unbends " +
+  "unbent unbents unbid unbidden unbind unbinded unbinder unbinding unbindings unbinds unblessed " +
+  "unblinded unblinking unblock unblown unbodied unbolt unbolts unboned unbonneted unbooked unborne " +
+  "unbosom unbosoms unbound unbounded unboundedness unbounding unbounds unbowed unbox unboxed unboxes " +
+  "unboxing unbranded unbred unbroken unbuckle unbudging unbuffered unbuilt unbundled unburdened " +
+  "unburdens unburied unburned unburnt unbuttered unbutton unbuttoned unbuttoning unbuttons uncaged " +
+  "uncanceled uncannier uncannily uncanniness uncap uncapped uncapping uncaps uncared uncaring uncased " +
+  "uncaught uncaused unchain unchaining unchains unchanging unchecked unchosen uncial uncials uncivil " +
+  "uncivilly unclad unclasp unclasps uncleaned uncleaner uncleanly uncleanness uncleannesses uncleans " +
+  "unclearer uncled unclench unclenched unclenches uncling unclinging unclings uncloak unclog " +
   "unclogging unclogs unclouded unclutter uncoded uncoil uncoiling uncoils uncoined uncomment " +
   "uncommoner uncommonly uncommonness uncommonnesses unconcern unconcerned unconcerns unconnected " +
   "unconsciouses unconsciousness unconsciousnesses unconvincing uncooked uncooled uncork uncorker " +
@@ -3768,42 +3765,42 @@ window.BONUS_WORDS = (
   "viking vikings vilely vileness vilenesses viler vilest vilified vilifier vilifies vilify vilifying " +
   "villa villager villainies villainy villas ville villein villeinage villeins villi villus vily vim " +
   "vims vincible vine vined vinegaring vines vining vino vinos vinous vintage vintaging vintner " +
-  "vintners vinyls viol viola violable violas violator violet violin violincello violinists violins " +
-  "violist violists violoncello viols virago virally vireo vireos virgule virilities virility virology " +
-  "virtuoso virtuosos vis visa visaed visage visaged visages visaing visas viscera viscid viscidly " +
-  "viscose viscoses viscosities viscosity viscous viscus vise vised viselike vises visibilities " +
-  "visibleness visibly vising vision visioned visioning visitant visitants visitations visor visored " +
-  "visoring visors vistaed vistaing vistas visuals vita vitae vitalities vitality vitalize vitally " +
-  "vitamin vitiate vitiated vitiates vitiating vitiation vitrified vitrifies vitrify vitrine vitrines " +
-  "vitriol vitriolic vitriols vitro vittles viva vivace vivaces vivacious vivacities vivacity vivaed " +
-  "vivaing vivaria vivarium vivariums vivas vivaxes vive vivers vivid vivider vividest vividness " +
-  "vividnesses vivified vivifier vivifies vivify vivifying vivisect vivisected vivisects vivo vixen " +
-  "vixenish vixens viz vizier viziers vocab vocable vocabs vocalic vocalics vocally vocative vocoded " +
-  "vocoder voe voes vogued vogueing voguer vogues voguing voguish voiceless voicer voicers voicing " +
-  "voided voider voiding voidness voids voile voiles vol volar volatility vole voled voles voling " +
-  "volition volitional volitions volleyed volleyer volleys vols volt voltaic voltmeter voluble volubly " +
-  "volumed voluptuous volute volutes voodoo voodooed voodooing voodooism voodooisms voodoos vortex " +
-  "vortexes vorticity votary votive votively votiveness vouched voucher vouches vowelled vower vowing " +
-  "voyaged voyager voyaging voyeur voyeurs vulgarer vulgarly vulgars vulpine vulturous vulva vulvae " +
-  "vuvuzela vuvuzelas wabbit wabbits wack wacker wackes wackest wackier wacks wad wadded wadding " +
-  "waddings waddle waddled waddler waddles waddling wade waded wader waders wades wadge wadges wadi " +
-  "wadis wads wafer wafered wafers waffled waffler wafflers waffling waft wafted wafter wafting wafts " +
-  "waged wagered wagerer wagerers wagering wagers wages wagged waggeries waggery waggish waggle waggled " +
-  "waggles waggling waggly wagoned wagoner wagoning wags wagtail wagtails waif waifed waifing waifs " +
-  "wail wailed wailer wailers wails wain wained waining wains waistcoat waistcoats waisted waister " +
-  "waisting waists waitered waiters waitings waits waitstaff waiver waivers waives waiving waked " +
-  "wakeful waken wakened wakener wakening wakens waker wakeup wakings waldo waldoes waldos wale waled " +
-  "waler waling walkaway walkaways walker walkers walkies walkout walkway walkways wall wallah wallahs " +
-  "wallboard waller walleye walleyed walleyes wallflower wallies walling walloped walloper wallops " +
-  "wallowed wallower wallows wallpapered wallpapers walls wally waltz waltzer waltzes wampum wampums " +
-  "wanderer wands wane waned wanes wangle wangled wangles wangling waning wank wanked wanker wankers " +
-  "wanking wanks wanly wannabe wannabee wannabees wanned wanner wanness wannesses wannest wanning wans " +
-  "wanter wantings wantoned wantoner wantoning wantonly wantonness wantonnesses wantons wapiti wapitis " +
-  "warble warbled warbler warblers warbles ward warded warden wardened wardens warder wardered warders " +
-  "warding wardress wardresses wardrobed wardroom wardrooms ware wared wares warez warfares warfarin " +
-  "warhorse warhorses warier wariest warily wariness warinesses waring warless warlike warlock warlord " +
-  "warlords warmers warmish warmly warmness warmnesses warmths warner warp warpaint warpaths warper " +
-  "warping warplane warps warranter warranting warred warren warrener warreners warrens warring warrior " +
+  "vintners vinyls viol viola violable violas violator violin violincello violinists violins violist " +
+  "violists violoncello viols virago virally vireo vireos virgule virilities virility virology virtuoso " +
+  "virtuosos vis visa visaed visage visaged visages visaing visas viscera viscid viscidly viscose " +
+  "viscoses viscosities viscosity viscous viscus vise vised viselike vises visibilities visibleness " +
+  "visibly vising vision visioned visioning visitant visitants visitations visor visored visoring " +
+  "visors vistaed vistaing vistas visuals vita vitae vitalities vitality vitalize vitally vitamin " +
+  "vitiate vitiated vitiates vitiating vitiation vitrified vitrifies vitrify vitrine vitrines vitriol " +
+  "vitriolic vitriols vitro vittles viva vivace vivaces vivacious vivacities vivacity vivaed vivaing " +
+  "vivaria vivarium vivariums vivas vivaxes vive vivers vivid vivider vividest vividness vividnesses " +
+  "vivified vivifier vivifies vivify vivifying vivisect vivisected vivisects vivo vixen vixenish vixens " +
+  "viz vizier viziers vocab vocable vocabs vocalic vocalics vocally vocative vocoded vocoder voe voes " +
+  "vogued vogueing voguer vogues voguing voguish voiceless voicer voicers voicing voided voider voiding " +
+  "voidness voids voile voiles vol volar volatility vole voled voles voling volition volitional " +
+  "volitions volleyed volleyer volleys vols volt voltaic voltmeter voluble volubly volumed voluptuous " +
+  "volute volutes voodoo voodooed voodooing voodooism voodooisms voodoos vortex vortexes vorticity " +
+  "votary votive votively votiveness vouched voucher vouches vowelled vower vowing voyaged voyager " +
+  "voyaging voyeur voyeurs vulgarer vulgarly vulgars vulpine vulturous vulva vulvae vuvuzela vuvuzelas " +
+  "wabbit wabbits wack wacker wackes wackest wackier wacks wad wadded wadding waddings waddle waddled " +
+  "waddler waddles waddling wade waded wader waders wades wadge wadges wadi wadis wads wafer wafered " +
+  "wafers waffled waffler wafflers waffling waft wafted wafter wafting wafts waged wagered wagerer " +
+  "wagerers wagering wagers wages wagged waggeries waggery waggish waggle waggled waggles waggling " +
+  "waggly wagoned wagoner wagoning wags wagtail wagtails waif waifed waifing waifs wail wailed wailer " +
+  "wailers wails wain wained waining wains waistcoat waistcoats waisted waister waisting waists " +
+  "waitered waiters waitings waits waitstaff waiver waivers waives waiving waked wakeful waken wakened " +
+  "wakener wakening wakens waker wakeup wakings waldo waldoes waldos wale waled waler waling walkaway " +
+  "walkaways walker walkers walkies walkout walkway walkways wall wallah wallahs wallboard waller " +
+  "walleye walleyed walleyes wallflower wallies walling walloped walloper wallops wallowed wallower " +
+  "wallows wallpapered wallpapers walls wally waltz waltzer waltzes wampum wampums wanderer wands wane " +
+  "waned wanes wangle wangled wangles wangling waning wank wanked wanker wankers wanking wanks wanly " +
+  "wannabe wannabee wannabees wanned wanner wanness wannesses wannest wanning wans wanter wantings " +
+  "wantoned wantoner wantoning wantonly wantonness wantonnesses wantons wapiti wapitis warble warbled " +
+  "warbler warblers warbles ward warded warden wardened wardens warder wardered warders warding " +
+  "wardress wardresses wardrobed wardroom wardrooms ware wared wares warez warfares warfarin warhorse " +
+  "warhorses warier wariest warily wariness warinesses waring warless warlike warlock warlord warlords " +
+  "warmers warmish warmly warmness warmnesses warmths warner warp warpaint warpaths warper warping " +
+  "warplane warps warranter warranting warred warren warrener warreners warrens warring warrior " +
   "warriors wart warted wartier wartiest warty wary wasabi wases washable washables washbasin " +
   "washbasins washbowl washbowls washday washer washered washers washier washiest washings washout " +
   "washouts washrag washrags washrooms washstand washstands washtub washtubs washy waspish wassail " +
@@ -3842,7 +3839,7 @@ window.BONUS_WORDS = (
   "whingeing whinger whinges whinging whinier whiniest whiningly whinnied whinnier whinnies whinniest " +
   "whinny whinnying whiplash whipper whippers whippet whippets whippings whippoorwill whipsaw whipsaws " +
   "whir whirled whirler whirlies whirligig whirligigs whirling whirls whirly whirred whirring whirs " +
-  "whisker whiskers whisking whisks whisper whisperer whisperers whist whisted whisting whists white " +
+  "whisker whiskers whisking whisks whisper whisperer whisperers whist whisted whisting whists " +
   "whitebait whited whitefish whitefishes whitehead whitelist whitelists whitely whiten whitened " +
   "whitener whiteness whitenesses whitening whiteout whitest whitetail whitewall whitewash whitewashes " +
   "whitewater whitey whiteys whither whithered whithers whitier whitiest whiting whitings whits whittle " +
@@ -3904,9 +3901,9 @@ window.BONUS_WORDS = (
   "yarding yardman yardmen yarn yarned yarning yarns yarrow yarrows yashmak yashmaks yawed yawing yawl " +
   "yawled yawling yawls yawn yawned yawner yawners yawning yawningly yawns yaws yea yeahs yearlies " +
   "yearned yearner yearns yeas yeasted yeastier yeastiest yeastiness yeasts yeasty yecch yegg yeggs " +
-  "yeller yellow yellowed yellower yellowest yellowness yellownesses yellows yellowy yelp yelped yelper " +
-  "yelping yelps yen yenned yenning yens yeoman yeomanly yeomanry yeomen yeps yer yeses yessed yessing " +
-  "yest yesterdays yesteryear yesteryears yews yid yids yielder yin yins yip yipe yipes yipped yippees " +
+  "yeller yellowed yellower yellowest yellowness yellownesses yellowy yelp yelped yelper yelping yelps " +
+  "yen yenned yenning yens yeoman yeomanly yeomanry yeomen yeps yer yeses yessed yessing yest " +
+  "yesterdays yesteryear yesteryears yews yid yids yielder yin yins yip yipe yipes yipped yippees " +
   "yipping yips yob yobbo yobbos yobs yodel yodeled yodeler yodelers yodels yogas yogi yogic yogis " +
   "yogurts yoke yoked yokels yokes yoking yolk yolked yolks yon yonks yore yores young youngly " +
   "youngness yous youthfully yow yowl yowled yowling yowls yrs yttrium yttriums yucca yuccas yucked " +
