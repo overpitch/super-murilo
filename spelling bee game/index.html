@@ -1,0 +1,530 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<title>Spelling Bee</title>
+<style>
+  :root {
+    --text: #000;
+    --muted: #6b6b6b;
+    --line: #dcdcdc;
+    --hex: #e6e6e6;
+    --hex-press: #d0d0d0;
+    --yellow: #f7da21;
+    --yellow-press: #e0c200;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    background: #fff;
+    color: var(--text);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  /* Top bar */
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 20px;
+    border-bottom: 1px solid var(--line);
+  }
+  .title { display: flex; align-items: baseline; gap: 12px; }
+  .title h1 { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: 30px; font-weight: bold; }
+  .title span { font-size: 16px; color: var(--muted); }
+  .top-buttons { display: flex; gap: 8px; }
+  .top-buttons button {
+    font: inherit;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: #fff;
+    cursor: pointer;
+  }
+  .top-buttons button:hover { background: #f4f4f4; }
+
+  main {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 40px;
+    padding: 24px 20px;
+  }
+  .play { flex: 1; display: flex; flex-direction: column; align-items: center; }
+  .side { flex: 1; display: flex; flex-direction: column; gap: 20px; }
+
+  /* Rank bar with dots */
+  .rank { display: flex; align-items: center; gap: 14px; height: 40px; }
+  .rank b { min-width: 100px; font-size: 16px; }
+  .track { flex: 1; position: relative; height: 32px; display: flex; align-items: center; }
+  .track .line { position: absolute; left: 0; right: 0; height: 1px; background: var(--line); }
+  .track .fill { position: absolute; left: 0; height: 1px; background: var(--yellow); transition: width .3s; }
+  .dots { position: relative; width: 100%; display: flex; justify-content: space-between; align-items: center; }
+  .dots i { width: 9px; height: 9px; border-radius: 50%; background: var(--line); }
+  .dots i.on { background: var(--yellow); }
+  .dots i.now {
+    width: 32px; height: 32px; background: var(--yellow);
+    display: flex; align-items: center; justify-content: center;
+    font-style: normal; font-size: 13px; font-weight: bold;
+  }
+  .dots i.last { border-radius: 0; }
+
+  /* Found words box */
+  .found { border: 1px solid var(--line); border-radius: 6px; padding: 16px 20px; min-height: 340px; }
+  .found h2 { margin: 0 0 12px; font-size: 16px; font-weight: normal; }
+  .found ul { list-style: none; margin: 0; padding: 0; columns: 3; column-gap: 24px; }
+  .found li { padding: 7px 0; border-bottom: 1px solid var(--line); text-transform: capitalize; break-inside: avoid; }
+  .found li.pangram { font-weight: bold; }
+
+  /* Message and typed word */
+  #msg { height: 34px; margin-top: 40px; display: flex; align-items: center; }
+  #msg span { padding: 7px 12px; border: 1px solid var(--line); border-radius: 4px; background: #fff; font-size: 15px; }
+  #msg span.bad { background: #000; color: #fff; border-color: #000; }
+  #word {
+    min-height: 50px; font-size: 30px; font-weight: bold;
+    text-transform: uppercase; display: flex; align-items: center; justify-content: center;
+  }
+  #word .c { color: var(--yellow); }
+  #word .x { color: #c8c8c8; }
+  #word::after { content: ""; width: 2px; height: 34px; margin-left: 2px; background: var(--yellow); animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .shake { animation: shake .35s; }
+  @keyframes shake { 20%, 60% { transform: translateX(-8px); } 40%, 80% { transform: translateX(8px); } }
+
+  /* Honeycomb */
+  .hive { position: relative; width: 300px; height: 290px; margin: 18px 0 28px; }
+  .hive button {
+    position: absolute; width: 96px; height: 83px; border: 0; padding: 0;
+    clip-path: polygon(25% 0, 75% 0, 100% 50%, 75% 100%, 25% 100%, 0 50%);
+    background: var(--hex); font: inherit; font-size: 30px; font-weight: bold;
+    text-transform: uppercase; color: var(--text); cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    transition: transform .08s;
+  }
+  .hive button:active { background: var(--hex-press); transform: scale(.92); }
+  .hive button.center { background: var(--yellow); }
+  .hive button.center:active { background: var(--yellow-press); }
+
+  .controls { display: flex; gap: 10px; }
+  .controls button {
+    font: inherit; font-size: 16px; height: 52px; min-width: 90px; padding: 0 22px;
+    border: 1px solid var(--line); border-radius: 999px; background: #fff;
+    cursor: pointer; color: var(--text);
+  }
+  .controls button:active { background: #eee; }
+  .controls .round { min-width: 52px; width: 52px; padding: 0; font-size: 24px; }
+
+  .help { color: var(--muted); font-size: 14px; line-height: 1.5; margin: 0; }
+
+  /* Controller: the highlighted button */
+  .hive button.sel { background: #333; color: #fff; transform: scale(1.06); }
+  .hive button.center.sel { background: #000; color: var(--yellow); }
+  .controls button.sel, .top-buttons button.sel, #win button.sel {
+    outline: 4px solid #000; outline-offset: 3px;
+  }
+  #win button.sel { outline-color: #fff; }
+  /* Controller button guide (shown once a controller is used) */
+  #pad-help { display: none; margin-top: 22px; gap: 14px; flex-wrap: wrap; justify-content: center; font-size: 14px; color: var(--muted); }
+  body.pad #pad-help { display: flex; }
+  #pad-help b {
+    display: inline-flex; align-items: center; justify-content: center;
+    min-width: 24px; height: 24px; padding: 0 6px; margin-right: 4px;
+    border-radius: 12px; color: #fff; font-size: 13px;
+  }
+  .ka { background: #107c10; } .kb { background: #d13438; } .kx { background: #0078d4; } .ky { background: #c19c00; }
+  .km { background: #555; }
+
+  /* "You found them all" box */
+  #win {
+    position: fixed; inset: 0; background: rgba(255,255,255,.85);
+    display: none; align-items: center; justify-content: center; padding: 16px;
+  }
+  #win.show { display: flex; }
+  #win .box {
+    background: var(--yellow); border-radius: 8px; padding: 36px 32px;
+    text-align: center; max-width: 360px; box-shadow: 0 4px 24px rgba(0,0,0,.15);
+  }
+  #win h2 { margin: 0 0 8px; font-family: Georgia, serif; font-size: 34px; }
+  #win p { margin: 0 0 20px; font-size: 18px; }
+  #win button {
+    font: inherit; font-size: 17px; font-weight: bold; padding: 13px 28px;
+    border: 0; border-radius: 999px; background: #000; color: #fff; cursor: pointer;
+  }
+
+  .title h1, .title span { white-space: nowrap; }
+  @media (max-width: 520px) {
+    header { padding: 12px 16px; }
+    .title span { display: none; }
+    .title h1 { font-size: 24px; }
+    .top-buttons button { padding: 9px 14px; }
+  }
+  @media (max-width: 760px) {
+    main { flex-direction: column; gap: 8px; padding: 12px 16px; }
+    .side { gap: 10px; }
+    .found { min-height: 0; }
+    .found ul { columns: 2; }
+    #msg { margin-top: 4px; }
+    .help { display: none; }
+  }
+  @media (max-width: 360px) {
+    .hive { transform: scale(.88); margin: 0; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="title">
+    <h1>Spelling Bee</h1>
+    <span>for Murilo</span>
+  </div>
+  <div class="top-buttons">
+    <button id="reset" title="Clear your words, keep the same letters">Reset</button>
+    <button id="restart" title="New letters">Restart</button>
+  </div>
+</header>
+
+<main>
+  <section class="play">
+    <div id="msg"></div>
+    <div id="word"></div>
+    <div class="hive" id="hive"></div>
+    <div class="controls">
+      <button id="del">Delete</button>
+      <button id="shuffle" class="round" title="Shuffle">⟳</button>
+      <button id="enter">Enter</button>
+    </div>
+    <div id="pad-help">
+      <span><b class="ka">A</b>press</span>
+      <span><b class="kb">B</b>delete</span>
+      <span><b class="kx">X</b>shuffle</span>
+      <span><b class="ky">Y</b>enter</span>
+      <span><b class="km">⧉</b>reset</span>
+      <span><b class="km">☰</b>new letters</span>
+    </div>
+  </section>
+
+  <section class="side">
+    <div class="rank">
+      <b id="rank">Beginner</b>
+      <div class="track">
+        <div class="line"></div>
+        <div class="fill" id="fill"></div>
+        <div class="dots" id="dots"></div>
+      </div>
+    </div>
+    <div class="found">
+      <h2 id="count">You have found 0 words</h2>
+      <ul id="list"></ul>
+    </div>
+    <p class="help">
+      Make words with at least 3 letters. Every word must use the yellow
+      letter in the middle. Letters can be used more than once.
+      A word that uses all 7 letters is a <b>pangram</b> and gets 7 bonus points.
+      Press <b>Reset</b> to clear your words and start these letters again,
+      or <b>Restart</b> for new letters.
+    </p>
+  </section>
+</main>
+
+<div id="win">
+  <div class="box">
+    <h2>Queen Bee!</h2>
+    <p>You found every word.</p>
+    <button id="again">Play again</button>
+  </div>
+</div>
+
+<script src="words.js"></script>
+<script>
+(() => {
+  const MIN_LEN = 3;
+  const MIN_WORDS = 20, MAX_WORDS = 70;
+  const RANKS = [
+    [0, "Beginner"], [0.02, "Good Start"], [0.05, "Moving Up"], [0.08, "Good"],
+    [0.15, "Solid"], [0.25, "Nice"], [0.4, "Great"], [0.5, "Amazing"], [0.7, "Genius"]
+  ];
+
+  // Each word with the set of letters it uses, as a bitmask (a = bit 0).
+  const mask = w => { let m = 0; for (const ch of w) m |= 1 << (ch.charCodeAt(0) - 97); return m; };
+  const dict = WORDS.filter(w => w.length >= MIN_LEN).map(w => ({ w, m: mask(w) }));
+  const bitCount = m => { let n = 0; while (m) { m &= m - 1; n++; } return n; };
+  // Words with exactly 7 different letters can become the puzzle's pangram.
+  const pangramWords = dict.filter(d => bitCount(d.m) === 7);
+  const VOWEL_MASK = mask("aeiou");
+
+  let letters, center, answers, found, score, total, typed = "";
+  const recent = [];
+
+  function newPuzzle() {
+    for (let tries = 0; tries < 5000; tries++) {
+      const p = pangramWords[Math.floor(Math.random() * pangramWords.length)];
+      if (!(p.m & VOWEL_MASK)) continue;               // always at least one vowel
+      if (recent.includes(p.m)) continue;              // don't repeat a recent puzzle
+      const set = [...new Set(p.w)];
+      const c = set[Math.floor(Math.random() * set.length)];
+      const cBit = mask(c);
+      const list = dict.filter(d => (d.m & ~p.m) === 0 && (d.m & cBit)).map(d => d.w);
+      if (list.length < MIN_WORDS || list.length > MAX_WORDS) continue;
+      recent.push(p.m); if (recent.length > 50) recent.shift();
+      center = c;
+      letters = set.filter(l => l !== c);
+      answers = new Set(list);
+      total = list.reduce((s, w) => s + points(w), 0);
+      drawHive();
+      reset();
+      return;
+    }
+  }
+
+  // Same letters, but clear the words found and the score.
+  function reset() {
+    found = []; score = 0; typed = ""; clearSoon = false;
+    drawWord(); drawFound(); drawScore();
+    document.getElementById("msg").innerHTML = "";
+    document.getElementById("win").classList.remove("show");
+  }
+
+  const isPangram = w => new Set(w).size === 7;
+  // Short words (3 or 4 letters) are worth 1 point, longer words 1 point per letter.
+  const points = w => (w.length <= 4 ? 1 : w.length) + (isPangram(w) ? 7 : 0);
+
+  // ---- drawing ----
+  function drawHive() {
+    const hive = document.getElementById("hive");
+    hive.innerHTML = "";
+    // Center, then the six around it, with a small gap between the cells.
+    const W = 96, H = 83, GAP = 1.06;
+    const cx = 150 - W / 2, cy = 145 - H / 2;
+    const around = [[0, -1], [0.75, -0.5], [0.75, 0.5], [0, 1], [-0.75, 0.5], [-0.75, -0.5]];
+    const spots = [[0, 0], ...around];
+    [center, ...letters].forEach((l, i) => {
+      const b = document.createElement("button");
+      b.textContent = l;
+      b.style.left = cx + spots[i][0] * W * GAP + "px";
+      b.style.top = cy + spots[i][1] * H * GAP + "px";
+      if (i === 0) b.className = "center";
+      b.onclick = () => addLetter(l);
+      hive.appendChild(b);
+    });
+    showSel();
+  }
+
+  function drawWord() {
+    const el = document.getElementById("word");
+    el.innerHTML = [...typed].map(ch =>
+      `<span class="${ch === center ? "c" : letters.includes(ch) ? "" : "x"}">${ch}</span>`).join("");
+  }
+
+  function drawFound() {
+    const n = found.length;
+    document.getElementById("count").textContent =
+      `You have found ${n} of ${answers.size} words`;
+    document.getElementById("list").innerHTML = [...found].sort()
+      .map(w => `<li class="${isPangram(w) ? "pangram" : ""}">${w}</li>`).join("");
+  }
+
+  function drawScore() {
+    const frac = total ? score / total : 0;
+    let at = 0;
+    RANKS.forEach(([f], i) => { if (frac >= f) at = i; });
+    document.getElementById("rank").textContent = RANKS[at][1];
+    document.getElementById("dots").innerHTML = RANKS.map((r, i) =>
+      i === at ? `<i class="now">${score}</i>`
+               : `<i class="${i < at ? "on" : ""}${i === RANKS.length - 1 ? " last" : ""}"></i>`).join("");
+    document.getElementById("fill").style.width = (at / (RANKS.length - 1)) * 100 + "%";
+  }
+
+  let msgTimer;
+  function say(text, bad) {
+    const el = document.getElementById("msg");
+    el.innerHTML = `<span class="${bad ? "bad" : ""}">${text}</span>`;
+    clearTimeout(msgTimer);
+    msgTimer = setTimeout(() => el.innerHTML = "", 1600);
+  }
+
+  function shake() {
+    const el = document.getElementById("word");
+    el.classList.remove("shake"); void el.offsetWidth; el.classList.add("shake");
+  }
+
+  // ---- playing ----
+  // After a wrong word, the letters stay on screen for a moment; the next key press starts fresh.
+  let clearSoon = false;
+  function startFresh() { if (clearSoon) { clearSoon = false; typed = ""; } }
+  function addLetter(l) { startFresh(); if (typed.length < 19) { typed += l; drawWord(); } }
+  function del() { startFresh(); typed = typed.slice(0, -1); drawWord(); }
+
+  function shuffle() {
+    for (let i = letters.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [letters[i], letters[j]] = [letters[j], letters[i]];
+    }
+    drawHive();
+  }
+
+  function enter() {
+    startFresh();
+    const w = typed;
+    if (!w) return;
+    let problem = null;
+    if (w.length < MIN_LEN) problem = "Too short";
+    else if (![...w].every(ch => ch === center || letters.includes(ch))) problem = "Bad letters";
+    else if (!w.includes(center)) problem = "Missing center letter";
+    else if (found.includes(w)) problem = "Already found";
+    else if (!answers.has(w)) problem = "Not in word list";
+
+    if (problem) {
+      say(problem, true); shake();
+      clearSoon = true;
+      setTimeout(() => { if (clearSoon) { clearSoon = false; typed = ""; drawWord(); } }, 400);
+      return;
+    }
+
+    found.push(w);
+    const p = points(w);
+    score += p;
+    typed = "";
+    say(isPangram(w) ? `Pangram! +${p}` : `${w.length >= 7 ? "Awesome!" : w.length >= 5 ? "Nice!" : "Good!"} +${p}`);
+    drawWord(); drawFound(); drawScore();
+    if (found.length === answers.size) setTimeout(() => { document.getElementById("win").classList.add("show"); showSel(); }, 700);
+  }
+
+  document.getElementById("del").onclick = del;
+  document.getElementById("enter").onclick = enter;
+  document.getElementById("shuffle").onclick = shuffle;
+  document.getElementById("restart").onclick = newPuzzle;
+  document.getElementById("reset").onclick = reset;
+  document.getElementById("again").onclick = newPuzzle;
+
+  // Keep buttons from taking keyboard focus, so pressing Enter or Space never "clicks" one by accident.
+  document.addEventListener("mousedown", e => { if (e.target.closest("button")) e.preventDefault(); });
+
+  document.addEventListener("keydown", e => {
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    if (e.key === "Enter") { e.preventDefault(); enter(); }
+    else if (e.key === "Backspace") { e.preventDefault(); del(); }
+    else if (e.key === " ") { e.preventDefault(); shuffle(); }
+    else if (/^[a-z]$/i.test(e.key)) addLetter(e.key.toLowerCase());
+  });
+
+  // ---- Xbox / game controller ----
+  // Move the highlight with the d-pad or left stick, A presses it.
+  // B delete, X shuffle, Y enter, View reset, Menu new letters.
+  try { navigator.gamepadInputEmulation = "gamepad"; } catch (e) {}
+  let sel = null;                       // highlighted button
+  const targets = () => {
+    const win = document.getElementById("win");
+    if (win.classList.contains("show")) return [document.getElementById("again")];
+    return [...document.querySelectorAll("#hive button, .controls button, .top-buttons button")];
+  };
+  const centerOf = el => { const r = el.getBoundingClientRect(); return [r.left + r.width / 2, r.top + r.height / 2]; };
+  function showSel() {
+    const list = targets();
+    if (!document.body.classList.contains("pad")) return;
+    // after the hive is redrawn, keep the highlight on the same spot
+    if (sel && !list.includes(sel)) {
+      const i = sel.dataset.slot;
+      sel = i != null ? document.querySelectorAll("#hive button")[i] : null;
+    }
+    if (!sel || !list.includes(sel)) sel = document.querySelector("#hive .center") && list.length > 1 ? document.querySelector("#hive .center") : list[0];
+    document.querySelectorAll(".sel").forEach(el => el.classList.remove("sel"));
+    sel.classList.add("sel");
+    [...document.querySelectorAll("#hive button")].forEach((b, i) => b.dataset.slot = i);
+  }
+  // Pick the closest button in the direction pushed.
+  function move(dx, dy) {
+    const [x, y] = centerOf(sel);
+    let best = null, bestScore = Infinity;
+    for (const el of targets()) {
+      if (el === sel) continue;
+      const [ex, ey] = centerOf(el);
+      const along = (ex - x) * dx + (ey - y) * dy;      // distance in the pushed direction
+      const side = Math.abs((ex - x) * dy - (ey - y) * dx); // distance off to the side
+      if (along <= 10) continue;
+      const score = along + side * 2;
+      if (score < bestScore) { bestScore = score; best = el; }
+    }
+    if (best) { sel = best; showSel(); }
+  }
+
+  const held = {};       // button/direction -> time it was first pressed (for repeats)
+  const ready = {};      // only count a button after it has been seen released once
+  function pressed(name, down, repeat) {
+    if (!down) { ready[name] = true; delete held[name]; return false; }
+    if (!ready[name]) return false;
+    const now = performance.now();
+    if (held[name] == null) { held[name] = now; held[name + "@"] = now; return true; }
+    if (repeat && now - held[name] > 400 && now - held[name + "@"] > 140) { held[name + "@"] = now; return true; }
+    return false;
+  }
+  function padLoop() {
+    const pads = navigator.getGamepads ? [...navigator.getGamepads()].filter(p => p && p.connected) : [];
+    for (const p of pads) {
+      const btn = n => !!(p.buttons[n] && (p.buttons[n].pressed || p.buttons[n].value > 0.5));
+      const ax = p.axes[0] || 0, ay = p.axes[1] || 0;
+      const k = p.index + ":";
+      const acts = [
+        ["up",    btn(12) || ay < -0.5, true,  () => move(0, -1)],
+        ["down",  btn(13) || ay > 0.5,  true,  () => move(0, 1)],
+        ["left",  btn(14) || ax < -0.5, true,  () => move(-1, 0)],
+        ["right", btn(15) || ax > 0.5,  true,  () => move(1, 0)],
+        ["a",     btn(0), false, () => sel.click()],
+        ["b",     btn(1), true,  del],
+        ["x",     btn(2), false, shuffle],
+        ["y",     btn(3), false, enter],
+        ["view",  btn(8), false, reset],
+        ["menu",  btn(9), false, newPuzzle],
+      ];
+      for (const [name, down, repeat, act] of acts) {
+        if (pressed(k + name, down, repeat)) {
+          if (!document.body.classList.contains("pad")) {
+            document.body.classList.add("pad"); showSel();
+            if (name !== "a") continue;   // first touch just shows the highlight
+          }
+          act(); showSel();
+        }
+      }
+    }
+    requestAnimationFrame(padLoop);
+  }
+  requestAnimationFrame(padLoop);
+  // Using the mouse or a touch screen hides the controller highlight again.
+  addEventListener("pointerdown", e => {
+    if (e.pointerType === "mouse" || e.pointerType === "touch") {
+      document.body.classList.remove("pad");
+      document.querySelectorAll(".sel").forEach(el => el.classList.remove("sel"));
+    }
+  });
+
+  // Edge on Xbox treats the B button as the browser's Back button. Keep an extra
+  // history entry on top so Back stays in the game (same trick as Super Murilo).
+  if (/xbox/i.test(navigator.userAgent)) {
+    let guarded = false;
+    const guard = () => {
+      if (guarded) return;
+      try { history.pushState({ bee: true }, ""); guarded = true; } catch (e) {}
+    };
+    for (const type of ["pointerdown", "keydown"]) addEventListener(type, guard);
+    addEventListener("popstate", () => { guarded = false; guard(); });
+  }
+
+  // On a big screen (like a TV), make everything bigger so it fills the screen.
+  function fitScreen() {
+    const z = Math.min(innerWidth / 1100, innerHeight / 720);
+    document.body.style.zoom = innerWidth > 760 && z > 1.1 ? z : "";
+  }
+  addEventListener("resize", fitScreen);
+  fitScreen();
+
+  newPuzzle();
+})();
+</script>
+</body>
+</html>
