@@ -223,6 +223,8 @@ class Stage {
     if (bd && !this.arenaLocked && p.x > (bd.arenaX + 1) * T) {
       this.arenaLocked = true;
       for (let y = 1; y < 13; y++) this.grid[y][bd.arenaX] = 'S';
+      // a Goober standing in the doorway would be stuck inside the new wall
+      for (const e of this.enemies) if (e.x + e.w > bd.arenaX * T && e.x < (bd.arenaX + 1) * T) e.dead = true;
       this.boss = { x: bd.x * T, y: 13 * T - 68, w: 76, h: 68, vx: -1.5, vy: 0, hp: this.diff.bossHp, maxHp: this.diff.bossHp, inv: 0,
                     jumpT: 90, spitT: 160, dead: false, onGround: true, face: -1 };
       this.shake = 20; sfx.thud(); rumble(this.slot, 300, 0.7);
@@ -449,9 +451,16 @@ class Stage {
         it.vy = Math.min(it.vy + 0.5, 10);
         this.moveEntity(it);
       } else {
-        it.vy = Math.min(it.vy + 0.15, 1.2);
-        it.y += it.vy;
-        it.x += Math.sin(it.t * 0.06) * 1.6;
+        // the cape floats down, swaying, and settles on the ground instead of falling through it
+        const below = this.solidAt(Math.floor((it.x + it.w / 2) / T), Math.floor((it.y + it.h + it.vy) / T));
+        if (it.landed || (it.vy > 0 && below)) {
+          if (!it.landed) { it.landed = true; it.y = Math.floor((it.y + it.h + it.vy) / T) * T - it.h; }
+        } else {
+          it.vy = Math.min(it.vy + 0.15, 1.2);
+          it.y += it.vy;
+          const nx = it.x + Math.sin(it.t * 0.06) * 1.6;
+          if (!this.solidAt(Math.floor((nx + it.w / 2) / T), Math.floor((it.y + it.h / 2) / T))) it.x = nx;
+        }
       }
       if (it.y > VH + 40) it.gone = true;
       if (this.state === 'play' && overlap(p, it)) {
