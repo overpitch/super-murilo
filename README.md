@@ -13,16 +13,9 @@ Works in Chrome, Edge and Safari, and in **Microsoft Edge on Xbox** with control
 2. **Hold the Menu ☰ button** for about a second so the controller plays the game instead of moving the cursor.
 3. For the race, connect a second controller.
 
-## Spelling Bee
+## Word Hive
 
-A second game in the `spelling bee game` folder: **https://overpitch.github.io/super-murilo/bee**
-
-- Make words of 3 or more letters from the 7 letters in the honeycomb. Every word must use the yellow middle letter, and every puzzle has at least one vowel.
-- A word that uses all 7 letters (a pangram) gets 7 bonus points.
-- **Shuffle** mixes up the letters. **Reset** clears your words and keeps the letters. **Restart** gives new letters. You can play as many puzzles as you like.
-- **Xbox controller:** d-pad or left stick moves the highlight, **A** presses it, **B** deletes, **X** shuffles, **Y** enters the word, **View ⧉** resets, **Menu ☰** gives new letters. Hold **Menu ☰** for a second first, like in Super Murilo.
-- Keyboard: type letters, **Enter** to submit, **Backspace** to delete, **Space** to shuffle.
-- The words puzzles are built from (common words, slang, animals, food, sports and colors) are in `spelling bee game/words.js`. Other real words count as **bonus words** (`spelling bee game/bonus.js`): they score points but aren't needed to finish.
+The word game that used to be here is now its own project: **https://overpitch.github.io/word-hive/** ([repo](https://github.com/overpitch/word-hive)). The old `/bee` address forwards there.
 
 ## Play it on this computer
 
